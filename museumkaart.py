@@ -22,7 +22,7 @@ def write_csv(data):
                     url = museum["link"]
                     address, hours = get_address_hours(url)
                     lat, long = get_lat_long(f"{address}, {city}, {province}, Netherlands")
-                    f.write(f'{province},{city},"{name}","{url}",{address},"{hours}",{lat},{long}\n')
+                    f.write(f'"{province}","{city}","{name}","{url}",{address},"{hours}",{lat},{long}\n')
                     print("  " + name)
 
 def get_address_hours(url):
@@ -33,6 +33,7 @@ def get_address_hours(url):
     try:
         hours = soup.find("p", {"class": "museum-details__openinghours"}).text.replace('"', '""')
     except:
+        print("ERROR with hours: " + url)
         hours = ""
     return (address, hours)
 
@@ -41,6 +42,7 @@ def get_lat_long(address):
     location = geolocator.geocode(address)
     if location is not None:
         return (location.latitude, location.longitude)
+    print("ERROR with lat/long: " + address)
     return (None, None)
 
 def main():

@@ -1,120 +1,120 @@
 Province,City,Museum,url,address,hours,lat,long
-Drenthe,ASSEN,"Drents Museum","/museum/Drents+Museum.aspx",Brink 1,"di t/m zo + feestdagen 11-17 u
+"Drenthe","ASSEN","Drents Museum","/museum/Drents+Museum.aspx",Brink 1,"di t/m zo + feestdagen 11-17 u
 gesloten op 1 jan + 25 dec",52.993865,6.5626301
-Drenthe,BORGER,"Hunebedcentrum","/museum/Hunebedcentrum.aspx",Hunebedstraat 27,"ma t/m vr 10-17 u, za, zo + feestdagen 11-17 u
+"Drenthe","BORGER","Hunebedcentrum","/museum/Hunebedcentrum.aspx",Hunebedstraat 27,"ma t/m vr 10-17 u, za, zo + feestdagen 11-17 u
 gesloten op 1 jan, 25 + 31 dec",52.9306763,6.7986668
-Drenthe,COEVORDEN,"Stedelijk Museum Coevorden","/museum/Stedelijk+Museum+Coevorden.aspx",Haven 4,"di t/m za, 9.30-17 u, zo 12-17 u",52.66137,6.74281
-Drenthe,EELDE,"Internationaal Klompenmuseum","/museum/Internationaal+Klompenmuseum.aspx",Wolfhorn 1,"apr t/m okt: di t/m zo 14-17 u",53.1378227,6.568406
-Drenthe,EELDE,"Museum de Buitenplaats","/museum/Museum+de+Buitenplaats.aspx",Hoofdweg 76,"di t/m zo, 2e Paas-en Pinksterdag 11-17 u
+"Drenthe","COEVORDEN","Stedelijk Museum Coevorden","/museum/Stedelijk+Museum+Coevorden.aspx",Haven 4,"di t/m za, 9.30-17 u, zo 12-17 u",52.66137,6.74281
+"Drenthe","EELDE","Internationaal Klompenmuseum","/museum/Internationaal+Klompenmuseum.aspx",Wolfhorn 1,"apr t/m okt: di t/m zo 14-17 u",53.1378227,6.568406
+"Drenthe","EELDE","Museum de Buitenplaats","/museum/Museum+de+Buitenplaats.aspx",Hoofdweg 76,"di t/m zo, 2e Paas-en Pinksterdag 11-17 u
 1 jan, 25 + 31 dec gesloten",53.1333908,6.5635436
-Drenthe,MEPPEL,"Drukkerijmuseum Meppel","/museum/Drukkerijmuseum+Meppel.aspx",Kleine Oever  11,"di t/m za 13-17 u (op zaterdag geen demonstraties)
+"Drenthe","MEPPEL","Drukkerijmuseum Meppel","/museum/Drukkerijmuseum+Meppel.aspx",Kleine Oever  11,"di t/m za 13-17 u (op zaterdag geen demonstraties)
 gesloten op feestdagen",52.6965555,6.1889716
-Drenthe,NIEUW DORDRECHT,"Collectie Brands","/museum/Collectie+Brands.aspx",Herenstreek 11a,"",52.7502172,6.9702346
-Drenthe,RODEN,"Speelgoedmuseum Kinderwereld Roden","/museum/Speelgoedmuseum+Kinderwereld+Roden.aspx",Brink  31,"di t/m zo + feestdagen 11-17 u
+"Drenthe","NIEUW DORDRECHT","Collectie Brands","/museum/Collectie+Brands.aspx",Herenstreek 11a,"",52.7502172,6.9702346
+"Drenthe","RODEN","Speelgoedmuseum Kinderwereld Roden","/museum/Speelgoedmuseum+Kinderwereld+Roden.aspx",Brink  31,"di t/m zo + feestdagen 11-17 u
 ma tijdens schoolvakanties & op afspraak voor groepen vanaf 20 pers
 raadpleeg museumwebsite voor afwijkende openingstijden rondom feestdagen",53.1351873,6.432217
-Drenthe,VEENHUIZEN,"Nationaal Gevangenismuseum","/museum/Nationaal+Gevangenismuseum.aspx",Oude Gracht  1,"di t/m zo, feestdagen en ma in de schoolvakanties 10-17 u
+"Drenthe","VEENHUIZEN","Nationaal Gevangenismuseum","/museum/Nationaal+Gevangenismuseum.aspx",Oude Gracht  1,"di t/m zo, feestdagen en ma in de schoolvakanties 10-17 u
 gesloten op 1 jan, 25 + 31 dec",53.0419867,6.3900413
-Drenthe,VLEDDER,"Miramar Zeemuseum","/museum/Miramar+Zeemuseum.aspx",Vledderweg  25,"apr t/m okt, kerstvakantie + voorjaarsvakantie
+"Drenthe","VLEDDER","Miramar Zeemuseum","/museum/Miramar+Zeemuseum.aspx",Vledderweg  25,"apr t/m okt, kerstvakantie + voorjaarsvakantie
 di t/m vr 11-17 u, za, zo + feestdagen 13-17 u
 2e Paasdag + 2e Pinksterdag geopend
 gesloten op 1 jan, 27 apr, 25, 26 + 31 dec",52.8503521,6.1964
-Drenthe,ZUIDWOLDE,"Museum De Wemme","/museum/Museum+De+Wemme.aspx",Burg. Tonckensstraat 49,"apr t/m okt
+"Drenthe","ZUIDWOLDE","Museum De Wemme","/museum/Museum+De+Wemme.aspx",Burg. Tonckensstraat 49,"apr t/m okt
 di t/m vr: 10-17 u, za + zo: 13.30-17 u
 tijdens feestdagen geopend",52.6666449,6.4186128
-Flevoland,ALMERE,"Veiligheidsmuseum PIT ","/museum/Veiligheidsmuseum+PIT+.aspx",Schipperplein 4,"di t/m zo 11-17 u (tijdens schoolvakanties (m.u.v. zomervakantie), 2e Paasdag + 2e Pinksterdag ook op ma)
+"Flevoland","ALMERE","Veiligheidsmuseum PIT ","/museum/Veiligheidsmuseum+PIT+.aspx",Schipperplein 4,"di t/m zo 11-17 u (tijdens schoolvakanties (m.u.v. zomervakantie), 2e Paasdag + 2e Pinksterdag ook op ma)
 gesloten op 1 jan, 27 apr + 25 dec",52.3675344,5.2154301
-Flevoland,LELYSTAD,"Batavialand","/museum/Batavialand.aspx",Oostvaardersdijk 113,"ma t/m za 10-17 u
+"Flevoland","LELYSTAD","Batavialand","/museum/Batavialand.aspx",Oostvaardersdijk 113,"ma t/m za 10-17 u
 zo 11-17 u 
 Op 5, 24 + 31 dec tot 15 u (kassa tot 13.30 u geopend) 
 ​gesloten op 1 jan + 25 dec",52.5123215,5.4361647
-Flevoland,LELYSTAD,"Aviodrome","/museum/Aviodrome.aspx",Pelikaanweg  50,"di t/m zo + ma in schoolvakanties 10-17 u
+"Flevoland","LELYSTAD","Aviodrome","/museum/Aviodrome.aspx",Pelikaanweg  50,"di t/m zo + ma in schoolvakanties 10-17 u
 zie ook website",52.4573339,5.52954680909405
-Flevoland,SCHOKLAND,"Museum Schokland","/museum/Museum+Schokland.aspx",Middelbuurt 3,"di t/m zo, 11-17 u
+"Flevoland","SCHOKLAND","Museum Schokland","/museum/Museum+Schokland.aspx",Middelbuurt 3,"di t/m zo, 11-17 u
 in schoolvakanties en op feestdagen ook op ma
 gesloten op 1 jan + 25 dec",52.6348727,5.7775474
-Flevoland,URK,"Het Oude Raadhuis Urk","/museum/Het+Oude+Raadhuis+Urk.aspx",Wijk 2-2,"apr t/m okt: ma t/m vr 10-17 u, za 10-16 u
+"Flevoland","URK","Het Oude Raadhuis Urk","/museum/Het+Oude+Raadhuis+Urk.aspx",Wijk 2-2,"apr t/m okt: ma t/m vr 10-17 u, za 10-16 u
 nov t/m mrt: ma t/m za 10-16 u
 gesloten op feestdagen",52.6612526,5.5961335
-Friesland,BOLSWARD,"Titus Brandsma Museum","/museum/Titus+Brandsma+Museum.aspx",Grote Dijlakker 11,"half mrt tot half nov: di t/m za, 13-17 u",53.0632121,5.5230649
-Friesland,BUITENPOST,"Botanische Tuin De Kruidhof","/museum/Botanische+Tuin+De+Kruidhof.aspx",Schoolstraat  29 - B,"apr t/m half okt: di t/m za 10-17 u, zo 12-17 u
+"Friesland","BOLSWARD","Titus Brandsma Museum","/museum/Titus+Brandsma+Museum.aspx",Grote Dijlakker 11,"half mrt tot half nov: di t/m za, 13-17 u",53.0632121,5.5230649
+"Friesland","BUITENPOST","Botanische Tuin De Kruidhof","/museum/Botanische+Tuin+De+Kruidhof.aspx",Schoolstraat  29 - B,"apr t/m half okt: di t/m za 10-17 u, zo 12-17 u
 2e Pinksterdag, 10-17 u",53.25568,6.14051
-Friesland,BUREN-AMELAND,"Landbouw-Juttersmuseum 'Swartwoude'","/museum/Landbouw-Juttersmuseum+%27Swartwoude%27.aspx",Hoofdweg 1,"verschillen per seizoen, raadpleeg de website",53.4473538,5.7968952
-Friesland,BURGUM,"Observeum Burgum","/museum/Observeum+Burgum.aspx",Menno van Coehoornweg 9,"di t/m zo 13-17 u, vr 19-22 u
+"Friesland","BUREN-AMELAND","Landbouw-Juttersmuseum 'Swartwoude'","/museum/Landbouw-Juttersmuseum+%27Swartwoude%27.aspx",Hoofdweg 1,"verschillen per seizoen, raadpleeg de website",53.4473538,5.7968952
+"Friesland","BURGUM","Observeum Burgum","/museum/Observeum+Burgum.aspx",Menno van Coehoornweg 9,"di t/m zo 13-17 u, vr 19-22 u
 groepen op afspraak",53.2036152,6.0004554
-Friesland,DOKKUM,"Museum Dokkum","/museum/Museum+Dokkum.aspx",Diepswal  27,"ma t/m za 10-17 u, koopzondag 13-17 u
+"Friesland","DOKKUM","Museum Dokkum","/museum/Museum+Dokkum.aspx",Diepswal  27,"ma t/m za 10-17 u, koopzondag 13-17 u
  ",53.3254033,6.0003796
-Friesland,DRACHTEN,"Museum Drachten ","/museum/Museum+Drachten+.aspx",Museumplein  2,"di t/m zo 11-17 u
+"Friesland","DRACHTEN","Museum Drachten ","/museum/Museum+Drachten+.aspx",Museumplein  2,"di t/m zo 11-17 u
 
  ",53.1043396,6.0975412
-Friesland,EARNEWALD,"Fries Landbouw Museum","/museum/Fries+Landbouw+Museum.aspx",Koaidyk 8b,"23 jun t/m 31 okt
+"Friesland","EARNEWALD","Fries Landbouw Museum","/museum/Fries+Landbouw+Museum.aspx",Koaidyk 8b,"23 jun t/m 31 okt
 di t/m vr 11-17 u
 za + zo 13-17 u
 In zomer- en schoolvakanties ook op ma geopend",53.1299117,5.9450263
-Friesland,FRANEKER,"Museum Martena","/museum/Museum+Martena.aspx",Voorstraat  35,"di t/m zo 11-17 u",53.1864174,5.542203
-Friesland,GORREDIJK,"Museum Opsterlân","/museum/Museum+Opsterl%c3%a2n.aspx",Hoofdstraat 59,"di t/m vr 11-17 u, za + zo 13-17 u",53.0019401,6.0633606
-Friesland,HARKEMA,"Openluchtmuseum en Themapark De Spitkeet","/museum/Openluchtmuseum+en+Themapark+De+Spitkeet.aspx",De Dunen 3,"apr t/m okt: di-za 10-17 u, zo 13-17 u
+"Friesland","FRANEKER","Museum Martena","/museum/Museum+Martena.aspx",Voorstraat  35,"di t/m zo 11-17 u",53.1864174,5.542203
+"Friesland","GORREDIJK","Museum Opsterlân","/museum/Museum+Opsterl%c3%a2n.aspx",Hoofdstraat 59,"di t/m vr 11-17 u, za + zo 13-17 u",53.0019401,6.0633606
+"Friesland","HARKEMA","Openluchtmuseum en Themapark De Spitkeet","/museum/Openluchtmuseum+en+Themapark+De+Spitkeet.aspx",De Dunen 3,"apr t/m okt: di-za 10-17 u, zo 13-17 u
 
 ",53.1791353,6.1190321
-Friesland,HARLINGEN,"Hannemahuis","/museum/Hannemahuis.aspx",Voorstraat 56,"di t/m zo, 12-17 u
+"Friesland","HARLINGEN","Hannemahuis","/museum/Hannemahuis.aspx",Voorstraat 56,"di t/m zo, 12-17 u
 gesloten op 1 jan, 1e Paas- en Pinksterdag, 27 apr, 25, 30 + 31 dec",53.1745805,5.4192419
-Friesland,HEERENVEEN,"Heerenveen Museum ","/museum/Heerenveen+Museum+.aspx",Minckelersstraat 11,"di t/m vr 11-17 u, za/zo 13-17 u
+"Friesland","HEERENVEEN","Heerenveen Museum ","/museum/Heerenveen+Museum+.aspx",Minckelersstraat 11,"di t/m vr 11-17 u, za/zo 13-17 u
 gesloten op 1 jan, 1e Paasdag, 27 apr, Hemelvaartsdag, 1e Pinksterdag, 25 + 31 dec",52.9599609,5.9258696
-Friesland,HEERENVEEN,"Museum Belvédère","/museum/Museum+Belv%c3%a9d%c3%a8re.aspx",Oranje Nassaulaan 12,"di t/m zo 11-17 u
+"Friesland","HEERENVEEN","Museum Belvédère","/museum/Museum+Belv%c3%a9d%c3%a8re.aspx",Oranje Nassaulaan 12,"di t/m zo 11-17 u
 gesloten op 1 jan + 25 dec + 2e pinksterdag",52.957933,5.9619512
-Friesland,HINDELOOPEN,"Museum Hindeloopen","/museum/Museum+Hindeloopen.aspx",Dijkweg 1 -3,"1 apr t/m 31 okt ma t/m vr 11-17 u, za/zo + feestdagen 13.30-17 u, nov t/m mrt gesloten, buiten het seizoen voor groepen open op afspraak",52.9430884,5.398266
-Friesland,HOLLUM-AMELAND,"Cultuur-Historisch Museum Sorgdrager","/museum/Cultuur-Historisch+Museum+Sorgdrager.aspx",Herenweg 1,"zie website",53.4379894,5.641203
-Friesland,HOLLUM-AMELAND,"Maritiem Centrum ""Abraham Fock""","/museum/Maritiem+Centrum+%22Abraham+Fock%22.aspx",Oranjeweg 18,"verschillend per seizoen, raadpleeg de website",53.4430389,5.6368989
-Friesland,JOURE,"Museum Joure","/museum/Museum+Joure.aspx",Geelgietersstraat 1-11,"ma (mei t/m okt) 13-17 u
+"Friesland","HINDELOOPEN","Museum Hindeloopen","/museum/Museum+Hindeloopen.aspx",Dijkweg 1 -3,"1 apr t/m 31 okt ma t/m vr 11-17 u, za/zo + feestdagen 13.30-17 u, nov t/m mrt gesloten, buiten het seizoen voor groepen open op afspraak",52.9430884,5.398266
+"Friesland","HOLLUM-AMELAND","Cultuur-Historisch Museum Sorgdrager","/museum/Cultuur-Historisch+Museum+Sorgdrager.aspx",Herenweg 1,"zie website",53.4379894,5.641203
+"Friesland","HOLLUM-AMELAND","Maritiem Centrum ""Abraham Fock""","/museum/Maritiem+Centrum+%22Abraham+Fock%22.aspx",Oranjeweg 18,"verschillend per seizoen, raadpleeg de website",53.4430389,5.6368989
+"Friesland","JOURE","Museum Joure","/museum/Museum+Joure.aspx",Geelgietersstraat 1-11,"ma (mei t/m okt) 13-17 u
 di t/m za: 10-17 u
 zo + feestdagen: 13-17 u
 gesloten op 1 jan, 4e do. in sep (Jouster Merke), 25 + 31 dec",52.9679888,5.7969481
-Friesland,KORNWERDERZAND,"Kazemattenmuseum Kornwerderzand","/museum/Kazemattenmuseum+Kornwerderzand.aspx",Afsluitdijk 5,"mei t/m okt: wo + za, 10-17 u
+"Friesland","KORNWERDERZAND","Kazemattenmuseum Kornwerderzand","/museum/Kazemattenmuseum+Kornwerderzand.aspx",Afsluitdijk 5,"mei t/m okt: wo + za, 10-17 u
 jul + aug: di t/m za, 10-17 u, zo 13-17 u
 
 
 
 
  ",53.07338875,5.33392085112952
-Friesland,LEEUWARDEN,"Fries Museum","/museum/Fries+Museum.aspx",Wilhelminaplein 92,"di t/m zo + feestdagen 11-17 u
+"Friesland","LEEUWARDEN","Fries Museum","/museum/Fries+Museum.aspx",Wilhelminaplein 92,"di t/m zo + feestdagen 11-17 u
 gesloten op 1 jan, 27 apr + 25 dec
 
 NB: van 19 mei t/m 28 okt is het Fries Museum - door grote belangstelling voor Escher op reis - een uur eerder open: di t/m zo, 10-17 u
 Ook is het museum open op ma 9, 16 + 23 jul en ma 6, 13, 20 + 27 aug, 13-17 u",53.1995126,5.7944289
-Friesland,LEEUWARDEN,"Verzetsmuseum Friesland","/museum/Verzetsmuseum+Friesland.aspx",Postbus 1239,"di t/m zo, 11-17 u",None,None
-Friesland,LEEUWARDEN,"Keramiekmuseum Princessehof","/museum/Keramiekmuseum+Princessehof.aspx",Grote Kerkstraat  11,"di t/m zo + feestdagen 11-17 u
+"Friesland","LEEUWARDEN","Verzetsmuseum Friesland","/museum/Verzetsmuseum+Friesland.aspx",Postbus 1239,"di t/m zo, 11-17 u",None,None
+"Friesland","LEEUWARDEN","Keramiekmuseum Princessehof","/museum/Keramiekmuseum+Princessehof.aspx",Grote Kerkstraat  11,"di t/m zo + feestdagen 11-17 u
 gesloten op 1 jan, 27 apr + 25 dec
 
  ",53.2029518,5.7919782
-Friesland,LEEUWARDEN,"Natuurmuseum Fryslân","/museum/Natuurmuseum+Frysl%c3%a2n.aspx",Schoenmakersperk  2,"dagelijks, 10-17 u
+"Friesland","LEEUWARDEN","Natuurmuseum Fryslân","/museum/Natuurmuseum+Frysl%c3%a2n.aspx",Schoenmakersperk  2,"dagelijks, 10-17 u
 gesloten op 1 jan, 27 apr, 5 mei + 25 dec",53.2040879,5.7958505
-Friesland,MODDERGAT,"'t Fiskershúske","/museum/%27t+Fiskersh%c3%baske.aspx",Fiskerspaad  4 - 8a,"17 feb t/m 31 okt: ma t/m za 10-17 u, jul + aug ook zo 13-17 u
+"Friesland","MODDERGAT","'t Fiskershúske","/museum/%27t+Fiskersh%c3%baske.aspx",Fiskerspaad  4 - 8a,"17 feb t/m 31 okt: ma t/m za 10-17 u, jul + aug ook zo 13-17 u
 vanaf 31 okt: zo, 12-16 u",53.4049564,6.0759229
-Friesland,NES-AMELAND,"Natuurcentrum Ameland","/museum/Natuurcentrum+Ameland.aspx",Strandweg 38,"tijden verschillend per seizoen, raadpleeg de site voor actuele openingstijden",53.44978,5.775109
-Friesland,NOORDWOLDE,"Nationaal Vlechtmuseum","/museum/Nationaal+Vlechtmuseum.aspx",Mandehof  7,"di t/m za, 10.30 t/m 17 u",52.8915122,6.142906
-Friesland,SLOTEN,"Museum Stedhûs Sleat","/museum/Museum+Stedh%c3%bbs+Sleat.aspx",Heerenwal  48,"apr t/m okt: di t/m vr 11-17 u, za/zo 13-17 u
+"Friesland","NES-AMELAND","Natuurcentrum Ameland","/museum/Natuurcentrum+Ameland.aspx",Strandweg 38,"tijden verschillend per seizoen, raadpleeg de site voor actuele openingstijden",53.44978,5.775109
+"Friesland","NOORDWOLDE","Nationaal Vlechtmuseum","/museum/Nationaal+Vlechtmuseum.aspx",Mandehof  7,"di t/m za, 10.30 t/m 17 u",52.8915122,6.142906
+"Friesland","SLOTEN","Museum Stedhûs Sleat","/museum/Museum+Stedh%c3%bbs+Sleat.aspx",Heerenwal  48,"apr t/m okt: di t/m vr 11-17 u, za/zo 13-17 u
 
 Meer openingstijden
 
 ",52.8947855,5.6456312
-Friesland,SNEEK,"Fries Scheepvaartmuseum","/museum/Fries+Scheepvaartmuseum.aspx",Kleinzand 16,"ma t/m za 10-17 u, zo 12-17
+"Friesland","SNEEK","Fries Scheepvaartmuseum","/museum/Fries+Scheepvaartmuseum.aspx",Kleinzand 16,"ma t/m za 10-17 u, zo 12-17
 gesloten op 1 jan, Hemelvaartsdag, 1e Paas-. Pinkster- + Kerstdag",53.0323069,5.6631018
-Friesland,SNEEK,"Nationaal Modelspoor Museum","/museum/Nationaal+Modelspoor+Museum.aspx",dr. Bounaweg 17b,"di t/m vr + zo, 13-17 u
+"Friesland","SNEEK","Nationaal Modelspoor Museum","/museum/Nationaal+Modelspoor+Museum.aspx",dr. Bounaweg 17b,"di t/m vr + zo, 13-17 u
 za, 10-17 u
 zie website voor ruimere openingstijden tijdens schoolvakanties
 gesloten op 1 jan, 1e Paasdag, 27 apr, Hemelvaart, 1e Pinksterdag, 25 + 31 dec",None,None
-Friesland,TERSCHELLING-WEST,"Museum 't Behouden Huys","/museum/Museum+%27t+Behouden+Huys.aspx",Commandeurstraat 30-32,"apr t/m okt + kerst & krokusvakantie: ma t/m vr, 11-17 u, za + zo 13-17 u               nov t/m mrt: wo, za + zo 13-17 u",53.3576727,5.2146534
-Friesland,VLIELAND,"Museum Tromp's Huys","/museum/Museum+Tromp%27s+Huys.aspx",Dorpsstraat 99,"Schoolvakanties
+"Friesland","TERSCHELLING-WEST","Museum 't Behouden Huys","/museum/Museum+%27t+Behouden+Huys.aspx",Commandeurstraat 30-32,"apr t/m okt + kerst & krokusvakantie: ma t/m vr, 11-17 u, za + zo 13-17 u               nov t/m mrt: wo, za + zo 13-17 u",53.3576727,5.2146534
+"Friesland","VLIELAND","Museum Tromp's Huys","/museum/Museum+Tromp%27s+Huys.aspx",Dorpsstraat 99,"Schoolvakanties
 di t/m vr: 10-17 u, za: 14-17 u, zo: 13-16 u 
 
 Buiten schoolvakanties
 di t/m do: 14-17 u, vr: 10-13 u, za: 14-17 u
 
 gesloten op 1 jan, 27 apr + 25 dec, overige feestdagen kunnen afwijkende openingstijden hebben",53.2953831,5.06745
-Friesland,WORKUM,"Jopie Huisman Museum","/museum/Jopie+Huisman+Museum.aspx",Noard  6,"22 feb t/m 31 mrt + 1 nov t/m 30 dec: ma t/m zo 13-17 u
+"Friesland","WORKUM","Jopie Huisman Museum","/museum/Jopie+Huisman+Museum.aspx",Noard  6,"22 feb t/m 31 mrt + 1 nov t/m 30 dec: ma t/m zo 13-17 u
 1 apr t/m 31 okt: ma t/m za 10-17 u, zo + feestdagen 13-17 u
 1 jan, 25 + 31 dec gesloten",52.9797781,5.4437049
-Friesland,WORKUM,"Warkums Erfskip","/museum/Warkums+Erfskip.aspx",Merk  4,"15 apr t/m 30 jun
+"Friesland","WORKUM","Warkums Erfskip","/museum/Warkums+Erfskip.aspx",Merk  4,"15 apr t/m 30 jun
 dagelijks 13-17 u, Pinkstermaandag gesloten
 
 1 jul t/m 31 aug
@@ -122,28 +122,28 @@ ma t/m za, 10-17 u, zo 13-17 u 
 
 1 sep t/m 31 okt
 dagelijks 13-17 u",52.9792931,5.4431689
-Gelderland,AALTEN,"Nationaal Onderduikmuseum","/museum/Nationaal+Onderduikmuseum.aspx",Markt  14,"di t/m za: 10-17 u, zo: 13-17 u
+"Gelderland","AALTEN","Nationaal Onderduikmuseum","/museum/Nationaal+Onderduikmuseum.aspx",Markt  14,"di t/m za: 10-17 u, zo: 13-17 u
 gesloten op 1 jan, 1e Paasdag, 27 apr, 1e Pinksterdag, 25 + 26 dec",51.9276541,6.5814711
-Gelderland,AMMERZODEN,"Kasteel Ammersoyen","/museum/Kasteel+Ammersoyen.aspx",Kasteellaan 1,"nov t/m mrt wo + zo, 11-17 u
+"Gelderland","AMMERZODEN","Kasteel Ammersoyen","/museum/Kasteel+Ammersoyen.aspx",Kasteellaan 1,"nov t/m mrt wo + zo, 11-17 u
 apr t/m okt di t/m zo, 11-17 u
 schoolvakanties, zie website
 gesloten op 1 jan, 26 feb, 3 jun, 25, 26 + 31 dec",51.75156565,5.2295603982254
-Gelderland,APELDOORN,"CODA","/museum/CODA.aspx",Vosselmanstraat  299,"di t/m vr: 10-17.30 u, za 10-17 u, zo 13-17 u
+"Gelderland","APELDOORN","CODA","/museum/CODA.aspx",Vosselmanstraat  299,"di t/m vr: 10-17.30 u, za 10-17 u, zo 13-17 u
 gesloten op 1 jan, 1e Paasdag, 1e Pinksterdag + 25 dec",52.2154066,5.9584471
-Gelderland,APELDOORN,"Paleis Het Loo","/museum/Paleis+Het+Loo.aspx",Amersfoortseweg,"Paleis Het Loo is tot medio 2021 gesloten.  De tuinen, stallen, museumwinkel, restaurants en het Kinderatelier zijn wel open van 30 maart t/m 30 september. 
+"Gelderland","APELDOORN","Paleis Het Loo","/museum/Paleis+Het+Loo.aspx",Amersfoortseweg,"Paleis Het Loo is tot medio 2021 gesloten.  De tuinen, stallen, museumwinkel, restaurants en het Kinderatelier zijn wel open van 30 maart t/m 30 september. 
 
 di t/m zo + feestdagen 10-17 u
 gesloten op 1 jan ",52.2201982,5.7538527
-Gelderland,ARNHEM,"Nederlands Watermuseum","/museum/Nederlands+Watermuseum.aspx",Zijpendaalseweg  26 - 28,"di t/m zo + ma in de schoolvakanties 11-17 u
+"Gelderland","ARNHEM","Nederlands Watermuseum","/museum/Nederlands+Watermuseum.aspx",Zijpendaalseweg  26 - 28,"di t/m zo + ma in de schoolvakanties 11-17 u
 gesloten op 1 jan + 25 dec",51.987631,5.9012111
-Gelderland,ARNHEM,"Huis Zypendaal","/museum/Huis+Zypendaal.aspx",Zypendaalseweg 44,"apr t/m okt
+"Gelderland","ARNHEM","Huis Zypendaal","/museum/Huis+Zypendaal.aspx",Zypendaalseweg 44,"apr t/m okt
 iedere zo rondleiding om 12, 13, 14, 15 + 16 u
 
  ",None,None
-Gelderland,ARNHEM,"Museum Arnhem","/museum/Museum+Arnhem.aspx",Utrechtseweg 87,"Museum Arnhem is ivm een verbouwing gesloten en naar verwachting eind 2019 weer geopend voor het publiek.  ",51.9851988,5.89275100547199
-Gelderland,ARNHEM,"Museum Bronbeek","/museum/Museum+Bronbeek.aspx",Velperweg 147,"di t/m zo + 2e Paasdag en 2e Pinksterdag 10-17 u
+"Gelderland","ARNHEM","Museum Arnhem","/museum/Museum+Arnhem.aspx",Utrechtseweg 87,"Museum Arnhem is ivm een verbouwing gesloten en naar verwachting eind 2019 weer geopend voor het publiek.  ",51.9851988,5.89275100547199
+"Gelderland","ARNHEM","Museum Bronbeek","/museum/Museum+Bronbeek.aspx",Velperweg 147,"di t/m zo + 2e Paasdag en 2e Pinksterdag 10-17 u
 gesloten op 1 jan + 25 dec",51.9951529,5.950232
-Gelderland,ARNHEM,"Nederlands Openluchtmuseum","/museum/Nederlands+Openluchtmuseum.aspx",Hoeferlaan 4,"22 jan t/m 29 mrt
+"Gelderland","ARNHEM","Nederlands Openluchtmuseum","/museum/Nederlands+Openluchtmuseum.aspx",Hoeferlaan 4,"22 jan t/m 29 mrt
 voorjaarsprogrammering - beperkt aanbod: Canonpresentatie en wandelpark open, 10-17 u
 
 30 mrt t/m 28 okt
@@ -157,103 +157,103 @@ winterprogrammering, ma t/m vr: 11-17 u, ijsbaan en entree tot 18 u
 za, zo + vakanties: 10-18 u, ijsbaan + entree tot 19 u
 
 Gesloten op 1 jan + 25 dec, op 24 + 31 dec sluit het museum om 17 u",52.0106822,5.91075297287506
-Gelderland,BARNEVELD,"Museum Nairac","/museum/Museum+Nairac.aspx",Brouwerstraat 1,"di t/m vrij 11-17 u, za 13-17 u
+"Gelderland","BARNEVELD","Museum Nairac","/museum/Museum+Nairac.aspx",Brouwerstraat 1,"di t/m vrij 11-17 u, za 13-17 u
 gesloten op zo + feestdagen",52.140568,5.58432472070167
-Gelderland,BENNEKOM,"Kijk- en Luistermuseum","/museum/Kijk-+en+Luistermuseum.aspx",Kerkstraat  1,"di t/m za 14-17 u
+"Gelderland","BENNEKOM","Kijk- en Luistermuseum","/museum/Kijk-+en+Luistermuseum.aspx",Kerkstraat  1,"di t/m za 14-17 u
 gesloten op 1 jan, 27 apr, 5 mei + 25 dec",51.9976189,5.675093
-Gelderland,BERG EN DAL,"Afrika Museum","/museum/Afrika+Museum.aspx",Postweg  6,"di t/m zo, 10-17 u
+"Gelderland","BERG EN DAL","Afrika Museum","/museum/Afrika+Museum.aspx",Postweg  6,"di t/m zo, 10-17 u
 tijdens feestdagen en schoolvakanties ook op ma, 10-17 u
 gesloten op 1 jan, 27 apr + 25 dec",51.789169,5.9230699
-Gelderland,BUREN,"Marechausseemuseum","/museum/Marechausseemuseum.aspx",Weeshuiswal 9,"di t/m zo, 11-16.30
+"Gelderland","BUREN","Marechausseemuseum","/museum/Marechausseemuseum.aspx",Weeshuiswal 9,"di t/m zo, 11-16.30
 tijdens schoolvakanties regio Midden ook op ma geopend
 gesloten op 1 jan, 27 apr, 24 t/m 26 + 31 dec",51.9119331,5.33678
-Gelderland,CULEMBORG,"Elisabeth Weeshuis Museum","/museum/Elisabeth+Weeshuis+Museum.aspx",Herenstraat 29,"di t/m zo, 11-17 u",51.9574438,5.223026
-Gelderland,DOESBURG,"Lalique Museum","/museum/Lalique+Museum.aspx",Gasthuisstraaat 1,"di t/m zo: 12-17 u",None,None
-Gelderland,DOETINCHEM,"Openbaar Vervoer & Speelgoed Museum Doetinchem","/museum/Openbaar+Vervoer+%26+Speelgoed+Museum+Doetinchem.aspx",Stationsstraat 50,"di t/m za 10-17 u, zo + feestdagen 13-17 u",51.958697,6.29361049491677
-Gelderland,DOETINCHEM,"Stadsmuseum Doetinchem","/museum/Stadsmuseum+Doetinchem.aspx",Burgemeester van Nispenstraat 2,"di t/m za 10-17 u, zo 13-17 u
+"Gelderland","CULEMBORG","Elisabeth Weeshuis Museum","/museum/Elisabeth+Weeshuis+Museum.aspx",Herenstraat 29,"di t/m zo, 11-17 u",51.9574438,5.223026
+"Gelderland","DOESBURG","Lalique Museum","/museum/Lalique+Museum.aspx",Gasthuisstraaat 1,"di t/m zo: 12-17 u",None,None
+"Gelderland","DOETINCHEM","Openbaar Vervoer & Speelgoed Museum Doetinchem","/museum/Openbaar+Vervoer+%26+Speelgoed+Museum+Doetinchem.aspx",Stationsstraat 50,"di t/m za 10-17 u, zo + feestdagen 13-17 u",51.958697,6.29361049491677
+"Gelderland","DOETINCHEM","Stadsmuseum Doetinchem","/museum/Stadsmuseum+Doetinchem.aspx",Burgemeester van Nispenstraat 2,"di t/m za 10-17 u, zo 13-17 u
 gesloten op 1 jan, 1e Paas- en Pinksterdag en 25 dec",51.9671659,6.2898278
-Gelderland,DOORNENBURG,"Kasteel Doornenburg","/museum/Kasteel+Doornenburg.aspx",Kerkstraat 27,"mei t/m okt: di t/m zo 11-17 u
+"Gelderland","DOORNENBURG","Kasteel Doornenburg","/museum/Kasteel+Doornenburg.aspx",Kerkstraat 27,"mei t/m okt: di t/m zo 11-17 u
 nov t/m apr: za/zo 11-17 u",51.8943664,5.9989469
-Gelderland,DOORWERTH,"Kasteel Doorwerth","/museum/Kasteel+Doorwerth.aspx",Fonteinallee 2b,"di t/m zo, 11-17 u
+"Gelderland","DOORWERTH","Kasteel Doorwerth","/museum/Kasteel+Doorwerth.aspx",Fonteinallee 2b,"di t/m zo, 11-17 u
 grootouder-arrangementen (kleinkinderen gratis) op extra geopende maandagen: 2 jan, 27 feb, 24 apr, 17, 24 + 31 jul, 7, 14 + 21 aug, 16 okt
 schoolvakanties, zie website 
  ",51.9667044,5.788797
-Gelderland,EIBERGEN,"Museum de Scheper","/museum/Museum+de+Scheper.aspx",Hagen 24,"wo t/m za 13-17 u
+"Gelderland","EIBERGEN","Museum de Scheper","/museum/Museum+de+Scheper.aspx",Hagen 24,"wo t/m za 13-17 u
 
 ",52.1022083,6.6474024
-Gelderland,ELBURG,"Museum Elburg","/museum/Museum+Elburg.aspx",Jufferenstraat 6-8,"di t/m za 11-17 u
+"Gelderland","ELBURG","Museum Elburg","/museum/Museum+Elburg.aspx",Jufferenstraat 6-8,"di t/m za 11-17 u
 jul + aug ook op ma
 gesloten op 1 jan, 27 apr,  25 + 26 dec",52.4476263,5.8359575
-Gelderland,ELBURG,"Museum Sjoel Elburg","/museum/Museum+Sjoel+Elburg.aspx",Graaf Hendriksteeg 2,"di t/m za, 11 - 17 u",52.4478984,5.8361586
-Gelderland,EPE,"Veluws Museum Hagedoorns Plaatse","/museum/Veluws+Museum+Hagedoorns+Plaatse.aspx",Ledderweg 11,"mrt, nov + dec: wo + za 13.30-17 u
+"Gelderland","ELBURG","Museum Sjoel Elburg","/museum/Museum+Sjoel+Elburg.aspx",Graaf Hendriksteeg 2,"di t/m za, 11 - 17 u",52.4478984,5.8361586
+"Gelderland","EPE","Veluws Museum Hagedoorns Plaatse","/museum/Veluws+Museum+Hagedoorns+Plaatse.aspx",Ledderweg 11,"mrt, nov + dec: wo + za 13.30-17 u
 apr t/m okt: di t/m vr 11-17 u, za 13.30-17 u
 jul t/m sep: ook zo 13.30-17 u",52.335012,5.9942892
-Gelderland,ERMELO,"Het Pakhuis","/museum/Het+Pakhuis.aspx",Molenaarsplein 24,"apr t/m okt: di t/m za 10.30-16.30 u
+"Gelderland","ERMELO","Het Pakhuis","/museum/Het+Pakhuis.aspx",Molenaarsplein 24,"apr t/m okt: di t/m za 10.30-16.30 u
 nov t/m mrt: za 10.30-16.30 u",52.3012281,5.6290759
-Gelderland,GORSSEL,"Museum MORE","/museum/Museum+MORE.aspx",Hoofdstraat 28,"di t/m zo, 10-17 u
+"Gelderland","GORSSEL","Museum MORE","/museum/Museum+MORE.aspx",Hoofdstraat 28,"di t/m zo, 10-17 u
 extra geopend op 26 dec, aangepast openingstijden op 5, 24 + 31 dec
 gesloten op 1 jan + 25 dec",52.1994626,6.2005843
-Gelderland,GROESBEEK,"Nationaal Bevrijdingsmuseum 1944-1945","/museum/Nationaal+Bevrijdingsmuseum+1944-1945.aspx",Wylerbaan 4,"ma t/m za 10-17 u, zo + feestdagen 12-17 u
+"Gelderland","GROESBEEK","Nationaal Bevrijdingsmuseum 1944-1945","/museum/Nationaal+Bevrijdingsmuseum+1944-1945.aspx",Wylerbaan 4,"ma t/m za 10-17 u, zo + feestdagen 12-17 u
 gesloten op 1 jan + 25 dec",51.7856668,5.936437
-Gelderland,HARDERWIJK,"Stadsmuseum Harderwijk","/museum/Stadsmuseum+Harderwijk.aspx",Donkerstraat 4,"di t/m za 10-17 u, zo 12-17 u",52.347884,5.6160663
-Gelderland,HATTEM,"Anton Pieck Museum","/museum/Anton+Pieck+Museum.aspx",Achterstraat 46-48,"di t/m za 10-17 u, zo 13-17 u
+"Gelderland","HARDERWIJK","Stadsmuseum Harderwijk","/museum/Stadsmuseum+Harderwijk.aspx",Donkerstraat 4,"di t/m za 10-17 u, zo 12-17 u",52.347884,5.6160663
+"Gelderland","HATTEM","Anton Pieck Museum","/museum/Anton+Pieck+Museum.aspx",Achterstraat 46-48,"di t/m za 10-17 u, zo 13-17 u
 in alle schoolvakanties ook open op ma van 13-17 u
 gesloten op 1e Paasdag, 1e Pinksterdag, 25 + 31 dec, 1 jan",52.4751414,6.0681709
-Gelderland,HATTEM,"Nederlands Bakkerijmuseum","/museum/Nederlands+Bakkerijmuseum.aspx",Kerkhofstraat  13,"di t/m za 10-17 u
+"Gelderland","HATTEM","Nederlands Bakkerijmuseum","/museum/Nederlands+Bakkerijmuseum.aspx",Kerkhofstraat  13,"di t/m za 10-17 u
 tijdens schoolvakanties en feestdagen: zie website",52.4745678,6.071328
-Gelderland,HATTEM,"Voerman Museum","/museum/Voerman+Museum.aspx",Achterstraat 46-48,"di t/m za 10-17 u, zo 13-17 u, in schoolvakanties ook ma 13-17 u
+"Gelderland","HATTEM","Voerman Museum","/museum/Voerman+Museum.aspx",Achterstraat 46-48,"di t/m za 10-17 u, zo 13-17 u, in schoolvakanties ook ma 13-17 u
 Hemelvaartsdag, 2e Paasdag, 2e Pinksterdag + 26 dec: 13-17 u
 
 gesloten op 1 jan, 1e Paasdag, 1e Pinksterdag, 27 apr, 25 + 31 dec",52.4751414,6.0681709
-Gelderland,HEILIG LANDSTICHTING,"Museumpark Orientalis","/museum/Museumpark+Orientalis.aspx",Profetenlaan  2,"1 mrt t/m 28 okt 2018
+"Gelderland","HEILIG LANDSTICHTING","Museumpark Orientalis","/museum/Museumpark+Orientalis.aspx",Profetenlaan  2,"1 mrt t/m 28 okt 2018
 di t/m zo, 11-17 u,  2e Paasdag, 28 april t/m 6 mei dagelijks, Hemelvaartsdag, 2e Pinksterdag
 
 gesloten op 27 apr + 16 t/m 20 jul (Vierdaagse Nijmegen)",51.816567,5.8849327
-Gelderland,HERNEN,"Kasteel Hernen","/museum/Kasteel+Hernen.aspx",Dorpsstraat 40,"apr t/m okt
+"Gelderland","HERNEN","Kasteel Hernen","/museum/Kasteel+Hernen.aspx",Dorpsstraat 40,"apr t/m okt
 wo, do, za + zo, 130-17 u
 schoolvakanties, zie website ",51.834573,5.6764742
-Gelderland,HERWIJNEN,"GeoFort","/museum/GeoFort.aspx",Nieuwe Steeg 74,"Alle weekenden en schoolvakanties open
+"Gelderland","HERWIJNEN","GeoFort","/museum/GeoFort.aspx",Nieuwe Steeg 74,"Alle weekenden en schoolvakanties open
 GeoExperience: 11-17 u, 3D Café:  11-18 u
 
 gesloten op 24 + 25 dec",51.8658134,5.1248928
-Gelderland,LAREN,"Huis Verwolde","/museum/Huis+Verwolde.aspx",Jonker Emilelaan 4,"31 mrt t/m okt
+"Gelderland","LAREN","Huis Verwolde","/museum/Huis+Verwolde.aspx",Jonker Emilelaan 4,"31 mrt t/m okt
 wo, do, za + zo 12-17 u
 schoolvakanties, zie website",52.2004843,6.39191580993244
-Gelderland,NIJKERK,"Museum Nijkerk","/museum/Museum+Nijkerk.aspx",Venestraat 16,"di t/m vr, 13.30-16.30 u, za 10-16 u
+"Gelderland","NIJKERK","Museum Nijkerk","/museum/Museum+Nijkerk.aspx",Venestraat 16,"di t/m vr, 13.30-16.30 u, za 10-16 u
 (groepen op afspraak ook buiten openingstijden van harte welkom)
  ",52.2220207,5.4834549
-Gelderland,NIJMEGEN,"De Bastei","/museum/De+Bastei.aspx",Waalkade 83,"Tot 20 mei is De Bastei nog niet volledig toegankelijk voor het publiek. Wel geldt er een speciale toegangsregeling voor de expositie ‘Nederland zoemt', over wilde bijen. De expositie is dagelijks te bezichtigen van 10 tot 17 uur. De Bastei is te bereiken via de tijdelijke ingang aan Lange Baan 11.",51.8486315,5.869429
-Gelderland,NIJMEGEN,"Museum Het Valkhof","/museum/Museum+Het+Valkhof.aspx",Kelfkensbos 59,"di t/m zo 11-17 u + Goede Vrijdag, 1e + 2e Paasdag, Hemelvaart, 1e + 2e Pinksterdag, ma in kerstvakantie, 26 + 31 dec
+"Gelderland","NIJMEGEN","De Bastei","/museum/De+Bastei.aspx",Waalkade 83,"Tot 20 mei is De Bastei nog niet volledig toegankelijk voor het publiek. Wel geldt er een speciale toegangsregeling voor de expositie ‘Nederland zoemt', over wilde bijen. De expositie is dagelijks te bezichtigen van 10 tot 17 uur. De Bastei is te bereiken via de tijdelijke ingang aan Lange Baan 11.",51.8486315,5.869429
+"Gelderland","NIJMEGEN","Museum Het Valkhof","/museum/Museum+Het+Valkhof.aspx",Kelfkensbos 59,"di t/m zo 11-17 u + Goede Vrijdag, 1e + 2e Paasdag, Hemelvaart, 1e + 2e Pinksterdag, ma in kerstvakantie, 26 + 31 dec
 
 gesloten op overige maandagen, 1 jan, 27 apr, vrijdagintocht Vierdaagse + 25 dec",51.846395,5.8712748
-Gelderland,NUNSPEET,"Noord-Veluws Museum","/museum/Noord-Veluws+Museum.aspx",Winckelweg 17a,"di t/m za, 10-17 u
+"Gelderland","NUNSPEET","Noord-Veluws Museum","/museum/Noord-Veluws+Museum.aspx",Winckelweg 17a,"di t/m za, 10-17 u
 zo 13-17 u
 gesloten op 1 jan, 1e Pinksterdag + 25 dec",52.3719196,5.780202
-Gelderland,OLDEBROEK,"Boerderijmuseum ''De Bovenstreek''","/museum/Boerderijmuseum+%27%27De+Bovenstreek%27%27.aspx",Bovenstraatweg 10 A,"apr t/m okt: ma t/m za, 10-17 u
+"Gelderland","OLDEBROEK","Boerderijmuseum ''De Bovenstreek''","/museum/Boerderijmuseum+%27%27De+Bovenstreek%27%27.aspx",Bovenstraatweg 10 A,"apr t/m okt: ma t/m za, 10-17 u
 nov, dec + mrt: di 13-17 u
 groepen op afspraak
 geopend tijdens kerst- en voorjaarsvakantie
 gesloten in jan, feb + op feestdagen
 
  ",52.4434874,5.9122706
-Gelderland,OOSTERBEEK,"Airborne Museum 'Hartenstein'","/museum/Airborne+Museum+%27Hartenstein%27.aspx",Utrechtseweg 232,"dagelijks, 10-17 u
+"Gelderland","OOSTERBEEK","Airborne Museum 'Hartenstein'","/museum/Airborne+Museum+%27Hartenstein%27.aspx",Utrechtseweg 232,"dagelijks, 10-17 u
 24 + 31 dec 12-16 u
 gesloten op 1 jan + 25 dec",51.9877482,5.8326908
-Gelderland,OTTERLO,"Kröller-Müller Museum","/museum/Kr%c3%b6ller-M%c3%bcller+Museum.aspx",Houtkampweg 6,"di t/m zo + feestdagen 10-17 u, beeldentuin 10-16.30 u
+"Gelderland","OTTERLO","Kröller-Müller Museum","/museum/Kr%c3%b6ller-M%c3%bcller+Museum.aspx",Houtkampweg 6,"di t/m zo + feestdagen 10-17 u, beeldentuin 10-16.30 u
 gesloten op 1 jan",52.1016691,5.8312325
-Gelderland,OTTERLO,"Nederlands Tegelmuseum","/museum/Nederlands+Tegelmuseum.aspx",Eikenzoom 12,"di t/m zo + feestdagen 13-17 u
+"Gelderland","OTTERLO","Nederlands Tegelmuseum","/museum/Nederlands+Tegelmuseum.aspx",Eikenzoom 12,"di t/m zo + feestdagen 13-17 u
 gesloten op 1 jan + 25 dec",52.0985849,5.7726516
-Gelderland,POEDEROIJEN,"Slot Loevestein","/museum/Slot+Loevestein.aspx",Loevestein  1,"zie website voor actuele openingstijden",51.8164141,5.0214015
-Gelderland,PUTTEN,"Museum 'De Tien Malen'","/museum/Museum+%27De+Tien+Malen%27.aspx",Garderenseweg 97,"apr t/m okt: wo t/m za 13.30-16.30 u
+"Gelderland","POEDEROIJEN","Slot Loevestein","/museum/Slot+Loevestein.aspx",Loevestein  1,"zie website voor actuele openingstijden",51.8164141,5.0214015
+"Gelderland","PUTTEN","Museum 'De Tien Malen'","/museum/Museum+%27De+Tien+Malen%27.aspx",Garderenseweg 97,"apr t/m okt: wo t/m za 13.30-16.30 u
 jul/aug: ook di 13.30-16.30 u",52.2517913,5.6263623
-Gelderland,ROZENDAAL,"Kasteel Rosendael","/museum/Kasteel+Rosendael.aspx",Rosendael 1,"apr t/m okt
+"Gelderland","ROZENDAAL","Kasteel Rosendael","/museum/Kasteel+Rosendael.aspx",Rosendael 1,"apr t/m okt
 di t/m zo, 11-17 u
 schoolvakanties, zie website
  ",52.0094886,5.96363785757184
-Gelderland,RUURLO,"Museum MORE | Kasteel Ruurlo","/museum/Museum+MORE+%7c+Kasteel+Ruurlo.aspx",Vordenseweg 2,"di t/m zo, 11-17 u
+"Gelderland","RUURLO","Museum MORE | Kasteel Ruurlo","/museum/Museum+MORE+%7c+Kasteel+Ruurlo.aspx",Vordenseweg 2,"di t/m zo, 11-17 u
 extra geopend op 26 dec, aangepast openingstijden op 5, 24 + 31 dec
 gesloten op 1 jan + 25 dec",52.08778,6.41356
-Gelderland,'S HEERENBERG,"Kasteel Huis Bergh","/museum/Kasteel+Huis+Bergh.aspx",Hof van Bergh 8,"mei t/m okt: di t/m zo 11-17 u
+"Gelderland","'S HEERENBERG","Kasteel Huis Bergh","/museum/Kasteel+Huis+Bergh.aspx",Hof van Bergh 8,"mei t/m okt: di t/m zo 11-17 u
 nov t/m apr: za/zo 11-17 u
 gesloten op 1 jan, Carnaval: 26 feb, 24, 25 + 31 dec
 
@@ -261,16 +261,16 @@ Zie website voor actuele openingstijden
 
 
  ",51.87405185,6.24156801790962
-Gelderland,TIEL,"Flipje en Streekmuseum Tiel","/museum/Flipje+en+Streekmuseum+Tiel.aspx",Plein 48,"di t/m vr 13.30-17 u, za/zo 13.30-16.30 u, 1 jan, 1e Paas- & 1e Pinksterdag en 25, 26 & 31 dec gesloten",51.8864658,5.4397772
-Gelderland,VAASSEN,"Kasteel Cannenburch","/museum/Kasteel+Cannenburch.aspx",Maarten van Rossumplein 4,"apr t/m okt
+"Gelderland","TIEL","Flipje en Streekmuseum Tiel","/museum/Flipje+en+Streekmuseum+Tiel.aspx",Plein 48,"di t/m vr 13.30-17 u, za/zo 13.30-16.30 u, 1 jan, 1e Paas- & 1e Pinksterdag en 25, 26 & 31 dec gesloten",51.8864658,5.4397772
+"Gelderland","VAASSEN","Kasteel Cannenburch","/museum/Kasteel+Cannenburch.aspx",Maarten van Rossumplein 4,"apr t/m okt
 di t/m zo, 12-17 u ",52.291717,5.9647468
-Gelderland,VELP,"Gelders Geologisch Museum","/museum/Gelders+Geologisch+Museum.aspx",Parkstraat 32,"di t/m zo 12-17 u
+"Gelderland","VELP","Gelders Geologisch Museum","/museum/Gelders+Geologisch+Museum.aspx",Parkstraat 32,"di t/m zo 12-17 u
 gesloten op feestdagen",51.998442,5.9714645
-Gelderland,VORDEN,"Heiligenbeeldenmuseum","/museum/Heiligenbeeldenmuseum.aspx",Ruurloseweg 101,"di t/m zo 12-17 u",52.1018528,6.3589746
-Gelderland,WAGENINGEN,"De Casteelse Poort","/museum/De+Casteelse+Poort.aspx",Bowlespark 1a,"di t/m vr: 11-17 u
+"Gelderland","VORDEN","Heiligenbeeldenmuseum","/museum/Heiligenbeeldenmuseum.aspx",Ruurloseweg 101,"di t/m zo 12-17 u",52.1018528,6.3589746
+"Gelderland","WAGENINGEN","De Casteelse Poort","/museum/De+Casteelse+Poort.aspx",Bowlespark 1a,"di t/m vr: 11-17 u
 za + zo: 13-17 u
 gesloten op 1 jan, 1e Paasdag, 1e Pinksterdag + 25 dec",51.9648127,5.6656646
-Gelderland,WIJCHEN,"Museum Kasteel Wijchen","/museum/Museum+Kasteel+Wijchen.aspx",Kasteellaan 9,"1 sep t/m 30 apr 
+"Gelderland","WIJCHEN","Museum Kasteel Wijchen","/museum/Museum+Kasteel+Wijchen.aspx",Kasteellaan 9,"1 sep t/m 30 apr 
 wo t/m zo, 13-17 u
 
 1 mei t/m 31 aug  
@@ -279,25 +279,25 @@ wo t/m za, 13-17 u + zo, 11-17 u
 De Tuun is open vanaf 21 mrt t/m okt tijdens openingstijden museum.
 
 gesloten op 1 jan, Carnaval, 1e Paasdag, wo v/d Vierdaagse, 25, 26 + 31 dec",51.8085061,5.7275988
-Gelderland,ZALTBOMMEL,"Stadskasteel Zaltbommel","/museum/Stadskasteel+Zaltbommel.aspx",Nonnenstraat 5,"di t/m zo 13-17 u",51.8112842,5.2481487
-Gelderland,ZEVENAAR,"Liemers Museum","/museum/Liemers+Museum.aspx",Kerkstraat 16,"di t/m vr, zo 14-17 u
+"Gelderland","ZALTBOMMEL","Stadskasteel Zaltbommel","/museum/Stadskasteel+Zaltbommel.aspx",Nonnenstraat 5,"di t/m zo 13-17 u",51.8112842,5.2481487
+"Gelderland","ZEVENAAR","Liemers Museum","/museum/Liemers+Museum.aspx",Kerkstraat 16,"di t/m vr, zo 14-17 u
 gesloten op 1 jan, Carnavalszondag, 1e Paasdag, 27 april, 1e Pinksterdag + 25 dec",51.9252496,6.0748218
-Gelderland,ZUTPHEN,"Musea Zutphen","/museum/Musea+Zutphen.aspx",'s Gravenhof 4,"di t/m zo, 11-17 u",52.1399617,6.1945329
-Groningen,APPINGEDAM,"Museum Stad Appingedam","/museum/Museum+Stad+Appingedam.aspx",Wijkstraat 25,"di t/m vr 11-17 u, za, zo + feestdagen 13-17 u",53.3205299,6.8576569
-Groningen,BELLINGWOLDE,"Museum de Oude Wolden","/museum/Museum+de+Oude+Wolden.aspx",Hoofdweg 161,"wo, do + vrij 11-17 u, za + zo 13-17 u",53.1130455,7.16201821563521
-Groningen,DELFZIJL,"Muzeeaquarium Delfzijl","/museum/Muzeeaquarium+Delfzijl.aspx",Zeebadweg 7A,"dagelijks 10-17 u
+"Gelderland","ZUTPHEN","Musea Zutphen","/museum/Musea+Zutphen.aspx",'s Gravenhof 4,"di t/m zo, 11-17 u",52.1399617,6.1945329
+"Groningen","APPINGEDAM","Museum Stad Appingedam","/museum/Museum+Stad+Appingedam.aspx",Wijkstraat 25,"di t/m vr 11-17 u, za, zo + feestdagen 13-17 u",53.3205299,6.8576569
+"Groningen","BELLINGWOLDE","Museum de Oude Wolden","/museum/Museum+de+Oude+Wolden.aspx",Hoofdweg 161,"wo, do + vrij 11-17 u, za + zo 13-17 u",53.1130455,7.16201821563521
+"Groningen","DELFZIJL","Muzeeaquarium Delfzijl","/museum/Muzeeaquarium+Delfzijl.aspx",Zeebadweg 7A,"dagelijks 10-17 u
 gesloten op 1 jan, 27 april, 1e + 2e Pinksterdag, 25, 26 + 31 dec
 
  ",53.33550625,6.92702316398294
-Groningen,EZINGE,"Museum Wierdenland Ezinge","/museum/Museum+Wierdenland+Ezinge.aspx",Van Swinderenweg 10,"apr t/m okt: di t/m zo, 11-17 u
+"Groningen","EZINGE","Museum Wierdenland Ezinge","/museum/Museum+Wierdenland+Ezinge.aspx",Van Swinderenweg 10,"apr t/m okt: di t/m zo, 11-17 u
 nov t/m mrt: di t/m zo, 13-17 u
 geopend op Tweede Paasdag, Tweede Pinksterdag + 26 dec
 gesloten op 1 jan, 24 + 31 dec",53.3083452,6.4404205
-Groningen,GRONINGEN,"GRID Grafisch Museum Groningen","/museum/GRID+Grafisch+Museum+Groningen.aspx",Sint Jansstraat 2,"di t/m zo, 10-17 u
+"Groningen","GRONINGEN","GRID Grafisch Museum Groningen","/museum/GRID+Grafisch+Museum+Groningen.aspx",Sint Jansstraat 2,"di t/m zo, 10-17 u
 gesloten op 1 jan, 1e Paasdag, Koningsdag, Hemelvaartsdag, 1e Pinksterdag, Bommen Berend (28 aug) + 25 dec",53.2195962,6.5706911
-Groningen,GRONINGEN,"Groninger Museum","/museum/Groninger+Museum.aspx",Museumeiland 1,"di t/m zo + feestdagen 10-17 u
+"Groningen","GRONINGEN","Groninger Museum","/museum/Groninger+Museum.aspx",Museumeiland 1,"di t/m zo + feestdagen 10-17 u
 gesloten op 1 jan + 25 dec",53.2122819,6.56602904426707
-Groningen,GRONINGEN,"Het Nederlands Stripmuseum","/museum/Het+Nederlands+Stripmuseum.aspx",Westerhaven 71,"buiten vakanties
+"Groningen","GRONINGEN","Het Nederlands Stripmuseum","/museum/Het+Nederlands+Stripmuseum.aspx",Westerhaven 71,"buiten vakanties
 maandag  gesloten
 dinsdag t/m vrijdag  12.30 - 17.00 uur
 zaterdag en zondag  10.00 - 17.00 uur  
@@ -307,116 +307,116 @@ maandag  12.30 - 17.00 uur 
 dinsdag t/m zondag  10.00 - 17.00 uur 
 
 gesloten op 1 jan, 11 nov + 25 dec",53.2157432,6.5573581
-Groningen,GRONINGEN,"Noordelijk Scheepvaartmuseum","/museum/Noordelijk+Scheepvaartmuseum.aspx",Brugstraat  24 - 26,"di t/m za 10-17 u, zo + feestdagen 13-17 u
+"Groningen","GRONINGEN","Noordelijk Scheepvaartmuseum","/museum/Noordelijk+Scheepvaartmuseum.aspx",Brugstraat  24 - 26,"di t/m za 10-17 u, zo + feestdagen 13-17 u
 gesloten op 1 jan, 27 apr, 28 aug + 25 dec",53.2166036,6.5594849
-Groningen,GRONINGEN,"Universiteitsmuseum Groningen","/museum/Universiteitsmuseum+Groningen.aspx",Oude Kijk in 't Jatstraat 7a,"di t/m zo 13-17 u
+"Groningen","GRONINGEN","Universiteitsmuseum Groningen","/museum/Universiteitsmuseum+Groningen.aspx",Oude Kijk in 't Jatstraat 7a,"di t/m zo 13-17 u
 gesloten op feestdagen + 28 aug
  ",53.2184196,6.5631426
-Groningen,LEEK,"Museum Nienoord","/museum/Museum+Nienoord.aspx",Nienoord 1,"apr t/m okt: di t/m zo 11-17 u",53.1725682,6.3930654
-Groningen,LEENS,"Landgoed Verhildersum Leens","/museum/Landgoed+Verhildersum+Leens.aspx",Wierde 40,"apr t/m okt: di t/m zo + 2e Paasdag + 2e Pinksterdag 10.30-17 u",53.3625132,6.3930302
-Groningen,SLOCHTEREN,"De Fraeylemaborg","/museum/De+Fraeylemaborg.aspx",Hoofdweg 30,"3 jan t/m dec: di-vr 10-17 u, za, zo + feestdagen 13-17 u",53.2154609,6.8095705
-Groningen,TER APEL,"Klooster Ter Apel","/museum/Klooster+Ter+Apel.aspx",Boslaan 3-5,"di t/m za 10-17 u, zo + feestdagen 13-17 u
+"Groningen","LEEK","Museum Nienoord","/museum/Museum+Nienoord.aspx",Nienoord 1,"apr t/m okt: di t/m zo 11-17 u",53.1725682,6.3930654
+"Groningen","LEENS","Landgoed Verhildersum Leens","/museum/Landgoed+Verhildersum+Leens.aspx",Wierde 40,"apr t/m okt: di t/m zo + 2e Paasdag + 2e Pinksterdag 10.30-17 u",53.3625132,6.3930302
+"Groningen","SLOCHTEREN","De Fraeylemaborg","/museum/De+Fraeylemaborg.aspx",Hoofdweg 30,"3 jan t/m dec: di-vr 10-17 u, za, zo + feestdagen 13-17 u",53.2154609,6.8095705
+"Groningen","TER APEL","Klooster Ter Apel","/museum/Klooster+Ter+Apel.aspx",Boslaan 3-5,"di t/m za 10-17 u, zo + feestdagen 13-17 u
 zomervakantie: ma t/m za 10-18 u, zo 13-18 u
 gesloten op 1 jan + 31 dec",52.8743823,7.0733863
-Groningen,UITHUIZEN,"Museum Menkemaborg","/museum/Museum+Menkemaborg.aspx",Menkemaweg  2,"apr t/m sep: di t/m zo, 10-17 u
+"Groningen","UITHUIZEN","Museum Menkemaborg","/museum/Museum+Menkemaborg.aspx",Menkemaweg  2,"apr t/m sep: di t/m zo, 10-17 u
 jul + aug: ma t/m zo, 10-17 u
 okt t/m dec: di t/m zo, 10-16 u",53.4049719,6.6838322
-Groningen,VEENDAM,"Veenkoloniaal Museum","/museum/Veenkoloniaal+Museum.aspx",Museumplein  5,"di t/m vr 10 - 17 u, za t/m ma 13-17 u
+"Groningen","VEENDAM","Veenkoloniaal Museum","/museum/Veenkoloniaal+Museum.aspx",Museumplein  5,"di t/m vr 10 - 17 u, za t/m ma 13-17 u
 gesloten op 1 jan, Goede Vrijdag + 25 dec",53.1071684,6.8759746
-Groningen,WARFFUM,"Openluchtmuseum Het Hoogeland","/museum/Openluchtmuseum+Het+Hoogeland.aspx",Schoolstraat  4,"apr t/m okt: gehele museumterrein di t/m za 10-17 u, zo + feestdagen 13-17 u
+"Groningen","WARFFUM","Openluchtmuseum Het Hoogeland","/museum/Openluchtmuseum+Het+Hoogeland.aspx",Schoolstraat  4,"apr t/m okt: gehele museumterrein di t/m za 10-17 u, zo + feestdagen 13-17 u
 nov t/m mrt: za 10-17 u, zo + feestdagen 13-17 u
 gesloten op 1 jan en 25, 26 + 31 dec",53.3921606,6.5622051
-Groningen,ZOUTKAMP,"Visserijmuseum Zoutkamp","/museum/Visserijmuseum+Zoutkamp.aspx",Reitdiepskade 11,"apr t/m jun, sep + okt: ma t/m vr: 10-17 u, za: 10-16 u, zo: 13-17 u
+"Groningen","ZOUTKAMP","Visserijmuseum Zoutkamp","/museum/Visserijmuseum+Zoutkamp.aspx",Reitdiepskade 11,"apr t/m jun, sep + okt: ma t/m vr: 10-17 u, za: 10-16 u, zo: 13-17 u
 jul + aug: ma t/m vr: 10-17 u, za: 10-16 u, zo: 10-17 u",53.3369817,6.2999256
-Limburg,ELSLOO (L),"Streekmuseum Schippersbeurs","/museum/Streekmuseum+Schippersbeurs.aspx",Op de Berg 4,"di t/m do 13-16 u, zo 14-17 u
+"Limburg","ELSLOO (L)","Streekmuseum Schippersbeurs","/museum/Streekmuseum+Schippersbeurs.aspx",Op de Berg 4,"di t/m do 13-16 u, zo 14-17 u
 
 ",50.9483419,5.7589638
-Limburg,HEERLEN,"SCHUNCK","/museum/SCHUNCK.aspx",Bongerd 18,"di t/m zo: 11-17 u
+"Limburg","HEERLEN","SCHUNCK","/museum/SCHUNCK.aspx",Bongerd 18,"di t/m zo: 11-17 u
 gesloten op 25, 26 + 31 dec",50.8878725,5.9791269
-Limburg,HEERLEN,"Thermenmuseum","/museum/Thermenmuseum.aspx",Coriovallumstraat 9,"di t/m vr 10-17 u, za/zo/feestdagen 12-17 u
+"Limburg","HEERLEN","Thermenmuseum","/museum/Thermenmuseum.aspx",Coriovallumstraat 9,"di t/m vr 10-17 u, za/zo/feestdagen 12-17 u
 gesloten op 1 jan, Carnaval, 6 apr, 24, 25 + 31 dec",50.8852378,5.9765346
-Limburg,HOENSBROEK,"Kasteel Hoensbroek","/museum/Kasteel+Hoensbroek.aspx",Klinkertstraat 118,"dagelijks 10-17.30 u
+"Limburg","HOENSBROEK","Kasteel Hoensbroek","/museum/Kasteel+Hoensbroek.aspx",Klinkertstraat 118,"dagelijks 10-17.30 u
 gesloten op 1 jan, Carnaval, 24, 25 + 31 dec",50.9165637,5.9184106
-Limburg,HORST,"Museum de Kantfabriek","/museum/Museum+de+Kantfabriek.aspx",Americaanseweg 8,"apr t/m sep: di t/m zo, 11-17 u
+"Limburg","HORST","Museum de Kantfabriek","/museum/Museum+de+Kantfabriek.aspx",Americaanseweg 8,"apr t/m sep: di t/m zo, 11-17 u
 okt t/m mrt: di t/m zo 14-17 u
 gesloten op 1 jan, Carnaval, 24, 25, 26 + 31 dec
  ",51.4511607,6.0489286
-Limburg,KERKRADE," Continium Discovery Center","/museum/+Continium+Discovery+Center.aspx",Museumplein 2,"di t/m zo, 10-17 u
+"Limburg","KERKRADE"," Continium Discovery Center","/museum/+Continium+Discovery+Center.aspx",Museumplein 2,"di t/m zo, 10-17 u
 in schoolvakanties (regio zuid) ook op ma 10-17 u",50.8610059,6.0575452
-Limburg,KERKRADE,"Cube Design Museum","/museum/Cube+Design+Museum.aspx",Museumplein 2,"di t/m zo, 10-17 u
+"Limburg","KERKRADE","Cube Design Museum","/museum/Cube+Design+Museum.aspx",Museumplein 2,"di t/m zo, 10-17 u
 tijdens schoolvakanties (regio zuid) ook op ma: 10-17 u
 gesloten op 1 jan, Carnaval, 27 apr + 25 dec",50.8610059,6.0575452
-Limburg,MAASTRICHT,"Bonnefantenmuseum","/museum/Bonnefantenmuseum.aspx",Avenue Ceramique 250,"di t/m zo + feestdagen 11-17 u
+"Limburg","MAASTRICHT","Bonnefantenmuseum","/museum/Bonnefantenmuseum.aspx",Avenue Ceramique 250,"di t/m zo + feestdagen 11-17 u
 gesloten op  1 jan, tijdens carnaval + 25 dec",50.8424989,5.70167054950377
-Limburg,MAASTRICHT,"Bureau Europa","/museum/Bureau+Europa.aspx",Boschstraat 9,"NB: van 14 mei t/m 8 september is Bureau Europa gesloten vanwege een verbouwing. De activiteiten gaan door in het Spinxkwartier.
+"Limburg","MAASTRICHT","Bureau Europa","/museum/Bureau+Europa.aspx",Boschstraat 9,"NB: van 14 mei t/m 8 september is Bureau Europa gesloten vanwege een verbouwing. De activiteiten gaan door in het Spinxkwartier.
 
 wo t/m zo 11-17 u
 gesloten op 1 jan, Carnaval, 27 apr + 25 dec
  ",50.8567335,5.6902773
-Limburg,MAASTRICHT,"Marres Maastricht","/museum/Marres+Maastricht.aspx",Capucijnenstraat 98,"di t/m zo 12-17 u
+"Limburg","MAASTRICHT","Marres Maastricht","/museum/Marres+Maastricht.aspx",Capucijnenstraat 98,"di t/m zo 12-17 u
 gesloten op 1 jan, Pasen, 27 apr en 25 + 26 dec",50.8518926,5.685843
-Limburg,MAASTRICHT,"Museum aan het Vrijthof","/museum/Museum+aan+het+Vrijthof.aspx",Vrijthof 18,"di t/m zo 10-17.30 u",50.8483347,5.6888579
-Limburg,MAASTRICHT,"Natuurhistorisch Museum Maastricht","/museum/Natuurhistorisch+Museum+Maastricht.aspx",De Bosquetplein  6-7,"di t/m vr 11-17 u, za + zo 13-17 u ",50.8449918,5.6885939
-Limburg,MELDERSLO,"Museum de Locht","/museum/Museum+de+Locht.aspx",Broekhuizerdijk 16 d,"nov t/m mrt: wo, za + zo 10-17 u
+"Limburg","MAASTRICHT","Museum aan het Vrijthof","/museum/Museum+aan+het+Vrijthof.aspx",Vrijthof 18,"di t/m zo 10-17.30 u",50.8483347,5.6888579
+"Limburg","MAASTRICHT","Natuurhistorisch Museum Maastricht","/museum/Natuurhistorisch+Museum+Maastricht.aspx",De Bosquetplein  6-7,"di t/m vr 11-17 u, za + zo 13-17 u ",50.8449918,5.6885939
+"Limburg","MELDERSLO","Museum de Locht","/museum/Museum+de+Locht.aspx",Broekhuizerdijk 16 d,"nov t/m mrt: wo, za + zo 10-17 u
 apr t/m okt: dagelijks 10-17 u
 gesloten op 1 jan + 25 dec ",51.4678889,6.1160384
-Limburg,ROERMOND,"Het Cuypershuis","/museum/Het+Cuypershuis.aspx",Pierre Cuypersstraat 1,"di t/m zo 11-16.30 u, ook open op Goede Vrijdag, Hemelvaart, 2e Paasdag en 2e Pinksterdag.
+"Limburg","ROERMOND","Het Cuypershuis","/museum/Het+Cuypershuis.aspx",Pierre Cuypersstraat 1,"di t/m zo 11-16.30 u, ook open op Goede Vrijdag, Hemelvaart, 2e Paasdag en 2e Pinksterdag.
 gesloten: 1 jan, Carnaval (zo + di), 1e Paasdag, Koningsdag, 1e Pinksterdag, 25 + 26 dec",51.1883835,5.9881418
-Limburg,SITTARD,"Museum De Domijnen, afdeling Hedendaagse Kunst","/museum/Museum+De+Domijnen%2c+afdeling+Hedendaagse+Kunst.aspx",Ligne 5,"di t/m zo 11-17 u
+"Limburg","SITTARD","Museum De Domijnen, afdeling Hedendaagse Kunst","/museum/Museum+De+Domijnen%2c+afdeling+Hedendaagse+Kunst.aspx",Ligne 5,"di t/m zo 11-17 u
 gesloten op 1 jan, Carnaval, 1e Paasdag, 1e Pinksterdag + 25 dec
 open op 2e Paasdag, 2e Pinksterdag, 26 dec + 31 dec tot 16 u ",51.0001804,5.8663475
-Limburg,STEVENSWEERT,"Streekmuseum Stevensweert Ohé en Laak","/museum/Streekmuseum+Stevensweert+Oh%c3%a9+en+Laak.aspx",Jan van Steffeswertplein 1,"apr t/m okt: do t/m zo + feestdagen 14-17 u
+"Limburg","STEVENSWEERT","Streekmuseum Stevensweert Ohé en Laak","/museum/Streekmuseum+Stevensweert+Oh%c3%a9+en+Laak.aspx",Jan van Steffeswertplein 1,"apr t/m okt: do t/m zo + feestdagen 14-17 u
 nov t/m mrt: zo 14-17 u",51.13156,5.84534
-Limburg,TEGELEN,"Keramiekcentrum Tiendschuur Tegelen","/museum/Keramiekcentrum+Tiendschuur+Tegelen.aspx",Kasteellaan 8,"di t/m zo, 11-17 u",51.3317112,6.1368427
-Limburg,THORN,"Gemeentemuseum Het Land van Thorn","/museum/Gemeentemuseum+Het+Land+van+Thorn.aspx",Wijngaard  14,"apr t/m okt: ma 12-17 u, di t/m zo, 10-16.30 u
+"Limburg","TEGELEN","Keramiekcentrum Tiendschuur Tegelen","/museum/Keramiekcentrum+Tiendschuur+Tegelen.aspx",Kasteellaan 8,"di t/m zo, 11-17 u",51.3317112,6.1368427
+"Limburg","THORN","Gemeentemuseum Het Land van Thorn","/museum/Gemeentemuseum+Het+Land+van+Thorn.aspx",Wijngaard  14,"apr t/m okt: ma 12-17 u, di t/m zo, 10-16.30 u
 nov t/m mrt: di t/m zo 11-16 u
 gesloten op 1 jan, Carnaval + 25 dec",51.1607536,5.8404311
-Limburg,THORN,"Museum Abdijkerk","/museum/Museum+Abdijkerk.aspx",Kerkberg 1,"apr t/m okt:di-zo 10-17 u, ma 12-17u,nov t/m mrt: za/zo 12-16 u
+"Limburg","THORN","Museum Abdijkerk","/museum/Museum+Abdijkerk.aspx",Kerkberg 1,"apr t/m okt:di-zo 10-17 u, ma 12-17u,nov t/m mrt: za/zo 12-16 u
 
 ",51.1607648,5.8416368
-Limburg,VALKENBURG  LB,"Museum Land van Valkenburg","/museum/Museum+Land+van+Valkenburg.aspx",Grotestraat Centrum 31,"di t/m vr 11-17 u, za en zo 13-17 u
+"Limburg","VALKENBURG  LB","Museum Land van Valkenburg","/museum/Museum+Land+van+Valkenburg.aspx",Grotestraat Centrum 31,"di t/m vr 11-17 u, za en zo 13-17 u
 gesloten op 1 jan, Carnaval, 1e Paasdag + 25 dec",50.8637156,5.8320799
-Limburg,VALKENBURG A/D GEUL,"Museum Romeinse Katakomben","/museum/Museum+Romeinse+Katakomben.aspx",Plenkertstraat 55,"Zie de website van Museum De Romeinse Katakomben voor actuele openingstijden",None,None
-Limburg,VENLO,"Limburgs Museum","/museum/Limburgs+Museum.aspx",Keulsepoort 5,"di t/m zo + feestdagen 11-17 u
+"Limburg","VALKENBURG A/D GEUL","Museum Romeinse Katakomben","/museum/Museum+Romeinse+Katakomben.aspx",Plenkertstraat 55,"Zie de website van Museum De Romeinse Katakomben voor actuele openingstijden",None,None
+"Limburg","VENLO","Limburgs Museum","/museum/Limburgs+Museum.aspx",Keulsepoort 5,"di t/m zo + feestdagen 11-17 u
 mei- + herfstvakantie ma 11-17 u
 gesloten op 1 jan, Carnaval + 25 dec",51.3667333,6.171899
-Limburg,VENLO,"Museum van Bommel van Dam","/museum/Museum+van+Bommel+van+Dam.aspx",Deken van Oppensingel  6,"Het museum is tijdelijk gesloten en presenteert tot eind 2019 'pop up'-tentoonstellingen op andere locaties in Venlo. Kijk voor meer informatie op de website.
+"Limburg","VENLO","Museum van Bommel van Dam","/museum/Museum+van+Bommel+van+Dam.aspx",Deken van Oppensingel  6,"Het museum is tijdelijk gesloten en presenteert tot eind 2019 'pop up'-tentoonstellingen op andere locaties in Venlo. Kijk voor meer informatie op de website.
 
  ",51.3720224,6.1781359
-Limburg,VENRAY,"Venrays Museum","/museum/Venrays+Museum.aspx",Monseigneur Goumansplein 1,"dagelijks, 13.30 -16 u",51.52757,5.9744271
-Noord-Brabant,ASTEN,"Museum Klok & Peel ","/museum/Museum+Klok+%26+Peel+.aspx",Ostaderstraat 23,"di t/m vr 9.30-17 u, za t/m ma + feestdagen 13-17 u
+"Limburg","VENRAY","Venrays Museum","/museum/Venrays+Museum.aspx",Monseigneur Goumansplein 1,"dagelijks, 13.30 -16 u",51.52757,5.9744271
+"Noord-Brabant","ASTEN","Museum Klok & Peel ","/museum/Museum+Klok+%26+Peel+.aspx",Ostaderstraat 23,"di t/m vr 9.30-17 u, za t/m ma + feestdagen 13-17 u
 gesloten op 1 jan, Carnaval + 25 dec",51.403553,5.733475
-Noord-Brabant,BERGEN OP ZOOM,"Markiezenhof","/museum/Markiezenhof.aspx",Steenbergsestraat 8,"di t/m zo 11-17 u
+"Noord-Brabant","BERGEN OP ZOOM","Markiezenhof","/museum/Markiezenhof.aspx",Steenbergsestraat 8,"di t/m zo 11-17 u
 gesloten op 1 jan, Pasen, 27 apr, 25, 26 + 31 dec",51.4957207,4.284808
-Noord-Brabant,BOXTEL,"Museum Vekemans","/museum/Museum+Vekemans.aspx",Stationsstraat 39,"wo + vr, 13-17 u
+"Noord-Brabant","BOXTEL","Museum Vekemans","/museum/Museum+Vekemans.aspx",Stationsstraat 39,"wo + vr, 13-17 u
 
 Groepen vanaf 8 personen kunnen op alle dagen van de week op verzoek toegang krijgen, in combinatie met een rondleiding. Voor meer informatie, zie website.",51.5879214,5.3223118
-Noord-Brabant,BREDA,"Stedelijk Museum Breda","/museum/Stedelijk+Museum+Breda.aspx",Boschstraat 22,"di t/m zo, 10-17 u 
+"Noord-Brabant","BREDA","Stedelijk Museum Breda","/museum/Stedelijk+Museum+Breda.aspx",Boschstraat 22,"di t/m zo, 10-17 u 
 open op 2e Paasdag, Hemelvaartsdag, 2e Pinksterdag, 26 + 31 dec
 gesloten op 1 jan, Carnavalszondag, 1e Paasdag, 27 apr, 1e Pinksterdag + 25 dec",51.5896392,4.7810102
-Noord-Brabant,DEURNE,"Museum De Wieger","/museum/Museum+De+Wieger.aspx",Oude Liesselseweg  29,"wo t/m zo 12-17 u
+"Noord-Brabant","DEURNE","Museum De Wieger","/museum/Museum+De+Wieger.aspx",Oude Liesselseweg  29,"wo t/m zo 12-17 u
 gesloten op 1 jan, Carnaval, 27 apr, 25, 26 + 31 dec",51.4589878,5.7961092
-Noord-Brabant,DONGEN,"De Looierij","/museum/De+Looierij.aspx",Kerkstraat 33,"wo, vr t/m zo 13-17 u",51.6237313,4.9331497
-Noord-Brabant,EERSEL,"Kempenmuseum De Acht Zaligheden","/museum/Kempenmuseum+De+Acht+Zaligheden.aspx",Kapelweg  2,"ma t/m vri 10-17 u, za (m.u.v. jan + feb) + zo, 13-17 u
+"Noord-Brabant","DONGEN","De Looierij","/museum/De+Looierij.aspx",Kerkstraat 33,"wo, vr t/m zo 13-17 u",51.6237313,4.9331497
+"Noord-Brabant","EERSEL","Kempenmuseum De Acht Zaligheden","/museum/Kempenmuseum+De+Acht+Zaligheden.aspx",Kapelweg  2,"ma t/m vri 10-17 u, za (m.u.v. jan + feb) + zo, 13-17 u
 gesloten op 1 jan, Carnaval (za, zo + ma), 25 dec
 groepen op afspraak",51.35381,5.31269
-Noord-Brabant,EINDHOVEN,"DAF Museum","/museum/DAF+Museum.aspx",Tongelresestraat 27,"di t/m zo, 2e Paas- + Pinksterdag 10-17 u
+"Noord-Brabant","EINDHOVEN","DAF Museum","/museum/DAF+Museum.aspx",Tongelresestraat 27,"di t/m zo, 2e Paas- + Pinksterdag 10-17 u
 gesloten op 1 jan, 1e Paas- + Pinksterdag, 27 apr, Hemelvaartsdag, 25, 26 + 31 dec",51.43752335,5.49029117989897
-Noord-Brabant,EINDHOVEN,"MU","/museum/MU.aspx",Torenallee 40-06,"openingstijden tijdens tentoonstellingen
+"Noord-Brabant","EINDHOVEN","MU","/museum/MU.aspx",Torenallee 40-06,"openingstijden tijdens tentoonstellingen
 ma t/m vr, 10-18 u
 za, 11-17 u
 zo, 13-17 u 
 gesloten op 1 jan, 27 apr, 25 + 26 dec ",51.44714,5.4562857
-Noord-Brabant,EINDHOVEN,"Philips Museum","/museum/Philips+Museum.aspx",Emmasingel 31,"di t/m zo, 11-17 u
+"Noord-Brabant","EINDHOVEN","Philips Museum","/museum/Philips+Museum.aspx",Emmasingel 31,"di t/m zo, 11-17 u
 gesloten op 1 jan, 27 apr, 1e Paasdag, 1e Pinksterdag, 25 + 26 dec",51.4398117,5.4754743
-Noord-Brabant,EINDHOVEN,"PreHistorisch Dorp","/museum/PreHistorisch+Dorp.aspx",Boutenslaan 161b,"apr t/m okt di t/m zo 11-17 u, tijdens de schoolvakanties ook op ma
+"Noord-Brabant","EINDHOVEN","PreHistorisch Dorp","/museum/PreHistorisch+Dorp.aspx",Boutenslaan 161b,"apr t/m okt di t/m zo 11-17 u, tijdens de schoolvakanties ook op ma
 nov t/m mrt: alleen open voor groepen & arrangementen
 
  ",51.4221392,5.4767892
-Noord-Brabant,EINDHOVEN,"Van Abbemuseum","/museum/Van+Abbemuseum.aspx",Bilderdijklaan 10,"di t/m zo + feestdagen 11-17 u, 1e do vd mnd tot 21 u
+"Noord-Brabant","EINDHOVEN","Van Abbemuseum","/museum/Van+Abbemuseum.aspx",Bilderdijklaan 10,"di t/m zo + feestdagen 11-17 u, 1e do vd mnd tot 21 u
 gesloten op 1 jan, 27 apr + 25 dec",51.4344148,5.4819136
-Noord-Brabant,ETTEN-LEUR,"Streekmuseum Etten Leur","/museum/Streekmuseum+Etten+Leur.aspx",Markt 53-61,"wo t/m za, 13-17 u",51.571303,4.633681
-Noord-Brabant,GEERTRUIDENBERG,"Museum 'De Roos'","/museum/Museum+%27De+Roos%27.aspx",Markt 46,"mei t/m sep
+"Noord-Brabant","ETTEN-LEUR","Streekmuseum Etten Leur","/museum/Streekmuseum+Etten+Leur.aspx",Markt 53-61,"wo t/m za, 13-17 u",51.571303,4.633681
+"Noord-Brabant","GEERTRUIDENBERG","Museum 'De Roos'","/museum/Museum+%27De+Roos%27.aspx",Markt 46,"mei t/m sep
 di t/m za: 10.30 -16.30 u, zo: 11.30 -16.30 u
 
 okt t/m apr
@@ -424,62 +424,62 @@ do + vri: 11-15 u, za: 11-16 u, zo: 13-16 u
 
 gesloten op: 1 + 2 jan, Carnaval, 1e Paasdag, 24, 25, 26 + 31 dec
  ",51.7008093,4.8597708
-Noord-Brabant,GRAVE,"Graafs Museum","/museum/Graafs+Museum.aspx",St. Elisabethstraat 10a,"wo t/m za 13-17 u",51.7574479,5.738577
-Noord-Brabant,HEESWIJK-DINTHER,"Kasteel Heeswijk","/museum/Kasteel+Heeswijk.aspx",Kasteel 4,"di t/m do + zo, 11-17 u
+"Noord-Brabant","GRAVE","Graafs Museum","/museum/Graafs+Museum.aspx",St. Elisabethstraat 10a,"wo t/m za 13-17 u",51.7574479,5.738577
+"Noord-Brabant","HEESWIJK-DINTHER","Kasteel Heeswijk","/museum/Kasteel+Heeswijk.aspx",Kasteel 4,"di t/m do + zo, 11-17 u
 tijdens schoolvakanties ook op ma geopend
  ",51.65588415,5.44140296421886
-Noord-Brabant,HELMOND,"Museum Helmond","/museum/Museum+Helmond.aspx",Kasteelplein  1,"di t/m vr, 10-17 u, za, zo + feestdagen 12-17 u
+"Noord-Brabant","HELMOND","Museum Helmond","/museum/Museum+Helmond.aspx",Kasteelplein  1,"di t/m vr, 10-17 u, za, zo + feestdagen 12-17 u
 gesloten op 1 jan, Carnaval (za t/m ma), 1e Paasdag + 25 dec",51.4772226,5.6530875
-Noord-Brabant,KLUNDERT,"Nationaal Vlasserij-Suikermuseum","/museum/Nationaal+Vlasserij-Suikermuseum.aspx",Stoofdijk 1a,"wo 9.30 –17 u
+"Noord-Brabant","KLUNDERT","Nationaal Vlasserij-Suikermuseum","/museum/Nationaal+Vlasserij-Suikermuseum.aspx",Stoofdijk 1a,"wo 9.30 –17 u
 apr t/m okt ook za/zo 13.30 –17 u
 groepen elke dag op afspraak",51.6598245,4.5254332
-Noord-Brabant,OIRSCHOT,"Museum De Vier Quartieren","/museum/Museum+De+Vier+Quartieren.aspx",St. Odulphusstraat 11,"di t/m zo, 13-16.30 u
+"Noord-Brabant","OIRSCHOT","Museum De Vier Quartieren","/museum/Museum+De+Vier+Quartieren.aspx",St. Odulphusstraat 11,"di t/m zo, 13-16.30 u
 op afspraak ook in avonduren voor groepen",51.504181,5.3081477
-Noord-Brabant,OOSTERHOUT,"Brabants Museum Oud Oosterhout","/museum/Brabants+Museum+Oud+Oosterhout.aspx",Bredaseweg  129,"apr t/m okt: ma t/m do, 10-17 u, za/zo, 11-17 u
+"Noord-Brabant","OOSTERHOUT","Brabants Museum Oud Oosterhout","/museum/Brabants+Museum+Oud+Oosterhout.aspx",Bredaseweg  129,"apr t/m okt: ma t/m do, 10-17 u, za/zo, 11-17 u
 nov t/m mrt: ma t/m do 10-16 u, laatste zo vd mnd 12-17 u",51.6314844,4.8418845
-Noord-Brabant,OOSTERHOUT,"Speelgoed en Carnavalsmuseum Op Stelten","/museum/Speelgoed+en+Carnavalsmuseum+Op+Stelten.aspx",Zandheuvel 51,"di t/m za, 13-17 u, zo 11-17 u 
+"Noord-Brabant","OOSTERHOUT","Speelgoed en Carnavalsmuseum Op Stelten","/museum/Speelgoed+en+Carnavalsmuseum+Op+Stelten.aspx",Zandheuvel 51,"di t/m za, 13-17 u, zo 11-17 u 
 1e + 2e Paasdag, 1e + 2e Pinksterdag, 13-17 u
 gesloten op 1 jan, Carnaval, 27 apr + 25 dec",51.6421856,4.8677639
-Noord-Brabant,OSS,"Museum Jan Cunen","/museum/Museum+Jan+Cunen.aspx",Molenstraat 65,"di t/m zo 11-17 u
+"Noord-Brabant","OSS","Museum Jan Cunen","/museum/Museum+Jan+Cunen.aspx",Molenstraat 65,"di t/m zo 11-17 u
 gesloten op 1 jan, 27 apr, 25 + 31 dec",51.7654481,5.5265446
-Noord-Brabant,OUDENBOSCH,"Nederlands Zouavenmuseum","/museum/Nederlands+Zouavenmuseum.aspx",Markt 31,"1e + 3e zo vd mnd 14-17 u
+"Noord-Brabant","OUDENBOSCH","Nederlands Zouavenmuseum","/museum/Nederlands+Zouavenmuseum.aspx",Markt 31,"1e + 3e zo vd mnd 14-17 u
 mei t/m sep: ook di t/m do 14-17 u
 gesloten op 1 jan, Carnaval + 25 dec ",51.5887593,4.5293328
-Noord-Brabant,OVERLOON,"Oorlogsmuseum Overloon","/museum/Oorlogsmuseum+Overloon.aspx",Museumpark  1,"ma-vr 10-17 u, za/zo/feestdagen 11-17 u
+"Noord-Brabant","OVERLOON","Oorlogsmuseum Overloon","/museum/Oorlogsmuseum+Overloon.aspx",Museumpark  1,"ma-vr 10-17 u, za/zo/feestdagen 11-17 u
 gesloten op 1 jan, 24, 25 + 31 dec",51.5705789,5.9566223
-Noord-Brabant,ROOSENDAAL,"Tongerlohuys","/museum/Tongerlohuys.aspx",Kerkstraat 1,"di t/m zo 13.30-17 u
+"Noord-Brabant","ROOSENDAAL","Tongerlohuys","/museum/Tongerlohuys.aspx",Kerkstraat 1,"di t/m zo 13.30-17 u
 gesloten op 1 jan, 1e Paas- en Pinksterdag, Carnaval + 25 dec
 
 
  ",51.5333416,4.4586306
-Noord-Brabant,'S HERTOGENBOSCH,"Design Museum Den Bosch","/museum/Design+Museum+Den+Bosch.aspx",De Mortel 4,"di t/m zo 11-17 u
+"Noord-Brabant","'S HERTOGENBOSCH","Design Museum Den Bosch","/museum/Design+Museum+Den+Bosch.aspx",De Mortel 4,"di t/m zo 11-17 u
 gesloten op 1 jan, 7+9 feb, 27 apr + 25 dec",51.6857426,5.3041697
-Noord-Brabant,'S HERTOGENBOSCH,"Het Noordbrabants Museum","/museum/Het+Noordbrabants+Museum.aspx",Verwersstraat 41,"di t/m zo 11 - 17 u
+"Noord-Brabant","'S HERTOGENBOSCH","Het Noordbrabants Museum","/museum/Het+Noordbrabants+Museum.aspx",Verwersstraat 41,"di t/m zo 11 - 17 u
 gesloten op 1 jan + 25 dec",51.6865802,5.3046847
-Noord-Brabant,'S HERTOGENBOSCH,"Museum Slager","/museum/Museum+Slager.aspx",Choorstraat 8,"di t/m zo 13.30-17 u
+"Noord-Brabant","'S HERTOGENBOSCH","Museum Slager","/museum/Museum+Slager.aspx",Choorstraat 8,"di t/m zo 13.30-17 u
 gesloten op 1 jan, Carnaval, 1e Paasdag, 1e Pinksterdag, 25, 26 + 31 dec",51.6877069,5.3097641
-Noord-Brabant,SCHIJNDEL,"Museum Jan Heestershuis","/museum/Museum+Jan+Heestershuis.aspx",Pompstraat  17,"di t/m zo 13 -17 u
+"Noord-Brabant","SCHIJNDEL","Museum Jan Heestershuis","/museum/Museum+Jan+Heestershuis.aspx",Pompstraat  17,"di t/m zo 13 -17 u
 gesloten op feestdagen, Carnaval + 31 dec",51.6180602,5.4325404
-Noord-Brabant,SINT-OEDENRODE,"Museum van Brabantse Mutsen en Poffers","/museum/Museum+van+Brabantse+Mutsen+en+Poffers.aspx",Kerkstraat 20,"zie website",51.562587,5.4596693
-Noord-Brabant,TILBURG,"De Pont museum","/museum/De+Pont+museum.aspx",Wilhelminapark 1,"di t/m zo + feestdagen 11-17 u, iedere do gratis van 17-20 u
+"Noord-Brabant","SINT-OEDENRODE","Museum van Brabantse Mutsen en Poffers","/museum/Museum+van+Brabantse+Mutsen+en+Poffers.aspx",Kerkstraat 20,"zie website",51.562587,5.4596693
+"Noord-Brabant","TILBURG","De Pont museum","/museum/De+Pont+museum.aspx",Wilhelminapark 1,"di t/m zo + feestdagen 11-17 u, iedere do gratis van 17-20 u
 gesloten op 1 jan, 27 apr + 25 dec
 
  ",51.5670233,5.0734732
-Noord-Brabant,TILBURG,"Natuurmuseum Brabant","/museum/Natuurmuseum+Brabant.aspx",Spoorlaan 434,"di t/m zo, 10-17 u
+"Noord-Brabant","TILBURG","Natuurmuseum Brabant","/museum/Natuurmuseum+Brabant.aspx",Spoorlaan 434,"di t/m zo, 10-17 u
 Tijdens schoolvakanties ook op ma geopend
 gesloten op 1 jan, 27 apr + 25 dec",51.5599282,5.0813589
-Noord-Brabant,TILBURG,"TextielMuseum","/museum/TextielMuseum.aspx",Goirkestraat  96,"di-vr 10-17 u; za- zo + feestdagen 12-17 u
+"Noord-Brabant","TILBURG","TextielMuseum","/museum/TextielMuseum.aspx",Goirkestraat  96,"di-vr 10-17 u; za- zo + feestdagen 12-17 u
 gesloten op 1 jan, 1e Paasdag, 27 apr, 5 mei, 1e Pinksterdag + 25 dec",51.5708493,5.0794542
-Noord-Brabant,UDEN,"Museum voor Religieuze Kunst","/museum/Museum+voor+Religieuze+Kunst.aspx",Vorstenburg 1,"Het MRK Uden is - in verband met een grote verbouwing - tot begin november 2018 gesloten.",51.6557641,5.6072095
-Noord-Brabant,VALKENSWAARD,"Nederlands Steendrukmuseum","/museum/Nederlands+Steendrukmuseum.aspx",Oranje Nassaustraat 8c,"di t/m zo 13-17 u
+"Noord-Brabant","UDEN","Museum voor Religieuze Kunst","/museum/Museum+voor+Religieuze+Kunst.aspx",Vorstenburg 1,"Het MRK Uden is - in verband met een grote verbouwing - tot begin november 2018 gesloten.",51.6557641,5.6072095
+"Noord-Brabant","VALKENSWAARD","Nederlands Steendrukmuseum","/museum/Nederlands+Steendrukmuseum.aspx",Oranje Nassaustraat 8c,"di t/m zo 13-17 u
 gesloten op feestdagen en tijdens carnaval",51.3543205,5.4590507
-Noord-Brabant,VALKENSWAARD,"Valkerij en Sigarenmakerij Museum","/museum/Valkerij+en+Sigarenmakerij+Museum.aspx",Oranje Nassaustraat 8b,"di t/m za, 13-17 u 
+"Noord-Brabant","VALKENSWAARD","Valkerij en Sigarenmakerij Museum","/museum/Valkerij+en+Sigarenmakerij+Museum.aspx",Oranje Nassaustraat 8b,"di t/m za, 13-17 u 
 zo op afspraak voor groepen van min. 10 pers
 gesloten op 1 jan, Carnaval, 27 apr, Hemelvaart, 25, 26 + 31 dec ",51.3543203,5.4590508
-Noord-Brabant,VELDHOVEN,"Museum 't Oude Slot","/museum/Museum+%27t+Oude+Slot.aspx",Hemelrijken 6,"wo t/m zo 13-17 u",51.4283545,5.4166516
-Noord-Brabant,VUGHT,"Geniemuseum","/museum/Geniemuseum.aspx",Van Brederodekazerne, Lunettenlaan 102,"di t/m do 10-16 u
+"Noord-Brabant","VELDHOVEN","Museum 't Oude Slot","/museum/Museum+%27t+Oude+Slot.aspx",Hemelrijken 6,"wo t/m zo 13-17 u",51.4283545,5.4166516
+"Noord-Brabant","VUGHT","Geniemuseum","/museum/Geniemuseum.aspx",Van Brederodekazerne, Lunettenlaan 102,"di t/m do 10-16 u
 bovendien op afspraak",None,None
-Noord-Brabant,VUGHT,"Nationaal Monument Kamp Vught","/museum/Nationaal+Monument+Kamp+Vught.aspx",Lunettenlaan 600,"Nationaal Monument Kamp Vught
+"Noord-Brabant","VUGHT","Nationaal Monument Kamp Vught","/museum/Nationaal+Monument+Kamp+Vught.aspx",Lunettenlaan 600,"Nationaal Monument Kamp Vught
 apr t/m sep: ma t/m vr 10-17 u, za, zo + feestdagen 12-17 u
 okt t/m mrt: di t/m vr 10-17 u, za, zo + feestdagen 12-17 u
 4 mei 10-17 u
@@ -488,133 +488,133 @@ gesloten: 1 jan, 7 t/m 31 jan, 29 sep, 25 + 31 dec
 Barak 1B (Atlantis 1B, 5061 MC Vught)
 wo, za + zo 12-17 u (extra in vakanties)
 gesloten: 1 jan,  8 t/m 31 jan, 29 sep, 25 + 31 dec",51.6655281,5.2590843
-Noord-Brabant,WERKENDAM,"Biesbosch MuseumEiland","/museum/Biesbosch+MuseumEiland.aspx",Hilweg  2,"1 april-1 nov: ma: 11-17 u, di t/m vr: 10-17 u, za + zo: 11-17 u
+"Noord-Brabant","WERKENDAM","Biesbosch MuseumEiland","/museum/Biesbosch+MuseumEiland.aspx",Hilweg  2,"1 april-1 nov: ma: 11-17 u, di t/m vr: 10-17 u, za + zo: 11-17 u
 1 nov-1 apr: ma: 13-17 u, di t/m vr: 10-17 u, za + zo: 11-17 u
 gesloten op 25 dec, 31 dec + 1 jan
  ",51.76529,4.7717919
-Noord-Brabant,ZUNDERT,"Vincent van GoghHuis","/museum/Vincent+van+GoghHuis.aspx",Markt 27,"woe t/m vrij 10-17, za + zo 12-17 u
+"Noord-Brabant","ZUNDERT","Vincent van GoghHuis","/museum/Vincent+van+GoghHuis.aspx",Markt 27,"woe t/m vrij 10-17, za + zo 12-17 u
 gesloten op 1 jan, 1e Paasdag, Koningsdag, Corso-zo + 25 dec",51.4724849,4.6649271
-Noord-Holland,AALSMEER,"Historische Tuin Aalsmeer","/museum/Historische+Tuin+Aalsmeer.aspx",Praamplein 1A,"half apr t/m half okt: di t/m zo 10-16.30 u",52.2681252,4.7467067
-Noord-Holland,ALKMAAR,"Nationaal Biermuseum De Boom","/museum/Nationaal+Biermuseum+De+Boom.aspx",Houttil  1,"ma t/m za 13-16 u
+"Noord-Holland","AALSMEER","Historische Tuin Aalsmeer","/museum/Historische+Tuin+Aalsmeer.aspx",Praamplein 1A,"half apr t/m half okt: di t/m zo 10-16.30 u",52.2681252,4.7467067
+"Noord-Holland","ALKMAAR","Nationaal Biermuseum De Boom","/museum/Nationaal+Biermuseum+De+Boom.aspx",Houttil  1,"ma t/m za 13-16 u
 gesloten op zon- en feestdagen + 1 jan",52.6322688,4.7508364
-Noord-Holland,ALKMAAR,"Grote Kerk Alkmaar","/museum/Grote+Kerk+Alkmaar.aspx",Koorstraat 4a,"Geopend tijdens Kaasmarktseizoen, raadpleeg website voor actuele openingstijden",52.6323989,4.7435038
-Noord-Holland,ALKMAAR,"Het Hollands Kaasmuseum","/museum/Het+Hollands+Kaasmuseum.aspx",Waagplein 2,"mrt t/m okt, ma t/m za 10-16 u
+"Noord-Holland","ALKMAAR","Grote Kerk Alkmaar","/museum/Grote+Kerk+Alkmaar.aspx",Koorstraat 4a,"Geopend tijdens Kaasmarktseizoen, raadpleeg website voor actuele openingstijden",52.6323989,4.7435038
+"Noord-Holland","ALKMAAR","Het Hollands Kaasmuseum","/museum/Het+Hollands+Kaasmuseum.aspx",Waagplein 2,"mrt t/m okt, ma t/m za 10-16 u
 (tijdens kaasmarktseizoen vr 9-16 u, zo 13-15.30 u
 
 nov t/m mrt, za 10-16 u
 1e + 2e Paasdag, Hemelvaartsdag, 1e + 2e Pinksterdag, 13-15.30 u
 27 apr 9-12 u",52.6313921,4.7501307
-Noord-Holland,ALKMAAR,"Stedelijk Museum Alkmaar","/museum/Stedelijk+Museum+Alkmaar.aspx",Canadaplein  1,"di t/m zo 11-17 u
+"Noord-Holland","ALKMAAR","Stedelijk Museum Alkmaar","/museum/Stedelijk+Museum+Alkmaar.aspx",Canadaplein  1,"di t/m zo 11-17 u
 ook geopend met Pasen, Hemelvaart en Pinksteren
 gesloten op 1 jan, 27 apr + 25 dec",52.6336236,4.7438122
-Noord-Holland,AMSTELVEEN,"Cobra Museum voor Moderne Kunst","/museum/Cobra+Museum+voor+Moderne+Kunst.aspx",Sandbergplein 1,"di t/m zo + feestdagen 11-17 u
+"Noord-Holland","AMSTELVEEN","Cobra Museum voor Moderne Kunst","/museum/Cobra+Museum+voor+Moderne+Kunst.aspx",Sandbergplein 1,"di t/m zo + feestdagen 11-17 u
 gesloten op 1 jan, 27 apr + 25 dec",52.30400585,4.85785511135195
-Noord-Holland,AMSTELVEEN,"Museum Jan van der Togt","/museum/Museum+Jan+van+der+Togt.aspx",Dorpsstraat  50,"di t/m zo, 11-17 u
+"Noord-Holland","AMSTELVEEN","Museum Jan van der Togt","/museum/Museum+Jan+van+der+Togt.aspx",Dorpsstraat  50,"di t/m zo, 11-17 u
 gesloten op 1 jan + 25 dec",52.3023484,4.846701
-Noord-Holland,AMSTERDAM,"Allard Pierson Museum","/museum/Allard+Pierson+Museum.aspx",Oude Turfmarkt 127,"di t/m vri 10-17 u, za-zo 13-17 u
+"Noord-Holland","AMSTERDAM","Allard Pierson Museum","/museum/Allard+Pierson+Museum.aspx",Oude Turfmarkt 127,"di t/m vri 10-17 u, za-zo 13-17 u
 gesloten op 27 apr",52.3688053,4.8930549
-Noord-Holland,AMSTERDAM,"Amsterdam Museum","/museum/Amsterdam+Museum.aspx",Kalverstraat 92,"dagelijks, 10-17 u
+"Noord-Holland","AMSTERDAM","Amsterdam Museum","/museum/Amsterdam+Museum.aspx",Kalverstraat 92,"dagelijks, 10-17 u
 5, 24 + 31 dec 10-16 u
 gesloten op 27 apr + 25 dec",52.3704312,4.8904288
-Noord-Holland,AMSTERDAM,"Amsterdam Pipe Museum","/museum/Amsterdam+Pipe+Museum.aspx",Prinsengracht 488,"ma t/m za 12-18 u
+"Noord-Holland","AMSTERDAM","Amsterdam Pipe Museum","/museum/Amsterdam+Pipe+Museum.aspx",Prinsengracht 488,"ma t/m za 12-18 u
 gesloten op feestdagen",52.3640968,4.8852888
-Noord-Holland,AMSTERDAM,"Anne Frank Huis","/museum/Anne+Frank+Huis.aspx",Prinsengracht 267,"1 apr - 1 nov: dagelijks, 9-22 u (jun t/m aug open vanaf 8.30 u)
+"Noord-Holland","AMSTERDAM","Anne Frank Huis","/museum/Anne+Frank+Huis.aspx",Prinsengracht 267,"1 apr - 1 nov: dagelijks, 9-22 u (jun t/m aug open vanaf 8.30 u)
 1 nov - 1 apr: dagelijks 9-19 u, za tot 22 u
 gesloten op Jom Kipoer (19 sep 2018)
 
 Let op: Het Anne Frank Huis is alléén toegankelijk voor bezoekers met een online ticket met tijdslot. Deze zijn vanaf twee maanden voor het gewenste bezoek te koop. Online tickets zijn alleen geldig op naam en op de datum en het tijdstip dat is geselecteerd, tickets kunnen niet worden geruild of worden teruggenomen. Ook Museumkaarthouders dienen online een tijdslot te reserveren.
  ",52.37515595,4.88408026694824
-Noord-Holland,AMSTERDAM,"Cromhouthuis ","/museum/Cromhouthuis+.aspx",Herengracht 366-368,"di t/m zo, 11-17 u
+"Noord-Holland","AMSTERDAM","Cromhouthuis ","/museum/Cromhouthuis+.aspx",Herengracht 366-368,"di t/m zo, 11-17 u
 gesloten op 1 jan + 27 apr",52.3650167,4.8928579
-Noord-Holland,AMSTERDAM,"De Nieuwe Kerk","/museum/De+Nieuwe+Kerk.aspx",Dam,"Afhankelijk van activiteit. Tijdens exposities dagelijks 10-17 u",52.3732871,4.89249945548911
-Noord-Holland,AMSTERDAM,"De Oude Kerk","/museum/De+Oude+Kerk.aspx",Oudekerksplein 23,"ma t/m za 10-18 u, zo 13-17.30 u
+"Noord-Holland","AMSTERDAM","De Nieuwe Kerk","/museum/De+Nieuwe+Kerk.aspx",Dam,"Afhankelijk van activiteit. Tijdens exposities dagelijks 10-17 u",52.3732871,4.89249945548911
+"Noord-Holland","AMSTERDAM","De Oude Kerk","/museum/De+Oude+Kerk.aspx",Oudekerksplein 23,"ma t/m za 10-18 u, zo 13-17.30 u
 rondleiding op afspraak
 gesloten op 27 april",52.3741183,4.8977614
-Noord-Holland,AMSTERDAM,"Diamant Museum Amsterdam","/museum/Diamant+Museum+Amsterdam.aspx",Paulus Potterstraat 8,"dagelijks 9-17 u",52.3594656,4.88245886656327
-Noord-Holland,AMSTERDAM,"EYE Filmmuseum","/museum/EYE+Filmmuseum.aspx",IJpromenade 1,"expositie: dagelijks, 10-19 u
+"Noord-Holland","AMSTERDAM","Diamant Museum Amsterdam","/museum/Diamant+Museum+Amsterdam.aspx",Paulus Potterstraat 8,"dagelijks 9-17 u",52.3594656,4.88245886656327
+"Noord-Holland","AMSTERDAM","EYE Filmmuseum","/museum/EYE+Filmmuseum.aspx",IJpromenade 1,"expositie: dagelijks, 10-19 u
 panorama: dagelijks, 10-19 u
 kassa: ma t/m vr, 10-22 u, za + zo tot 23 u",52.38437845,4.90084244240196
-Noord-Holland,AMSTERDAM,"Foam Fotografiemuseum Amsterdam","/museum/Foam+Fotografiemuseum+Amsterdam.aspx",Keizersgracht 609,"dagelijks, 10-18 u, do + vr 10-21 u
+"Noord-Holland","AMSTERDAM","Foam Fotografiemuseum Amsterdam","/museum/Foam+Fotografiemuseum+Amsterdam.aspx",Keizersgracht 609,"dagelijks, 10-18 u, do + vr 10-21 u
 elke donderdagavond is er om 18.30 uur een gratis rondleiding. Aanmelden kan online.",52.3640124,4.8932784
-Noord-Holland,AMSTERDAM,"Hermitage Amsterdam","/museum/Hermitage+Amsterdam.aspx",Amstel 51,"dagelijks 10-17 u, 1 jan 11-17 u
+"Noord-Holland","AMSTERDAM","Hermitage Amsterdam","/museum/Hermitage+Amsterdam.aspx",Amstel 51,"dagelijks 10-17 u, 1 jan 11-17 u
 van 19 t/m 27 mei tot 22 u
 gesloten op 27 apr + 25 dec",52.3653947,4.90334744639064
-Noord-Holland,AMSTERDAM,"Het Scheepvaartmuseum","/museum/Het+Scheepvaartmuseum.aspx",Kattenburgerplein 1,"dagelijks 9-17 u
+"Noord-Holland","AMSTERDAM","Het Scheepvaartmuseum","/museum/Het+Scheepvaartmuseum.aspx",Kattenburgerplein 1,"dagelijks 9-17 u
 gesloten op 1 jan, 27 apr + 25 dec
 
  ",52.3716767,4.91522300650467
-Noord-Holland,AMSTERDAM,"De Hollandsche Schouwburg","/museum/De+Hollandsche+Schouwburg.aspx",Plantage Middenlaan 24,"dagelijks 11-16 u
+"Noord-Holland","AMSTERDAM","De Hollandsche Schouwburg","/museum/De+Hollandsche+Schouwburg.aspx",Plantage Middenlaan 24,"dagelijks 11-16 u
 gesloten op 1 jan, Joods Nieuwjaar + Grote Verzoendag",52.3664388,4.911154
-Noord-Holland,AMSTERDAM,"Huis Marseille","/museum/Huis+Marseille.aspx",Keizersgracht 401,"di t/m zo 11-18 u
+"Noord-Holland","AMSTERDAM","Huis Marseille","/museum/Huis+Marseille.aspx",Keizersgracht 401,"di t/m zo 11-18 u
 gesloten op 1 jan, 27 apr + 25 dec",52.3676378,4.8848092
-Noord-Holland,AMSTERDAM,"Joods Historisch Museum","/museum/Joods+Historisch+Museum.aspx",Nieuwe Amstelstraat 1,"dagelijks 11-17 u
+"Noord-Holland","AMSTERDAM","Joods Historisch Museum","/museum/Joods+Historisch+Museum.aspx",Nieuwe Amstelstraat 1,"dagelijks 11-17 u
 25, 26 dec + 1 jan 12-17 u
 gesloten op Joods Nieuwjaar, Grote Verzoendag + Koningsdag",52.3671491,4.90378331950249
-Noord-Holland,AMSTERDAM,"Koninklijk Paleis Amsterdam","/museum/Koninklijk+Paleis+Amsterdam.aspx",Dam,"10-17 u
+"Noord-Holland","AMSTERDAM","Koninklijk Paleis Amsterdam","/museum/Koninklijk+Paleis+Amsterdam.aspx",Dam,"10-17 u
 
 Raadpleeg altijd de website, het paleis kan gesloten zijn in verband met een officiële ontvangst",52.3732871,4.89249945548911
-Noord-Holland,AMSTERDAM,"Micropia","/museum/Micropia.aspx",Plantage Kerklaan 38-40,"ma t/m wo + zo, 9-18 u, do t/m za, 9-20 u",52.3669134,4.91257
-Noord-Holland,AMSTERDAM,"Museum Het Grachtenhuis ","/museum/Museum+Het+Grachtenhuis+.aspx",Herengracht 386,"di t/m zo, 10-17 u
+"Noord-Holland","AMSTERDAM","Micropia","/museum/Micropia.aspx",Plantage Kerklaan 38-40,"ma t/m wo + zo, 9-18 u, do t/m za, 9-20 u",52.3669134,4.91257
+"Noord-Holland","AMSTERDAM","Museum Het Grachtenhuis ","/museum/Museum+Het+Grachtenhuis+.aspx",Herengracht 386,"di t/m zo, 10-17 u
 gesloten op 27 apr + 25 dec
  ",52.3678915,4.8862169
-Noord-Holland,AMSTERDAM,"Museum Het Rembrandthuis","/museum/Museum+Het+Rembrandthuis.aspx",Jodenbreestraat  4,"dagelijks 10-18 u, 1 jan 11-17 u
+"Noord-Holland","AMSTERDAM","Museum Het Rembrandthuis","/museum/Museum+Het+Rembrandthuis.aspx",Jodenbreestraat  4,"dagelijks 10-18 u, 1 jan 11-17 u
 gesloten op 27 apr  + 25 dec",52.3693005,4.9013307
-Noord-Holland,AMSTERDAM,"Museum Het Schip","/museum/Museum+Het+Schip.aspx",Oostzaanstraat 45,"di t/m zo 11-17 u
+"Noord-Holland","AMSTERDAM","Museum Het Schip","/museum/Museum+Het+Schip.aspx",Oostzaanstraat 45,"di t/m zo 11-17 u
 gesloten op 1 jan, 27 apr + 25 dec",52.3903119,4.8739018
-Noord-Holland,AMSTERDAM,"Museum Ons' Lieve Heer op Solder","/museum/Museum+Ons%27+Lieve+Heer+op+Solder.aspx",Oudezijds Voorburgwal  38,"ma t/m za 10-17 u, zo + feestdagen 13-17 u (van 1 jun t/m 30 sep tot 18 u)
+"Noord-Holland","AMSTERDAM","Museum Ons' Lieve Heer op Solder","/museum/Museum+Ons%27+Lieve+Heer+op+Solder.aspx",Oudezijds Voorburgwal  38,"ma t/m za 10-17 u, zo + feestdagen 13-17 u (van 1 jun t/m 30 sep tot 18 u)
 1 jan, 12-17 u
 gesloten op 27 apr",52.3751465,4.89915410614903
-Noord-Holland,AMSTERDAM,"Museum Van Loon","/museum/Museum+Van+Loon.aspx",Keizersgracht  672,"dagelijks, 10-17 u
+"Noord-Holland","AMSTERDAM","Museum Van Loon","/museum/Museum+Van+Loon.aspx",Keizersgracht  672,"dagelijks, 10-17 u
 gesloten op 1 jan, 27 apr + 25 dec",52.363464,4.8933781
-Noord-Holland,AMSTERDAM,"Museum Willet-Holthuysen","/museum/Museum+Willet-Holthuysen.aspx",Herengracht 605,"ma t/m vr 10-17 u, za + zo 11-17 u
+"Noord-Holland","AMSTERDAM","Museum Willet-Holthuysen","/museum/Museum+Willet-Holthuysen.aspx",Herengracht 605,"ma t/m vr 10-17 u, za + zo 11-17 u
 5, 24 + 31 dec tot 16 u
 gesloten op 1 jan, 27 apr + 25 dec
  ",52.3656031,4.8990152
-Noord-Holland,AMSTERDAM,"Nationaal Holocaust Museum","/museum/Nationaal+Holocaust+Museum.aspx",Plantage Middenlaan 27,"dagelijks 11-17 u
+"Noord-Holland","AMSTERDAM","Nationaal Holocaust Museum","/museum/Nationaal+Holocaust+Museum.aspx",Plantage Middenlaan 27,"dagelijks 11-17 u
 1 jan, 25 + 26 dec 12-17 u
 gesloten op Joods Nieuwjaar, Grote Verzoendag + Koningsdag
 
  ",52.3668731,4.9110298
-Noord-Holland,AMSTERDAM,"Museum Tot Zover","/museum/Museum+Tot+Zover.aspx",Kruislaan 124,"t/m 31 aug
+"Noord-Holland","AMSTERDAM","Museum Tot Zover","/museum/Museum+Tot+Zover.aspx",Kruislaan 124,"t/m 31 aug
 di t/m zo: 11-16 u
 
 vanaf 1 sep
 di t/m zo: 11-17 u
 
 gesloten op 1 jan, 27 apr + 25 dec",52.346163,4.9382989
-Noord-Holland,AMSTERDAM,"NEMO Science Museum","/museum/NEMO+Science+Museum.aspx",Oosterdok 2,"di t/m zo, 10-17.30 u
+"Noord-Holland","AMSTERDAM","NEMO Science Museum","/museum/NEMO+Science+Museum.aspx",Oosterdok 2,"di t/m zo, 10-17.30 u
 in schoolvakanties en van apr t/m aug ook op ma open
 gesloten op 27 apr",52.3742446,4.91232705227912
-Noord-Holland,AMSTERDAM,"Outsider Art Museum","/museum/Outsider+Art+Museum.aspx",Postbus 11675,"dagelijks, 10-17 u
+"Noord-Holland","AMSTERDAM","Outsider Art Museum","/museum/Outsider+Art+Museum.aspx",Postbus 11675,"dagelijks, 10-17 u
 1 jan, 11-17 u
 gesloten op 27 apr + 25 dec",None,None
-Noord-Holland,AMSTERDAM,"Portugese Synagoge Amsterdam","/museum/Portugese+Synagoge+Amsterdam.aspx",Meestervisserplein 3,"1 feb t/m 30 nov
+"Noord-Holland","AMSTERDAM","Portugese Synagoge Amsterdam","/museum/Portugese+Synagoge+Amsterdam.aspx",Meestervisserplein 3,"1 feb t/m 30 nov
 zo t/m do: 10-17 u, vr: 10-16 u, za gesloten
 
 1 dec t/m 31 jan
 zo t/m do: 10-16 u, vr: 10-14 u, za gesloten",None,None
-Noord-Holland,AMSTERDAM,"Rijksmuseum Amsterdam","/museum/Rijksmuseum+Amsterdam.aspx",Museumstraat 1,"dagelijks 9-17 u",52.3605092,4.8848525
-Noord-Holland,AMSTERDAM,"Stadsarchief Amsterdam","/museum/Stadsarchief+Amsterdam.aspx",Vijzelstraat 32,"di t/m vr, 10-17 u, za + zo, 12-17 u",52.36456,4.8923905
-Noord-Holland,AMSTERDAM,"Stedelijk Museum Amsterdam","/museum/Stedelijk+Museum+Amsterdam.aspx",Museumplein 10,"dagelijks 10-18 u, vr 10-22 u",52.35789905,4.87986236051606
-Noord-Holland,AMSTERDAM,"Tassenmuseum Hendrikje","/museum/Tassenmuseum+Hendrikje.aspx",Herengracht 573,"dagelijks 10-17 u
+"Noord-Holland","AMSTERDAM","Rijksmuseum Amsterdam","/museum/Rijksmuseum+Amsterdam.aspx",Museumstraat 1,"dagelijks 9-17 u",52.3605092,4.8848525
+"Noord-Holland","AMSTERDAM","Stadsarchief Amsterdam","/museum/Stadsarchief+Amsterdam.aspx",Vijzelstraat 32,"di t/m vr, 10-17 u, za + zo, 12-17 u",52.36456,4.8923905
+"Noord-Holland","AMSTERDAM","Stedelijk Museum Amsterdam","/museum/Stedelijk+Museum+Amsterdam.aspx",Museumplein 10,"dagelijks 10-18 u, vr 10-22 u",52.35789905,4.87986236051606
+"Noord-Holland","AMSTERDAM","Tassenmuseum Hendrikje","/museum/Tassenmuseum+Hendrikje.aspx",Herengracht 573,"dagelijks 10-17 u
 gesloten op 1 jan, 27 apr + 25 dec
 
  ",52.3651897,4.8968468
-Noord-Holland,AMSTERDAM,"Tropenmuseum","/museum/Tropenmuseum.aspx",Linneusstraat 2,"di t/m zo + feestdagen (en ma in schoolvakanties) 10-17 u
+"Noord-Holland","AMSTERDAM","Tropenmuseum","/museum/Tropenmuseum.aspx",Linneusstraat 2,"di t/m zo + feestdagen (en ma in schoolvakanties) 10-17 u
 gesloten op 1 jan, 27 apr + 25 dec",None,None
-Noord-Holland,AMSTERDAM,"Tropenmuseum Junior","/museum/Tropenmuseum+Junior.aspx",Linnaeusstraat 2,"Openingstijden publieksprogramma
+"Noord-Holland","AMSTERDAM","Tropenmuseum Junior","/museum/Tropenmuseum+Junior.aspx",Linnaeusstraat 2,"Openingstijden publieksprogramma
 Tropenmuseum Junior is in het weekend en tijdens vakanties geopend voor publiek. Reserveren is verplicht!
 Juniorreis - 6 t/m 13 jaar: 14.30 u
 Familiereis - alle leeftijden: 11, 11.30, 12 + 13 u",52.3627683,4.922683
-Noord-Holland,AMSTERDAM,"Van Gogh Museum","/museum/Van+Gogh+Museum.aspx",Museumplein 6,"Kijk hier voor de openingstijden",52.3579277,4.8835255
-Noord-Holland,AMSTERDAM,"Verzetsmuseum Amsterdam","/museum/Verzetsmuseum+Amsterdam.aspx",Plantage Kerklaan  61,"di t/m vr 10-17 u, za t/m ma + feestdagen 11-17 u
+"Noord-Holland","AMSTERDAM","Van Gogh Museum","/museum/Van+Gogh+Museum.aspx",Museumplein 6,"Kijk hier voor de openingstijden",52.3579277,4.8835255
+"Noord-Holland","AMSTERDAM","Verzetsmuseum Amsterdam","/museum/Verzetsmuseum+Amsterdam.aspx",Plantage Kerklaan  61,"di t/m vr 10-17 u, za t/m ma + feestdagen 11-17 u
 gesloten op 1 jan, 27 april + 25 dec",52.3677709,4.912759
-Noord-Holland,BERGEN,"Kranenburgh","/museum/Kranenburgh.aspx",Hoflaan 26,"di t/m zo 11-17 u",52.6682325,4.6952578
-Noord-Holland,BERGEN NH,"Het Sterkenhuis","/museum/Het+Sterkenhuis.aspx",Oude Prinsweg 21,"mei t/m okt: di-za 13-17 u
+"Noord-Holland","BERGEN","Kranenburgh","/museum/Kranenburgh.aspx",Hoflaan 26,"di t/m zo 11-17 u",52.6682325,4.6952578
+"Noord-Holland","BERGEN NH","Het Sterkenhuis","/museum/Het+Sterkenhuis.aspx",Oude Prinsweg 21,"mei t/m okt: di-za 13-17 u
 jul + aug ook zo 13-17 u",52.6697229,4.6996399
-Noord-Holland,BROEK OP LANGEDIJK,"Museum Broeker Veiling","/museum/Museum+Broeker+Veiling.aspx",Museumweg 2,"di t/m zo, 10-17 u
+"Noord-Holland","BROEK OP LANGEDIJK","Museum Broeker Veiling","/museum/Museum+Broeker+Veiling.aspx",Museumweg 2,"di t/m zo, 10-17 u
 gesloten op feestdagen, zie website voor meer informatie",52.6799037,4.8065687
-Noord-Holland,CRUQUIUS,"Haarlemmermeermuseum De Cruquius","/museum/Haarlemmermeermuseum+De+Cruquius.aspx",Cruquiusdijk 27,"apr t/m okt 
+"Noord-Holland","CRUQUIUS","Haarlemmermeermuseum De Cruquius","/museum/Haarlemmermeermuseum+De+Cruquius.aspx",Cruquiusdijk 27,"apr t/m okt 
 ma t/m vr 10-17 u, za + zo 11-17 u 
 nationale feestdagen: 11-17 u
 
@@ -625,120 +625,120 @@ voorjaarsvakantie + kerstvakantie: ma t/m vr 10-17 u, za + zo 11-17 u 
 gesloten 1 jan, 27 apr, 24, 25, 26 + 31 dec 
 
  ",52.3381986,4.6380917
-Noord-Holland,DE RIJP,"Museum In 't Houten Huis","/museum/Museum+In+%27t+Houten+Huis.aspx",Tuingracht  13,"16 apr t/m 31 mei: di t/m zo, 13-17 uur
+"Noord-Holland","DE RIJP","Museum In 't Houten Huis","/museum/Museum+In+%27t+Houten+Huis.aspx",Tuingracht  13,"16 apr t/m 31 mei: di t/m zo, 13-17 uur
 jun t/m aug: di t/m zo, 11-17 uur
 1 sep t/m 15 okt: di t/m zo, 13-17 uur
 16 okt t/m 15 apr: zo, 13-17 uur",52.5593118,4.8532007
-Noord-Holland,DE WAAL (TEXEL),"Museum Waelstee","/museum/Museum+Waelstee.aspx",Hogereind 6,"1e di in mrt t/m de herfstvakantie: di t/m za 10-17 u, zo + feestdagen 13.30-17 u
+"Noord-Holland","DE WAAL (TEXEL)","Museum Waelstee","/museum/Museum+Waelstee.aspx",Hogereind 6,"1e di in mrt t/m de herfstvakantie: di t/m za 10-17 u, zo + feestdagen 13.30-17 u
 ma gesloten
  
  ",53.0724662,4.8214398
-Noord-Holland,DEN HELDER,"Marinemuseum","/museum/Marinemuseum.aspx",Hoofdgracht 3,"nov t/m apr: di t/m zo: 10-17 u
+"Noord-Holland","DEN HELDER","Marinemuseum","/museum/Marinemuseum.aspx",Hoofdgracht 3,"nov t/m apr: di t/m zo: 10-17 u
 (tijdens schoolvakanties ook op ma open)
 
 mei t/m okt: ma t/m zo: 10-17 u
 gesloten op 1 jan, 27 apr + 25 dec
 (op overige officiële feestdagen geldt zondagopenstelling)",52.96375735,4.7716823153055
-Noord-Holland,DEN HELDER,"Nationaal Reddingmuseum Dorus Rijkers","/museum/Nationaal+Reddingmuseum+Dorus+Rijkers.aspx",Willemsoord 60g,"di t/m zo, 10-17 u
+"Noord-Holland","DEN HELDER","Nationaal Reddingmuseum Dorus Rijkers","/museum/Nationaal+Reddingmuseum+Dorus+Rijkers.aspx",Willemsoord 60g,"di t/m zo, 10-17 u
 gesloten op 1 jan + 25 dec",52.9584549,4.7687025
-Noord-Holland,DEN HELDER,"Stichting De Nollen","/museum/Stichting+De+Nollen.aspx",Burgemeester Ritmeesterweg 10,"apr t/m dec: do t/m zo, 10.30-17 u
+"Noord-Holland","DEN HELDER","Stichting De Nollen","/museum/Stichting+De+Nollen.aspx",Burgemeester Ritmeesterweg 10,"apr t/m dec: do t/m zo, 10.30-17 u
 gesloten op 25 + 26 dec",52.9327957,4.7615543
-Noord-Holland,DRIEHUIS,"Pieter Vermeulen Museum","/museum/Pieter+Vermeulen+Museum.aspx",Driehuizerkerkweg 34 D,"N.B: Het Pieter Vermeulen Museum is gesloten t/m 29 maart 2018.
+"Noord-Holland","DRIEHUIS","Pieter Vermeulen Museum","/museum/Pieter+Vermeulen+Museum.aspx",Driehuizerkerkweg 34 D,"N.B: Het Pieter Vermeulen Museum is gesloten t/m 29 maart 2018.
 
 wo, vr + zo 13-17 u, tijdens schoolvakanties di t/m vr + zo 13-17 u",52.4492154,4.6379611
-Noord-Holland,EDAM,"Edams Museum","/museum/Edams+Museum.aspx",Damplein 8,"apr t/m okt: di-za 10-16.30 u, zo + feestdagen 13-16.30 u",52.5127115,5.0490632
-Noord-Holland,EGMOND AAN ZEE,"Museum van Egmond","/museum/Museum+van+Egmond.aspx",Zuiderstraat 7,"mei t/m okt: di t/m zo 14-17 u",52.6174309,4.6251158
-Noord-Holland,ENKHUIZEN,"Flessenscheepjesmuseum","/museum/Flessenscheepjesmuseum.aspx",Zuiderspui 1,"2 jan t/m 13 feb: za, zo + ma: 12-17 u
+"Noord-Holland","EDAM","Edams Museum","/museum/Edams+Museum.aspx",Damplein 8,"apr t/m okt: di-za 10-16.30 u, zo + feestdagen 13-16.30 u",52.5127115,5.0490632
+"Noord-Holland","EGMOND AAN ZEE","Museum van Egmond","/museum/Museum+van+Egmond.aspx",Zuiderstraat 7,"mei t/m okt: di t/m zo 14-17 u",52.6174309,4.6251158
+"Noord-Holland","ENKHUIZEN","Flessenscheepjesmuseum","/museum/Flessenscheepjesmuseum.aspx",Zuiderspui 1,"2 jan t/m 13 feb: za, zo + ma: 12-17 u
 14 feb t/m 1 nov: dagelijks, 12-17 u
 2 nov t/m 31 dec: za, zo + ma: 12-17 u
 Tijdens schoolvakanties: dagelijks 12-17 u
 gesloten op 25 + 26 dec",52.7008624,5.2939009
-Noord-Holland,ENKHUIZEN,"Zuiderzeemuseum","/museum/Zuiderzeemuseum.aspx",Wierdijk 12-22,"Binnenmuseum: dagelijks 10-17 u
+"Noord-Holland","ENKHUIZEN","Zuiderzeemuseum","/museum/Zuiderzeemuseum.aspx",Wierdijk 12-22,"Binnenmuseum: dagelijks 10-17 u
 Buitenmuseum (open vanaf 30 mrt 2018): dagelijks, 10-17 u
 
  ",52.7019221,5.2967308
-Noord-Holland,HAARLEM,"Dolhuys | museum van de geest","/museum/Dolhuys+%7c+museum+van+de+geest.aspx",Schotersingel 2,"di-vr 10-17 u, do tot 21 u, za/zo + feestdagen 12-17 u
+"Noord-Holland","HAARLEM","Dolhuys | museum van de geest","/museum/Dolhuys+%7c+museum+van+de+geest.aspx",Schotersingel 2,"di-vr 10-17 u, do tot 21 u, za/zo + feestdagen 12-17 u
 gesloten op 1 jan, 27 apr + 25 dec",52.3905413,4.637786
-Noord-Holland,HAARLEM,"Frans Hals Museum Hal","/museum/Frans+Hals+Museum+Hal.aspx",Grote Markt 16,"di t/m za 11-17 u, zo + feestdagen 12-17 u
+"Noord-Holland","HAARLEM","Frans Hals Museum Hal","/museum/Frans+Hals+Museum+Hal.aspx",Grote Markt 16,"di t/m za 11-17 u, zo + feestdagen 12-17 u
 gesloten op 1 jan + 25 dec 
  ",52.3811341,4.6360259
-Noord-Holland,HAARLEM,"Frans Hals Museum Hof","/museum/Frans+Hals+Museum+Hof.aspx",Groot Heiligland 62,"di t/m za 11-17 u; zo + feestdagen 12-17 u
+"Noord-Holland","HAARLEM","Frans Hals Museum Hof","/museum/Frans+Hals+Museum+Hof.aspx",Groot Heiligland 62,"di t/m za 11-17 u; zo + feestdagen 12-17 u
 gesloten op 1 jan + 25 dec
 
  ",52.3766062,4.6336897
-Noord-Holland,HAARLEM,"Museum Haarlem","/museum/Museum+Haarlem.aspx",Groot Heiligland 47,"di t/m za: 11-17 u, ma + zo: 12-17 u",52.3771098,4.6340424
-Noord-Holland,HAARLEM,"Teylers Museum","/museum/Teylers+Museum.aspx",Spaarne  16,"di t/m vr 10-17 u,  za - zo + feestdagen 11 -17 u
+"Noord-Holland","HAARLEM","Museum Haarlem","/museum/Museum+Haarlem.aspx",Groot Heiligland 47,"di t/m za: 11-17 u, ma + zo: 12-17 u",52.3771098,4.6340424
+"Noord-Holland","HAARLEM","Teylers Museum","/museum/Teylers+Museum.aspx",Spaarne  16,"di t/m vr 10-17 u,  za - zo + feestdagen 11 -17 u
 gesloten op 1 jan + 25 dec",52.3803451,4.6403495
-Noord-Holland,HILVERSUM,"Beeld en Geluid","/museum/Beeld+en+Geluid.aspx",Media Parkboulevard 1,"di t/m zo 10-17.30 u
+"Noord-Holland","HILVERSUM","Beeld en Geluid","/museum/Beeld+en+Geluid.aspx",Media Parkboulevard 1,"di t/m zo 10-17.30 u
 gesloten op 1 jan, 27 apr + 25 dec",52.2356788,5.1733122
-Noord-Holland,HILVERSUM,"Museum Hilversum","/museum/Museum+Hilversum.aspx",Kerkbrink  6,"dagelijks 11-17 u, 
+"Noord-Holland","HILVERSUM","Museum Hilversum","/museum/Museum+Hilversum.aspx",Kerkbrink  6,"dagelijks 11-17 u, 
 gesloten op 1 jan + 27 apr ",52.2240962,5.1713824
-Noord-Holland,HOOFDDORP,"Haarlemmermeermuseum Historisch Museum ","/museum/Haarlemmermeermuseum+Historisch+Museum+.aspx",Bosweg 17,"apr t/m okt: di t/m zo 13-17 u
+"Noord-Holland","HOOFDDORP","Haarlemmermeermuseum Historisch Museum ","/museum/Haarlemmermeermuseum+Historisch+Museum+.aspx",Bosweg 17,"apr t/m okt: di t/m zo 13-17 u
 nov t/m mrt: wo, za + zo 13-17 u
 nationale feestdagen: 13-17 u
 voorjaarsvakantie/kerstvakantie: di t/m zo, 13-17 u ",52.3217274,4.6650216
-Noord-Holland,HOORN,"De Halve Maen","/museum/De+Halve+Maen.aspx",Schuijteskade 22,"2015: 30 mei t/m 31 okt, dagelijks 12-17 u (behalve op zeildagen)
+"Noord-Holland","HOORN","De Halve Maen","/museum/De+Halve+Maen.aspx",Schuijteskade 22,"2015: 30 mei t/m 31 okt, dagelijks 12-17 u (behalve op zeildagen)
 2016: 2 mrt t/m 31 okt, dagelijks 12-17 u (behalve op zeildagen)",52.633924,5.0622633
-Noord-Holland,HOORN,"Museum van de 20e Eeuw","/museum/Museum+van+de+20e+Eeuw.aspx",Krententuin 24 (Oostereiland),"ma t/m vr 10-17 u, za/zo + feestdagen 12-17 u
+"Noord-Holland","HOORN","Museum van de 20e Eeuw","/museum/Museum+van+de+20e+Eeuw.aspx",Krententuin 24 (Oostereiland),"ma t/m vr 10-17 u, za/zo + feestdagen 12-17 u
 gesloten op 1 jan, 27 apr + 25 dec",None,None
-Noord-Holland,HOORN,"Museumstoomtram Hoorn-Medemblik","/museum/Museumstoomtram+Hoorn-Medemblik.aspx",Van Dedemstraat 8,"Raadpleeg website voor actuele openingstijden + dienstregeling",52.6456327,5.0545146
-Noord-Holland,HOORN,"Westfries Museum","/museum/Westfries+Museum.aspx",Rode Steen 1,"ma t/m vr 11-17 u, za/zo 13-17 u
+"Noord-Holland","HOORN","Museumstoomtram Hoorn-Medemblik","/museum/Museumstoomtram+Hoorn-Medemblik.aspx",Van Dedemstraat 8,"Raadpleeg website voor actuele openingstijden + dienstregeling",52.6456327,5.0545146
+"Noord-Holland","HOORN","Westfries Museum","/museum/Westfries+Museum.aspx",Rode Steen 1,"ma t/m vr 11-17 u, za/zo 13-17 u
 gesloten op 1 jan, 27 apr, 3e ma in aug (Lappendag) + 25 dec",None,None
-Noord-Holland,HUIZEN,"Huizer Museum","/museum/Huizer+Museum.aspx",Achterbaan  82,"1 nov t/m 31 mrt: di t/m za, 13.30-17 u
+"Noord-Holland","HUIZEN","Huizer Museum","/museum/Huizer+Museum.aspx",Achterbaan  82,"1 nov t/m 31 mrt: di t/m za, 13.30-17 u
 3 apr t/m 31 okt: di t/m za, 11-17 u
 gesloten op feestdagen + rond jaarwisseling",52.3000454,5.2345152
-Noord-Holland,IJMUIDEN,"IJmuider Zee- en Havenmuseum","/museum/IJmuider+Zee-+en+Havenmuseum.aspx",Havenkade 55,"wo, za + zo 13-17 u
+"Noord-Holland","IJMUIDEN","IJmuider Zee- en Havenmuseum","/museum/IJmuider+Zee-+en+Havenmuseum.aspx",Havenkade 55,"wo, za + zo 13-17 u
 schoolvakanties en jul + aug: di t/m zo, 13-17 u",52.4575258,4.5987038
-Noord-Holland,KOOG AAN DE ZAAN,"Molenmuseum","/museum/Molenmuseum.aspx",Museumlaan 18,"di t/m vr 11-17 u, za + zo 13-17 u
+"Noord-Holland","KOOG AAN DE ZAAN","Molenmuseum","/museum/Molenmuseum.aspx",Museumlaan 18,"di t/m vr 11-17 u, za + zo 13-17 u
 gesloten op 1 jan + 25 dec",52.46812115,4.80804446869477
-Noord-Holland,LAREN,"Geologisch Museum Hofland","/museum/Geologisch+Museum+Hofland.aspx",Hilversumseweg  51,"di t/m zo + 2e Paasdag 13-16.30 u
+"Noord-Holland","LAREN","Geologisch Museum Hofland","/museum/Geologisch+Museum+Hofland.aspx",Hilversumseweg  51,"di t/m zo + 2e Paasdag 13-16.30 u
 gesloten op 1 jan, 27 apr + 25 dec",52.2464277,5.2078097
-Noord-Holland,LAREN (NH),"Singer Laren","/museum/Singer+Laren.aspx",Oude Drift 1,"di t/m zo, 31 dec 11-17 u
+"Noord-Holland","LAREN (NH)","Singer Laren","/museum/Singer+Laren.aspx",Oude Drift 1,"di t/m zo, 31 dec 11-17 u
 gesloten op 1 jan",52.2595818,5.222133
-Noord-Holland,LOOSDRECHT,"Kasteel Museum Sypesteyn","/museum/Kasteel+Museum+Sypesteyn.aspx",Nieuw Loosdrechtsedijk 150,"Het kasteel is alleen toegankelijk met een rondleiding.
+"Noord-Holland","LOOSDRECHT","Kasteel Museum Sypesteyn","/museum/Kasteel+Museum+Sypesteyn.aspx",Nieuw Loosdrechtsedijk 150,"Het kasteel is alleen toegankelijk met een rondleiding.
 
 apr t/m jun: di t/m zo 12, 13.30, 15 u
 jul t/m sept: di t/m zo 11.30, 12.30, 13.30, 14,30, 15,30 u
 okt: di t/m zo 12, 13.30, 15 u
 nov t/m mrt: gesloten",52.1935416,5.1224148
-Noord-Holland,MARKEN,"Marker Museum","/museum/Marker+Museum.aspx",Kerkbuurt 44-47,"apr t/m okt: dagelijks 10-17 u (okt 11-16 u), zo 12-16 u",52.46044255,5.10648200422744
-Noord-Holland,MEDEMBLIK,"Bakkerijmuseum De Oude Bakkerij","/museum/Bakkerijmuseum+De+Oude+Bakkerij.aspx",Nieuwstraat  8,"di-zo 11-17u
+"Noord-Holland","MARKEN","Marker Museum","/museum/Marker+Museum.aspx",Kerkbuurt 44-47,"apr t/m okt: dagelijks 10-17 u (okt 11-16 u), zo 12-16 u",52.46044255,5.10648200422744
+"Noord-Holland","MEDEMBLIK","Bakkerijmuseum De Oude Bakkerij","/museum/Bakkerijmuseum+De+Oude+Bakkerij.aspx",Nieuwstraat  8,"di-zo 11-17u
 tijdens schoolvakanties ook op ma geopend",52.7732977,5.1061207
-Noord-Holland,MEDEMBLIK,"Kasteel Radboud","/museum/Kasteel+Radboud.aspx",Oudevaartsgat 8,"wo t/m zo, 10-17* u
+"Noord-Holland","MEDEMBLIK","Kasteel Radboud","/museum/Kasteel+Radboud.aspx",Oudevaartsgat 8,"wo t/m zo, 10-17* u
 *ivm een huwelijk, schoolbezoek of andere bijzonderheden kunnen de openingstijden aangepast worden.",52.7724271,5.1130766
-Noord-Holland,MEDEMBLIK,"Nederlands Stoommachinemuseum","/museum/Nederlands+Stoommachinemuseum.aspx",Oosterdijk 4,"di t/m zo 10-17 u
+"Noord-Holland","MEDEMBLIK","Nederlands Stoommachinemuseum","/museum/Nederlands+Stoommachinemuseum.aspx",Oosterdijk 4,"di t/m zo 10-17 u
 geopend van half feb tot half okt",52.7600065,5.1178613
-Noord-Holland,MIDDENBEEMSTER,"Agrarisch Museum Westerhem","/museum/Agrarisch+Museum+Westerhem.aspx",Middenweg 185,"mei t/m sep: di t/m vr 11-17 u, za + zo 14-17 u
+"Noord-Holland","MIDDENBEEMSTER","Agrarisch Museum Westerhem","/museum/Agrarisch+Museum+Westerhem.aspx",Middenweg 185,"mei t/m sep: di t/m vr 11-17 u, za + zo 14-17 u
 okt t/m apr: zo 14-17 u
 gesloten op feestdagen ",52.5465633,4.9110581
-Noord-Holland,MIDDENBEEMSTER,"Betje Wolff Museum","/museum/Betje+Wolff+Museum.aspx",Middenweg 178,"mei t/m sep: di t/m vr 11-17 u, za/zo + Pasen en Pinksteren 14-17 u
+"Noord-Holland","MIDDENBEEMSTER","Betje Wolff Museum","/museum/Betje+Wolff+Museum.aspx",Middenweg 178,"mei t/m sep: di t/m vr 11-17 u, za/zo + Pasen en Pinksteren 14-17 u
 okt t/m apr: zo 14-17 u
 gesloten op feestdagen",52.5472751,4.9125103
-Noord-Holland,MONNICKENDAM,"Waterlandsmuseum de Speeltoren","/museum/Waterlandsmuseum+de+Speeltoren.aspx",Noordeinde 4,"apr t/m okt + schoolvakanties: di t/m zo 11-17 u, nov t/m mrt: za + zo 11-17 u",52.4597566,5.0355085
-Noord-Holland,MUIDEN,"Forteiland Pampus","/museum/Forteiland+Pampus.aspx",Herengracht 67,"Je kunt alleen per boot op forteiland Pampus komen. Het vertrekpunt van de veerboot vanuit Muiden is Herengracht t/o nr. 33. Vanaf IJburg vertrekt veerdienst Amsterdam naar Pampus. (Vanuit Muiden en Amsterdam geldt een speciaal Museumkaarttarief).
+"Noord-Holland","MONNICKENDAM","Waterlandsmuseum de Speeltoren","/museum/Waterlandsmuseum+de+Speeltoren.aspx",Noordeinde 4,"apr t/m okt + schoolvakanties: di t/m zo 11-17 u, nov t/m mrt: za + zo 11-17 u",52.4597566,5.0355085
+"Noord-Holland","MUIDEN","Forteiland Pampus","/museum/Forteiland+Pampus.aspx",Herengracht 67,"Je kunt alleen per boot op forteiland Pampus komen. Het vertrekpunt van de veerboot vanuit Muiden is Herengracht t/o nr. 33. Vanaf IJburg vertrekt veerdienst Amsterdam naar Pampus. (Vanuit Muiden en Amsterdam geldt een speciaal Museumkaarttarief).
 
 1 apr t/m 28 okt, di t/m zo
 vertrek veerboot Muiden: (10.30), 11.30, 12.30, 13.30, 14.30 u
 vertrek veerboot Pampus: 13, 14, 15, 16, (17) u
 (de tussen haakjes tijden zijn NIET van toepassing in het laagseizoen, in de maand april)
 gesloten op Koningsdag en op alle maandagen (m.u.v. 2e Paasdag en 2e Pinksterdag)",52.3300155,5.0696295
-Noord-Holland,MUIDEN,"Rijksmuseum Muiderslot","/museum/Rijksmuseum+Muiderslot.aspx",Herengracht 1,"apr t/m okt: ma t/m vr 10-17 u, za, zo + feestdagen 12-17 u
+"Noord-Holland","MUIDEN","Rijksmuseum Muiderslot","/museum/Rijksmuseum+Muiderslot.aspx",Herengracht 1,"apr t/m okt: ma t/m vr 10-17 u, za, zo + feestdagen 12-17 u
 nov t/m mrt: za, zo + feestdagen 12-17 u (voorjaarsvakantie en kerstvakantie: ook ma t/m vr)
 1 jan, 25 + 31 dec gesloten",52.3344206,5.0711757
-Noord-Holland,NAARDEN,"Comenius Museum","/museum/Comenius+Museum.aspx",Kloosterstraat  33,"di t/m zo + feestdagen 12-17 u
+"Noord-Holland","NAARDEN","Comenius Museum","/museum/Comenius+Museum.aspx",Kloosterstraat  33,"di t/m zo + feestdagen 12-17 u
 gesloten op 1 jan, Koningsdag, 25 + 31 dec",52.2972666,5.1643241
-Noord-Holland,NAARDEN,"Het Nederlands Vestingmuseum","/museum/Het+Nederlands+Vestingmuseum.aspx",Westwalstraat  6,"di t/m zo, 10.30-17 u
+"Noord-Holland","NAARDEN","Het Nederlands Vestingmuseum","/museum/Het+Nederlands+Vestingmuseum.aspx",Westwalstraat  6,"di t/m zo, 10.30-17 u
 gesloten op 1 jan, 27 apr, 25 + 31 dec",52.2934435,5.16002
-Noord-Holland,NAARDEN-VESTING,"Weegschaal Museum Naarden","/museum/Weegschaal+Museum+Naarden.aspx",Turfpoortstraat 27,"april t/m sept: di t/m zo 11-17 u
+"Noord-Holland","NAARDEN-VESTING","Weegschaal Museum Naarden","/museum/Weegschaal+Museum+Naarden.aspx",Turfpoortstraat 27,"april t/m sept: di t/m zo 11-17 u
 okt t/m mrt: za + zo 11-17 u
 gesloten op 1 jan, 27 apr, 1e + 2e Paasdag, 25, 26 + 31 dec",None,None
-Noord-Holland,OUDESCHILD, TEXEL,"Museum Kaap Skil","/museum/Museum+Kaap+Skil.aspx",Heemskerckstraat 9,"di t/m za 10-17 u, zo + feestdagen 12-17 u
+"Noord-Holland","OUDESCHILD, TEXEL","Museum Kaap Skil","/museum/Museum+Kaap+Skil.aspx",Heemskerckstraat 9,"di t/m za 10-17 u, zo + feestdagen 12-17 u
 tijdens vakanties ook geopend op maandag
 gesloten op 1 jan, 25 dec",53.0393945,4.8473777
-Noord-Holland,PURMEREND,"Purmerends Museum","/museum/Purmerends+Museum.aspx",Kaasmarkt  20,"di t/m zo + feestdagen 13-16 u
+"Noord-Holland","PURMEREND","Purmerends Museum","/museum/Purmerends+Museum.aspx",Kaasmarkt  20,"di t/m zo + feestdagen 13-16 u
 mei t/m okt: di t/m vr 10-16 u, za/zo + feestdagen 13-17 u
 gesloten op 1 jan, 1e Paasdag, 1e Pinksterdag + 25 dec",52.5099771,4.9463111
-Noord-Holland,SCHERMERHORN,"Museummolen Schermerhorn","/museum/Museummolen+Schermerhorn.aspx",Noordervaart  2,"maart: zo 10-17 u
+"Noord-Holland","SCHERMERHORN","Museummolen Schermerhorn","/museum/Museummolen+Schermerhorn.aspx",Noordervaart  2,"maart: zo 10-17 u
 apr t/m 1 sep dagelijks 10-17.30 u
 1 sep t/m 31 okt dagelijks 10-17 u
 gesloten: 1 nov t/m 28 feb
@@ -746,56 +746,56 @@ gesloten: 1 nov t/m 28 feb
 
 
  ",52.6001256,4.87341549111744
-Noord-Holland,VIJFHUIZEN,"Kunstfort bij Vijfhuizen","/museum/Kunstfort+bij+Vijfhuizen.aspx",Fort­wachter 1,"di + wo, vr t/m zo: 13-17 u",None,None
-Noord-Holland,VOLENDAM,"Volendams Museum","/museum/Volendams+Museum.aspx",Zeestraat 41,"half mrt t/m 31 okt dagelijks 10-17 u
+"Noord-Holland","VIJFHUIZEN","Kunstfort bij Vijfhuizen","/museum/Kunstfort+bij+Vijfhuizen.aspx",Fort­wachter 1,"di + wo, vr t/m zo: 13-17 u",None,None
+"Noord-Holland","VOLENDAM","Volendams Museum","/museum/Volendams+Museum.aspx",Zeestraat 41,"half mrt t/m 31 okt dagelijks 10-17 u
 
 ",52.4949239,5.0707973
-Noord-Holland,WEESP,"Museum Weesp","/museum/Museum+Weesp.aspx",Nieuwstraat 41,"wo t/m zo, 13.30-17 u
+"Noord-Holland","WEESP","Museum Weesp","/museum/Museum+Weesp.aspx",Nieuwstraat 41,"wo t/m zo, 13.30-17 u
 gesloten op 1e Paasdag, Koningsdag, tijdens Weespertriathlon, intocht Sinterklaas, 25 + 26 dec",52.3067989,5.042853
-Noord-Holland,ZAANDAM,"Czaar Peterhuisje","/museum/Czaar+Peterhuisje.aspx",Krimp 23,"1 apr-1 okt: dagelijks, 10-17 u
+"Noord-Holland","ZAANDAM","Czaar Peterhuisje","/museum/Czaar+Peterhuisje.aspx",Krimp 23,"1 apr-1 okt: dagelijks, 10-17 u
 1 okt-1 apr: di t/m zo, 10-17 u
 
 1 jan en 25 dec gesloten",52.437322,4.8234891
-Noord-Holland,ZAANDAM,"Museum Zaanse Tijd","/museum/Museum+Zaanse+Tijd.aspx",Kalverringdijk  3,"1 apr - 1 nov: ma t/m zo 10-17 u
+"Noord-Holland","ZAANDAM","Museum Zaanse Tijd","/museum/Museum+Zaanse+Tijd.aspx",Kalverringdijk  3,"1 apr - 1 nov: ma t/m zo 10-17 u
 1 nov - 1 apr: zo 11-17 u",52.4718222,4.8153227
-Noord-Holland,ZAANDAM,"Zaans Museum","/museum/Zaans+Museum.aspx",Schansend  7,"1 apr-1 okt: dagelijks, 9-17 u
+"Noord-Holland","ZAANDAM","Zaans Museum","/museum/Zaans+Museum.aspx",Schansend  7,"1 apr-1 okt: dagelijks, 9-17 u
 1 okt-1 apr: dagelijks, 10-17 u
 gesloten op 1 jan + 25 dec",52.4737006,4.8223915
-Noord-Holland,ZANDVOORT,"Zandvoorts Museum","/museum/Zandvoorts+Museum.aspx",Swaluëstraat 1,"wo t/m zo 13-17 u
+"Noord-Holland","ZANDVOORT","Zandvoorts Museum","/museum/Zandvoorts+Museum.aspx",Swaluëstraat 1,"wo t/m zo 13-17 u
 gesloten op 1 jan, 27 apr, 25, 26 + 31 dec (en gedurende de op- en afbouw van sommige tentoonstellingen)",52.3727322,4.5285976
-Overijssel,ALMELO,"Stadsmuseum Almelo","/museum/Stadsmuseum+Almelo.aspx",Korte Prinsenstraat 2,"di t/m za 13-17 u",52.3542621,6.6649945
-Overijssel,BORNE,"Museum Bussemakerhuis","/museum/Museum+Bussemakerhuis.aspx",Ennekerdijk 11,"di t/m zo, 13.30-17 u
+"Overijssel","ALMELO","Stadsmuseum Almelo","/museum/Stadsmuseum+Almelo.aspx",Korte Prinsenstraat 2,"di t/m za 13-17 u",52.3542621,6.6649945
+"Overijssel","BORNE","Museum Bussemakerhuis","/museum/Museum+Bussemakerhuis.aspx",Ennekerdijk 11,"di t/m zo, 13.30-17 u
 zie website voor speciale openings- en sluitingstijden tijdens feestdagen",52.2993079,6.760794
-Overijssel,DELDEN,"Zoutmuseum","/museum/Zoutmuseum.aspx",Langestraat  30,"mei t/m sep + herfstvakantie: ma t/m vr, 11-17 u, za+zo, 14-17 u
+"Overijssel","DELDEN","Zoutmuseum","/museum/Zoutmuseum.aspx",Langestraat  30,"mei t/m sep + herfstvakantie: ma t/m vr, 11-17 u, za+zo, 14-17 u
 okt t/m nov, jan t/m apr: di t/m vr + zo, 14-17 u
 dec: zo + kerstvakantie (behalve za + ma), 14-17 u
 gesloten op 1 jan, 27 apr, Pasen, Hemelvaart, Pinksteren, Kerst + 31 dec",52.2627687,6.7124945
-Overijssel,DENEKAMP,"Natura Docet Wonderryck Twente","/museum/Natura+Docet+Wonderryck+Twente.aspx",Oldenzaalsestraat  39,"ma t/m vr: 11-17 u, za + zo: 12-17 u",52.3707686,7.0012314
-Overijssel,DEVENTER,"Museum De Waag","/museum/Museum+De+Waag.aspx",Brink 56,"di t/m zo, 11-17 u
+"Overijssel","DENEKAMP","Natura Docet Wonderryck Twente","/museum/Natura+Docet+Wonderryck+Twente.aspx",Oldenzaalsestraat  39,"ma t/m vr: 11-17 u, za + zo: 12-17 u",52.3707686,7.0012314
+"Overijssel","DEVENTER","Museum De Waag","/museum/Museum+De+Waag.aspx",Brink 56,"di t/m zo, 11-17 u
 24 dec: gesloten om 16 uur, 26 dec: 10-17 u, 31 dec: gesloten om 16 u
 gesloten op 1 jan, 1e Paasdag, 1e Pinksterdag + 25 dec
 
 
 
  ",52.2514927,6.1600262
-Overijssel,DEVENTER,"Speelgoedmuseum","/museum/Speelgoedmuseum.aspx",Brink 47,"wo t/m zo 11-17 u
+"Overijssel","DEVENTER","Speelgoedmuseum","/museum/Speelgoedmuseum.aspx",Brink 47,"wo t/m zo 11-17 u
 tijdens schoolvakanties ook op di, 11-17 u
 gesloten op 1 jan, 1e Paasdag, 1e Pinksterdag, 25 dec
 (museum niet toegankelijk voor rolstoelen + mensen die slecht ter been zijn)
 
 
  ",52.2508845,6.1596548
-Overijssel,DIEPENHEIM,"Kunstvereniging Diepenheim","/museum/Kunstvereniging+Diepenheim.aspx",Grotestraat 17,"1 apr t/m 31 okt
+"Overijssel","DIEPENHEIM","Kunstvereniging Diepenheim","/museum/Kunstvereniging+Diepenheim.aspx",Grotestraat 17,"1 apr t/m 31 okt
 wo t/m zo, 11-17 u
 
 1 nov t/m 31 mrt
 wo t/m zo, 12-16 u
 
 De tuinen van Diepenheim zijn altijd open",52.2006616,6.5504021
-Overijssel,ENSCHEDE,"De Museumfabriek","/museum/De+Museumfabriek.aspx",Het Rozendaal 11,"di t/m zo 11-17 u
+"Overijssel","ENSCHEDE","De Museumfabriek","/museum/De+Museumfabriek.aspx",Het Rozendaal 11,"di t/m zo 11-17 u
 gesloten op 1 jan + 25 dec",52.2324201,6.8947934
-Overijssel,ENSCHEDE,"Rijksmuseum Twenthe","/museum/Rijksmuseum+Twenthe.aspx",Lasondersingel  129-131,"di t/m zo + feestdagen 11-17 u",52.2280463,6.8920412
-Overijssel,GIETHOORN,"Museum Giethoorn 't Olde Maat Uus","/museum/Museum+Giethoorn+%27t+Olde+Maat+Uus.aspx",Binnenpad 52,"t/m 30 mrt 2018
+"Overijssel","ENSCHEDE","Rijksmuseum Twenthe","/museum/Rijksmuseum+Twenthe.aspx",Lasondersingel  129-131,"di t/m zo + feestdagen 11-17 u",52.2280463,6.8920412
+"Overijssel","GIETHOORN","Museum Giethoorn 't Olde Maat Uus","/museum/Museum+Giethoorn+%27t+Olde+Maat+Uus.aspx",Binnenpad 52,"t/m 30 mrt 2018
 ma, za + zo, 11-17 u
 dagelijks tijdens de voorjaarsvakantie
 
@@ -805,201 +805,201 @@ dagelijks, 11-17 u
 gesloten op 1 jan, 25 + 26 dec 
 
 Groepsbezoek is ook buiten openingstijden op afspraak mogelijk.",52.7222195,6.08965551868717
-Overijssel,HEINO/WIJHE,"Kasteel Het Nijenhuis","/museum/Kasteel+Het+Nijenhuis.aspx",t Nijenhuis  10,"di t/m zo 11-17 u
+"Overijssel","HEINO/WIJHE","Kasteel Het Nijenhuis","/museum/Kasteel+Het+Nijenhuis.aspx",t Nijenhuis  10,"di t/m zo 11-17 u
 gesloten op 1 jan + 25 dec",52.4164622,6.2135685
-Overijssel,HENGELO,"Museum Hengelo","/museum/Museum+Hengelo.aspx",Beekstraat 51,"di t/m vr 13-17 u, za + zo 14-17 u
+"Overijssel","HENGELO","Museum Hengelo","/museum/Museum+Hengelo.aspx",Beekstraat 51,"di t/m vr 13-17 u, za + zo 14-17 u
 feestdagen gesloten",52.2642788,6.7914678
-Overijssel,HENGELO,"Oyfo Techniekmuseum","/museum/Oyfo+Techniekmuseum.aspx",Industriestraat  9,"di t/m zo, 12-17 u
+"Overijssel","HENGELO","Oyfo Techniekmuseum","/museum/Oyfo+Techniekmuseum.aspx",Industriestraat  9,"di t/m zo, 12-17 u
 gesloten op 1 jan, 1e Paasdag, 1e Pinksterdag, 27 apr, Hemelvaart, 24, 25 + 31 dec",52.2587343,6.7890175
-Overijssel,KAMPEN,"Ikonenmuseum Kampen","/museum/Ikonenmuseum+Kampen.aspx",Buiten Nieuwstraat 2,"di/wo 13-17 u,do t/mza 10-17, 1 jan, 30 apr, Hemelvaartsdag en 25, 26 en 31 dec gesloten
+"Overijssel","KAMPEN","Ikonenmuseum Kampen","/museum/Ikonenmuseum+Kampen.aspx",Buiten Nieuwstraat 2,"di/wo 13-17 u,do t/mza 10-17, 1 jan, 30 apr, Hemelvaartsdag en 25, 26 en 31 dec gesloten
 
 ",52.5608525,5.913512
-Overijssel,KAMPEN,"Stedelijk Museum Kampen","/museum/Stedelijk+Museum+Kampen.aspx",Oudestraat 133,"di t/m za 10-17 u, zo 13-17 u",52.5588668,5.9165896
-Overijssel,OLDENZAAL,"Het Palthe Huis","/museum/Het+Palthe+Huis.aspx",Marktstraat  13,"di t/m vr 12-17 u, za + zo 14-17 u
+"Overijssel","KAMPEN","Stedelijk Museum Kampen","/museum/Stedelijk+Museum+Kampen.aspx",Oudestraat 133,"di t/m za 10-17 u, zo 13-17 u",52.5588668,5.9165896
+"Overijssel","OLDENZAAL","Het Palthe Huis","/museum/Het+Palthe+Huis.aspx",Marktstraat  13,"di t/m vr 12-17 u, za + zo 14-17 u
 gesloten op 1 jan, Carnavalszondag, 1e Paas- en Pinksterdag, 27 apr, Hemelvaart + 25 dec ",52.3131938,6.9302786
-Overijssel,OMMEN,"Nationaal Tinnen Figuren Museum","/museum/Nationaal+Tinnen+Figuren+Museum.aspx",Markt  1,"apr t/m okt: di t/m za 11-17 u, zo + feestdagen 13-17 u
+"Overijssel","OMMEN","Nationaal Tinnen Figuren Museum","/museum/Nationaal+Tinnen+Figuren+Museum.aspx",Markt  1,"apr t/m okt: di t/m za 11-17 u, zo + feestdagen 13-17 u
 nov t/m mrt: za 11-17 u, zo + feestdagen 13-17 u
 tijdens schoolvakanties ook di t/m za 11-17 uur, zo 13-17 u
 gesloten op 1 jan + 25 dec",52.51777245,6.42210521208154
-Overijssel,OOTMARSUM,"Openluchtmuseum Ootmarsum","/museum/Openluchtmuseum+Ootmarsum.aspx",Commanderieplein 2,"jan: za + zo, 10-16 u
+"Overijssel","OOTMARSUM","Openluchtmuseum Ootmarsum","/museum/Openluchtmuseum+Ootmarsum.aspx",Commanderieplein 2,"jan: za + zo, 10-16 u
 feb-okt: dagelijks 10-17 u
 nov + dec: dagelijks 10-16 u
 gesloten op 1 jan
  ",52.405137,6.9000821
-Overijssel,RIJSSEN,"Rijssens Museum","/museum/Rijssens+Museum.aspx",Kasteellaan 1,"di t/m vr 10-17 u, za 13-17 u, gesloten op 1 jan, 31 dec en feestdagen",52.3097282,6.5355556
-Overijssel,STEENWIJK,"Kermis- en Circusmuseum","/museum/Kermis-+en+Circusmuseum.aspx",Onnastraat  3,"Let op: het museum is in 2017 voor onbepaalde tijd gesloten
+"Overijssel","RIJSSEN","Rijssens Museum","/museum/Rijssens+Museum.aspx",Kasteellaan 1,"di t/m vr 10-17 u, za 13-17 u, gesloten op 1 jan, 31 dec en feestdagen",52.3097282,6.5355556
+"Overijssel","STEENWIJK","Kermis- en Circusmuseum","/museum/Kermis-+en+Circusmuseum.aspx",Onnastraat  3,"Let op: het museum is in 2017 voor onbepaalde tijd gesloten
 
 di t/m vr, 10-12 u, 13-16 u
 za, 11-16 u
  ",52.784788,6.1180245
-Overijssel,STEENWIJK,"Museum Collectie Krop","/museum/Museum+Collectie+Krop.aspx",Gasthuislaan 2,"za + zo, di t/m do 11-16 u,  1e + 2e Paasdag, 5 mei, Hemelvaartsdag, 1e + 2e Pinksterdag
+"Overijssel","STEENWIJK","Museum Collectie Krop","/museum/Museum+Collectie+Krop.aspx",Gasthuislaan 2,"za + zo, di t/m do 11-16 u,  1e + 2e Paasdag, 5 mei, Hemelvaartsdag, 1e + 2e Pinksterdag
 
 gesloten: ma + vr, 25+ 26 dec, 1 jan
  ",52.7852073,6.112336
-Overijssel,STEENWIJK,"Stadsmuseum Steenwijk","/museum/Stadsmuseum+Steenwijk.aspx",Markt 64,"di t/m vr, 13.30-16.30 u",52.7865311,6.116886
-Overijssel,ZWARTSLUIS,"Schoonewelle Mus. voor Natuur en Ambacht","/museum/Schoonewelle+Mus.+voor+Natuur+en+Ambacht.aspx",Handelskade 25,"di t/m za 11-17 u
+"Overijssel","STEENWIJK","Stadsmuseum Steenwijk","/museum/Stadsmuseum+Steenwijk.aspx",Markt 64,"di t/m vr, 13.30-16.30 u",52.7865311,6.116886
+"Overijssel","ZWARTSLUIS","Schoonewelle Mus. voor Natuur en Ambacht","/museum/Schoonewelle+Mus.+voor+Natuur+en+Ambacht.aspx",Handelskade 25,"di t/m za 11-17 u
 apr t/m aug ook zo 13-17 u",52.6403669,6.0730962
-Overijssel,ZWOLLE,"Museum de Fundatie","/museum/Museum+de+Fundatie.aspx",Blijmarkt 20,"di t/m zo 11-17 u
+"Overijssel","ZWOLLE","Museum de Fundatie","/museum/Museum+de+Fundatie.aspx",Blijmarkt 20,"di t/m zo 11-17 u
 
 ",52.5101745,6.091473
-Utrecht,AMERONGEN,"Kasteel Amerongen","/museum/Kasteel+Amerongen.aspx",Drostestraat 20,"apr t/m okt: di t/m zo, 11-17 u (1e rondleiding 12 u, laatste rondleiding 16 u)
+"Utrecht","AMERONGEN","Kasteel Amerongen","/museum/Kasteel+Amerongen.aspx",Drostestraat 20,"apr t/m okt: di t/m zo, 11-17 u (1e rondleiding 12 u, laatste rondleiding 16 u)
 
 nov t/m mrt: do t/m zo, 11.30-16 u (1e rondleiding 12 u, laatste rondleiding 15 u)
 
 schoolvakanties in het laagseizoen: dinsdag t/m zondag
 gesloten op 1 jan, 27 apr, 25 + 31 dec
  ",51.9971765,5.4588579
-Utrecht,AMERSFOORT,"Kunsthal KAdE","/museum/Kunsthal+KAdE.aspx",Eemplein 77,"di t/m zo 11-17 u*
+"Utrecht","AMERSFOORT","Kunsthal KAdE","/museum/Kunsthal+KAdE.aspx",Eemplein 77,"di t/m zo 11-17 u*
 (* aangepaste openingstijdens tijdens op- en afbouw van tentoonstellingen)",52.1591062,5.38309
-Utrecht,AMERSFOORT,"Mondriaanhuis","/museum/Mondriaanhuis.aspx",Kortegracht 11,"di t/m zo 11-17 uur
+"Utrecht","AMERSFOORT","Mondriaanhuis","/museum/Mondriaanhuis.aspx",Kortegracht 11,"di t/m zo 11-17 uur
 gesloten op 1 jan, 27 apr + 25 dec
  ",52.1544663,5.3912241
-Utrecht,AMERSFOORT,"Museum Flehite","/museum/Museum+Flehite.aspx",Breestraat 80,"Let op: vanwege een grondige renovatie van het eigen pand verhuist Museum Flehite tot begin 2019 naar het Rietveldpaviljoen, Zonnehof 8 in Amersfoort. 
+"Utrecht","AMERSFOORT","Museum Flehite","/museum/Museum+Flehite.aspx",Breestraat 80,"Let op: vanwege een grondige renovatie van het eigen pand verhuist Museum Flehite tot begin 2019 naar het Rietveldpaviljoen, Zonnehof 8 in Amersfoort. 
 
 di t/m zo 11-17 u
 24 + 31 dec, 11-16 u
 gesloten op 1 jan, 27 apr + 25 dec",52.1578119,5.3870248
-Utrecht,AMERSFOORT,"Museum Nederlandse Cavalerie","/museum/Museum+Nederlandse+Cavalerie.aspx",Barchman Wuijtierslaan 198,"di t/m vr, 10-16 u
+"Utrecht","AMERSFOORT","Museum Nederlandse Cavalerie","/museum/Museum+Nederlandse+Cavalerie.aspx",Barchman Wuijtierslaan 198,"di t/m vr, 10-16 u
 gesloten op 1 jan, 27 apr, Hemelvaartsdag, 25, 26 + 31 dec",None,None
-Utrecht,BUNNIK,"Museum Oud Amelisweerd","/museum/Museum+Oud+Amelisweerd.aspx",Koningslaan 9,"di t/m zo, 11-17 u
+"Utrecht","BUNNIK","Museum Oud Amelisweerd","/museum/Museum+Oud+Amelisweerd.aspx",Koningslaan 9,"di t/m zo, 11-17 u
 geopend op 2e Paasdag + 2e Pinksterdag
 gesloten op 1 jan, Koningsdag + 25 dec
 tuin & park bij MOA geopend van zonsopgang tot zonsondergang",52.0674182,5.16960561675843
-Utrecht,BUNNIK,"Waterliniemuseum","/museum/Waterliniemuseum.aspx",Achterdijk 12,"di t/m zo, 10-17 u
+"Utrecht","BUNNIK","Waterliniemuseum","/museum/Waterliniemuseum.aspx",Achterdijk 12,"di t/m zo, 10-17 u
 tijdens schoolvakanties ook op ma ",52.0389933,5.209718
-Utrecht,BUNSCHOTEN-SPAKENBURG,"Museum Spakenburg","/museum/Museum+Spakenburg.aspx",Oude Schans 47-63,"apr t/m okt: ma 13.30-17 u, di t/m za 10-17 u
+"Utrecht","BUNSCHOTEN-SPAKENBURG","Museum Spakenburg","/museum/Museum+Spakenburg.aspx",Oude Schans 47-63,"apr t/m okt: ma 13.30-17 u, di t/m za 10-17 u
 nov t/m mrt: wo t/m za 12-16 u",52.2543689,5.3781316
-Utrecht,DOORN,"Huis Doorn","/museum/Huis+Doorn.aspx",Langbroekerweg 10,"wo t/m vr 13-17 u, za + zo 12-17 u (kassa sluit om 16 u)
+"Utrecht","DOORN","Huis Doorn","/museum/Huis+Doorn.aspx",Langbroekerweg 10,"wo t/m vr 13-17 u, za + zo 12-17 u (kassa sluit om 16 u)
 jul + aug ook open op di 13-17 u
 geen rondleidingen op 1e + 3e zondag vd mnd, huis is vrij te bezoeken
 alle feestdagen open, m.u.v. 1 jan + 25 dec",52.032432,5.3411102
-Utrecht,DOORN,"Paviljoen Nederland en WOI","/museum/Paviljoen+Nederland+en+WOI.aspx",Langbroekerweg 10,"wo t/m vr, 13-17 u, za + zo, 12-17 u
+"Utrecht","DOORN","Paviljoen Nederland en WOI","/museum/Paviljoen+Nederland+en+WOI.aspx",Langbroekerweg 10,"wo t/m vr, 13-17 u, za + zo, 12-17 u
  ",52.032432,5.3411102
-Utrecht,HAARZUILENS,"Kasteel de Haar","/museum/Kasteel+de+Haar.aspx",Kasteellaan 1,"kasteel: dagelijks, 11-17 u
+"Utrecht","HAARZUILENS","Kasteel de Haar","/museum/Kasteel+de+Haar.aspx",Kasteellaan 1,"kasteel: dagelijks, 11-17 u
 park: dagelijks, 9-17 u
 (weekend + feestdagen kunnen afwijkende openingstijden van toepassing zijn, klik hier voor actuele openingstijden).
 gesloten op 1 jan, 27 apr + 31 dec",52.1200758,4.9841371
-Utrecht,IJSSELSTEIN,"mij | museum ijsselstein","/museum/mij+%7c+museum+ijsselstein.aspx",Walkade 2,"wo t/m zo 13-17 u
+"Utrecht","IJSSELSTEIN","mij | museum ijsselstein","/museum/mij+%7c+museum+ijsselstein.aspx",Walkade 2,"wo t/m zo 13-17 u
 gesloten op 1 jan, 1e Paas- en Pinksterdag, 27 apr, 24, 25 +31 dec
 
  ",52.0202328,5.0471023
-Utrecht,OUDEWATER,"Heksenwaag","/museum/Heksenwaag.aspx",Leeuweringerstraat 2,"apr t/m okt: di t/m zo 11-17 u
+"Utrecht","OUDEWATER","Heksenwaag","/museum/Heksenwaag.aspx",Leeuweringerstraat 2,"apr t/m okt: di t/m zo 11-17 u
 nov t/m mrt: vr t/m zo, 11-17 u
 extra open tijdens de voorjaars- en kerstvakantie, zie website",52.0248705,4.8705615
-Utrecht,OUDEWATER,"Touwmuseum 'De Baanschuur'","/museum/Touwmuseum+%27De+Baanschuur%27.aspx",Reijersteeg 4,"1 apr t/m 31 okt
+"Utrecht","OUDEWATER","Touwmuseum 'De Baanschuur'","/museum/Touwmuseum+%27De+Baanschuur%27.aspx",Reijersteeg 4,"1 apr t/m 31 okt
 dinsdag t/m za 11-17 u, zon- + feestdagen 12-17 u
 geopend tijdens 2e Paasdag, Hemelvaartsdag, 1e + 2e Pinksterdag en voorjaars- en kerstvakantie
 gesloten op Koningsdag",52.0245593,4.8720867
-Utrecht,OUD-ZUILEN,"Slot Zuylen","/museum/Slot+Zuylen.aspx",Tournooiveld 1,"1 nov-1 apr: za + zo, 11-17 u
+"Utrecht","OUD-ZUILEN","Slot Zuylen","/museum/Slot+Zuylen.aspx",Tournooiveld 1,"1 nov-1 apr: za + zo, 11-17 u
 1 apr-1 nov: di t/m zo, 11-17 u 
 start rondleiding: 11.30, 12.30, 13.30, 14.30, 15.30 u
 gezinsrondleiding: zo, 14 u
 
 gesloten op 1 jan, 25, 26 + 31 dec",52.1271708,5.0730964
-Utrecht,SOEST,"Nationaal Militair Museum","/museum/Nationaal+Militair+Museum.aspx",Verlengde Paltzerweg 1,"di t/m zo, 10-17 u
+"Utrecht","SOEST","Nationaal Militair Museum","/museum/Nationaal+Militair+Museum.aspx",Verlengde Paltzerweg 1,"di t/m zo, 10-17 u
 (tijdens vakanties ook op ma)
 gesloten op 1 jan, 27 apr + 25 dec",52.1313885,5.27621626136575
-Utrecht,UTRECHT,"BAK, basis voor actuele kunst","/museum/BAK%2c+basis+voor+actuele+kunst.aspx",Pauwstraat 13a,"wo t/m zo, 13-19 u
+"Utrecht","UTRECHT","BAK, basis voor actuele kunst","/museum/BAK%2c+basis+voor+actuele+kunst.aspx",Pauwstraat 13a,"wo t/m zo, 13-19 u
 (openingstijden gelden alleen tijdens tentoonstellingen)",52.0945349,5.1178052
-Utrecht,UTRECHT,"Botanische Tuinen Utrecht","/museum/Botanische+Tuinen+Utrecht.aspx",Budapestlaan 17,"dagelijks 10-16.30 u",52.0879808,5.1690722
-Utrecht,UTRECHT,"Centraal Museum","/museum/Centraal+Museum.aspx",Agnietenstraat 3,"di t/m zo, 2e Paas- en Pinksterdag 11-17 u
+"Utrecht","UTRECHT","Botanische Tuinen Utrecht","/museum/Botanische+Tuinen+Utrecht.aspx",Budapestlaan 17,"dagelijks 10-16.30 u",52.0879808,5.1690722
+"Utrecht","UTRECHT","Centraal Museum","/museum/Centraal+Museum.aspx",Agnietenstraat 3,"di t/m zo, 2e Paas- en Pinksterdag 11-17 u
 1e do v/d mnd open tot 21 u
 gesloten op 1 jan, 27 apr + 25 dec",52.0844246,5.1271656
-Utrecht,UTRECHT,"Spoorwegmuseum","/museum/Spoorwegmuseum.aspx",Maliebaanstation 16,"di t/m zo (+ ma in schoolvakanties) 10-17 u
+"Utrecht","UTRECHT","Spoorwegmuseum","/museum/Spoorwegmuseum.aspx",Maliebaanstation 16,"di t/m zo (+ ma in schoolvakanties) 10-17 u
 gesloten op 1 jan + 27 apr",52.0879594,5.1310773
-Utrecht,UTRECHT,"Museum Catharijneconvent","/museum/Museum+Catharijneconvent.aspx",Lange Nieuwstraat 38,"di t/m vr, 10-17 u, za, zo + feestdagen 11-17 u 
+"Utrecht","UTRECHT","Museum Catharijneconvent","/museum/Museum+Catharijneconvent.aspx",Lange Nieuwstraat 38,"di t/m vr, 10-17 u, za, zo + feestdagen 11-17 u 
 Tweede Paasdag, tweede Pinksterdag, 25, 26, 31 dec + 1 jan, 11-17 u
 gesloten op overige ma + 27 apr",52.0872891,5.1239242
-Utrecht,UTRECHT,"Museum Speelklok","/museum/Museum+Speelklok.aspx",Steenweg  6,"di t/m zo, feestdagen + ma in schoolvakanties 10-17 u
+"Utrecht","UTRECHT","Museum Speelklok","/museum/Museum+Speelklok.aspx",Steenweg  6,"di t/m zo, feestdagen + ma in schoolvakanties 10-17 u
 gesloten op 1 jan, 27 apr + 25 dec",52.09059545,5.11933545425115
-Utrecht,UTRECHT,"Museum Sterrenwacht Sonnenborgh","/museum/Museum+Sterrenwacht+Sonnenborgh.aspx",Zonnenburg 2,"di t/m vr 11-17 u, zo 13-17 u
+"Utrecht","UTRECHT","Museum Sterrenwacht Sonnenborgh","/museum/Museum+Sterrenwacht+Sonnenborgh.aspx",Zonnenburg 2,"di t/m vr 11-17 u, zo 13-17 u
 gesloten op 1 jan, 27 apr + 25 dec",52.0851695,5.1275897
-Utrecht,UTRECHT,"Nederlands Volksbuurtmuseum","/museum/Nederlands+Volksbuurtmuseum.aspx",Waterstraat  27,"di t/m zo, 11-17 u
+"Utrecht","UTRECHT","Nederlands Volksbuurtmuseum","/museum/Nederlands+Volksbuurtmuseum.aspx",Waterstraat  27,"di t/m zo, 11-17 u
 gesloten op de 4e + 5e za vd mnd + feestdagen",52.0952611,5.1147566
-Utrecht,UTRECHT,"nijntje museum","/museum/nijntje+museum.aspx",Agnietenstraat 2,"di t/m zo, 10-17 u (ook op Paas- en Pinkstermaandag)
+"Utrecht","UTRECHT","nijntje museum","/museum/nijntje+museum.aspx",Agnietenstraat 2,"di t/m zo, 10-17 u (ook op Paas- en Pinkstermaandag)
 gesloten op 1 jan, 27 apr + 25 dec
  ",52.0839426,5.126046
-Utrecht,UTRECHT,"Universiteitsmuseum Utrecht","/museum/Universiteitsmuseum+Utrecht.aspx",Lange Nieuwstraat  106,"dagelijks 10 - 17 u
+"Utrecht","UTRECHT","Universiteitsmuseum Utrecht","/museum/Universiteitsmuseum+Utrecht.aspx",Lange Nieuwstraat  106,"dagelijks 10 - 17 u
 gesloten op 1 jan, 27 apr + 25 dec",52.0848271,5.1257245
-Utrecht,VEENENDAAL,"Museum Veenendaal","/museum/Museum+Veenendaal.aspx",Kees Stipplein 76,"di t/m za 10-17 u",52.0273734,5.559411
-Utrecht,VIANEN UT,"Stedelijk Museum Vianen","/museum/Stedelijk+Museum+Vianen.aspx",Voorstraat 97,"di t/m za 10-16.30 u, zo 12-16 u
+"Utrecht","VEENENDAAL","Museum Veenendaal","/museum/Museum+Veenendaal.aspx",Kees Stipplein 76,"di t/m za 10-17 u",52.0273734,5.559411
+"Utrecht","VIANEN UT","Stedelijk Museum Vianen","/museum/Stedelijk+Museum+Vianen.aspx",Voorstraat 97,"di t/m za 10-16.30 u, zo 12-16 u
 
  ",51.9928276,5.0926669
-Utrecht,WIJK BIJ DUURSTEDE,"Museum Dorestad","/museum/Museum+Dorestad.aspx",Muntstraat 42,"NB: Vanaf maandag 2 oktober 2017 is het museum voorlopig gesloten. Schoolrondleidingen op afspraak kunnen nog wel. Wellicht kan het op een ander adres later heropenen. Wanneer en waar is nog onbekend.",51.97057295,5.3448704679781
-Utrecht,WOERDEN,"Stadsmuseum Woerden","/museum/Stadsmuseum+Woerden.aspx",Kerkplein 6,"di t/m za 10-17 u, zo 13-17 u, 1 jan + 25 dec gesloten",52.0861189,4.8845497
-Zeeland,AARDENBURG,"Gemeentelijk Archeologisch Museum","/museum/Gemeentelijk+Archeologisch+Museum.aspx",Stichting Archeologisch Museum Zeeland
+"Utrecht","WIJK BIJ DUURSTEDE","Museum Dorestad","/museum/Museum+Dorestad.aspx",Muntstraat 42,"NB: Vanaf maandag 2 oktober 2017 is het museum voorlopig gesloten. Schoolrondleidingen op afspraak kunnen nog wel. Wellicht kan het op een ander adres later heropenen. Wanneer en waar is nog onbekend.",51.97057295,5.3448704679781
+"Utrecht","WOERDEN","Stadsmuseum Woerden","/museum/Stadsmuseum+Woerden.aspx",Kerkplein 6,"di t/m za 10-17 u, zo 13-17 u, 1 jan + 25 dec gesloten",52.0861189,4.8845497
+"Zeeland","AARDENBURG","Gemeentelijk Archeologisch Museum","/museum/Gemeentelijk+Archeologisch+Museum.aspx",Stichting Archeologisch Museum Zeeland
 Marktstraat 18,"apr t/m okt:di t/m vr 10-12/13.30-17 u, za/zo 13-17 u, groepen op afspraak het hele jaar
 
 ",None,None
-Zeeland,AXEL,"Museum Het Warenhuis - Axel","/museum/Museum+Het+Warenhuis+-+Axel.aspx",Markt 2,"wo t/m za, 11-17 u
+"Zeeland","AXEL","Museum Het Warenhuis - Axel","/museum/Museum+Het+Warenhuis+-+Axel.aspx",Markt 2,"wo t/m za, 11-17 u
 openingstijden erkende feestdagen, zie www.hetwarenhuis.nl",51.2652618,3.9088425
-Zeeland,BRESKENS,"Visserijmuseum Breskens","/museum/Visserijmuseum+Breskens.aspx",Kaai 1-103,"apr t/m okt: di t/m za 10-17 u, zo 14-17 u 
+"Zeeland","BRESKENS","Visserijmuseum Breskens","/museum/Visserijmuseum+Breskens.aspx",Kaai 1-103,"apr t/m okt: di t/m za 10-17 u, zo 14-17 u 
 jul + aug: ma t/m za 10-17 u, zo 14-17 u 
 extra openingstijden in voorjaars- en kerstvakantie (zie website) 
 voor groepen op afspraak: gehele jaar geopend ",51.3959471,3.5673616
-Zeeland,DOMBURG,"Marie Tak van Poortvliet Museum","/museum/Marie+Tak+van+Poortvliet+Museum.aspx",Ooststraat 10a,"eind mrt t/m begin nov: di t/m zo, 13-17 u
+"Zeeland","DOMBURG","Marie Tak van Poortvliet Museum","/museum/Marie+Tak+van+Poortvliet+Museum.aspx",Ooststraat 10a,"eind mrt t/m begin nov: di t/m zo, 13-17 u
 (ook geopend op 2e Paasdag + 2e Pinksterdag)",51.5633672,3.4983573
-Zeeland,DREISCHOR,"Streek & Landbouwmuseum Goemanszorg","/museum/Streek+%26+Landbouwmuseum+Goemanszorg.aspx",Molenweg 3,"open van Pasen tot nov
+"Zeeland","DREISCHOR","Streek & Landbouwmuseum Goemanszorg","/museum/Streek+%26+Landbouwmuseum+Goemanszorg.aspx",Molenweg 3,"open van Pasen tot nov
 di t/m zo, 11-17 u, groepen op afspraak
  ",51.6871108,3.9867175
-Zeeland,GOES,"Historisch Museum De Bevelanden","/museum/Historisch+Museum+De+Bevelanden.aspx",Singelstraat  13,"ma t/m vrij 11-17 u, za + zo 13-17 u
+"Zeeland","GOES","Historisch Museum De Bevelanden","/museum/Historisch+Museum+De+Bevelanden.aspx",Singelstraat  13,"ma t/m vrij 11-17 u, za + zo 13-17 u
 1 nov t/m 31 mrt zo gesloten
 gesloten op christelijke feestdagen, 1 jan, 27 apr + 31 dec",51.5027081,3.8899501
-Zeeland,IJZENDIJKE,"Museum Het Bolwerk","/museum/Museum+Het+Bolwerk.aspx",Markt 28,"di t/m zo, 13-17 u
+"Zeeland","IJZENDIJKE","Museum Het Bolwerk","/museum/Museum+Het+Bolwerk.aspx",Markt 28,"di t/m zo, 13-17 u
 gesloten van 1 nov t/m 31 mrt
 extra winteropening op 27 + 28 dec 2018 + 2+ 3 jan 2019 ",51.3224863,3.6158119
-Zeeland,KAPELLE,"Fruitteeltmuseum","/museum/Fruitteeltmuseum.aspx",Annie M.G. Schmidtsingel 1,"NB: Vanwege een herinrichting is het museum tijdelijk gesloten. Op woensdag 2 mei is de heropening gepland
+"Zeeland","KAPELLE","Fruitteeltmuseum","/museum/Fruitteeltmuseum.aspx",Annie M.G. Schmidtsingel 1,"NB: Vanwege een herinrichting is het museum tijdelijk gesloten. Op woensdag 2 mei is de heropening gepland
 
 apr t/m okt: di t/m za 13-17 u
 jul + aug: ma t/m za 11-17 u
 nov t/m mrt: wo + za 13-17 u
 gesloten op feestdagen",None,None
-Zeeland,Middelburg,"Vleeshal","/museum/Vleeshal.aspx",Markt 1,"wo t/m vr, 13-17 u
+"Zeeland","Middelburg","Vleeshal","/museum/Vleeshal.aspx",Markt 1,"wo t/m vr, 13-17 u
 za + zo, 11-17 u",51.5000702,3.6734431
-Zeeland,MIDDELBURG,"Zeeuws Museum","/museum/Zeeuws+Museum.aspx",Korte Burg 2,"di t/m zo + feestdagen 11-17 u
+"Zeeland","MIDDELBURG","Zeeuws Museum","/museum/Zeeuws+Museum.aspx",Korte Burg 2,"di t/m zo + feestdagen 11-17 u
 gesloten op 1 jan + 25 dec",51.5006674,3.6140503
-Zeeland,NIEUWDORP (Borsele),"Bevrijdingsmuseum Zeeland","/museum/Bevrijdingsmuseum+Zeeland.aspx",Coudorp 41,"mei t/m okt: di t/m vr13-17 u, za 10-17 u
+"Zeeland","NIEUWDORP (Borsele)","Bevrijdingsmuseum Zeeland","/museum/Bevrijdingsmuseum+Zeeland.aspx",Coudorp 41,"mei t/m okt: di t/m vr13-17 u, za 10-17 u
 nov t/m apr: wo 13-17 u, za 10-17 u
 gesloten tijdens feestdagen",51.4678094,3.7440106
-Zeeland,OOSTKAPELLE,"Museum Terra Maris","/museum/Museum+Terra+Maris.aspx",Duinvlietweg  6,"15 apr t/m 31 okt: ma t/m zo 10-17 u
+"Zeeland","OOSTKAPELLE","Museum Terra Maris","/museum/Museum+Terra+Maris.aspx",Duinvlietweg  6,"15 apr t/m 31 okt: ma t/m zo 10-17 u
 1 nov t/m 14 apr: wo t/m vr 12-16 u, za + zo 12-17 u, tijdens de Zeeuwse schoolvakanties ma t/m zo 12-17 u
 gesloten op 1 jan + 25 dec",51.569667,3.5200097
-Zeeland,OUWERKERK,"Watersnoodmuseum","/museum/Watersnoodmuseum.aspx",Weg van de Buitenlandse Pers 5,"1 nov t/m 31 mrt, di t/m zo 10-17 u
+"Zeeland","OUWERKERK","Watersnoodmuseum","/museum/Watersnoodmuseum.aspx",Weg van de Buitenlandse Pers 5,"1 nov t/m 31 mrt, di t/m zo 10-17 u
 1 apr t/m 31 okt, ma t/m zo 10-17 u
 kassa sluit om 16.15 u
 gesloten op 1 jan + 25 dec
 ! kijk bij extreme weersomstandigheden op de website voor bereikbaarheid",51.6181395,3.9865999
-Zeeland,SAS VAN GENT,"Industrieel Museum Zeeland","/museum/Industrieel+Museum+Zeeland.aspx",Westkade 114,"wo t/m zo, 12.30-17 u",51.231218,3.8008093
-Zeeland,SINT-ANNALAND,"Streekmuseum ""De Meestoof""","/museum/Streekmuseum+%22De+Meestoof%22.aspx",Bierensstraat 6,"t/m oktober di t/m za 14-17u
+"Zeeland","SAS VAN GENT","Industrieel Museum Zeeland","/museum/Industrieel+Museum+Zeeland.aspx",Westkade 114,"wo t/m zo, 12.30-17 u",51.231218,3.8008093
+"Zeeland","SINT-ANNALAND","Streekmuseum ""De Meestoof""","/museum/Streekmuseum+%22De+Meestoof%22.aspx",Bierensstraat 6,"t/m oktober di t/m za 14-17u
 jul + aug 13.30-17u",51.6009445,4.1018546
-Zeeland,VEERE,"Museum Veere  Museum De Schotse Huizen","/museum/Museum+Veere++Museum+De+Schotse+Huizen.aspx",Kaai 25 - 27,"t/m 29 mrt: za, zo + schoolvakanties, 13-17 u
+"Zeeland","VEERE","Museum Veere  Museum De Schotse Huizen","/museum/Museum+Veere++Museum+De+Schotse+Huizen.aspx",Kaai 25 - 27,"t/m 29 mrt: za, zo + schoolvakanties, 13-17 u
 30 mrt t/m 4 nov: dagelijks, 10-17 u
 5 nov t/m 31 mrt 2019: zie website
 gesloten op 1 jan + 25 + 26 dec",51.54994,3.66928
-Zeeland,VEERE,"Museum Veere Stadhuismuseum","/museum/Museum+Veere+Stadhuismuseum.aspx",Markt 5,"t/m 29 mrt: za, zo + schoolvakanties, 13-17 u
+"Zeeland","VEERE","Museum Veere Stadhuismuseum","/museum/Museum+Veere+Stadhuismuseum.aspx",Markt 5,"t/m 29 mrt: za, zo + schoolvakanties, 13-17 u
 30 mrt t/m 4 nov: dagelijks, 10-17 u
 5 nov t/m 31 mrt 2019: zie website
 gesloten op 1 jan + 25 + 26 dec",51.5483171,3.6689289
-Zeeland,VLISSINGEN,"Zeeuws Maritiem MuZEEum","/museum/Zeeuws+Maritiem+MuZEEum.aspx",Nieuwendijk  11,"di t/m zo 10-17 u, tijdens schoolvakanties ook op ma
+"Zeeland","VLISSINGEN","Zeeuws Maritiem MuZEEum","/museum/Zeeuws+Maritiem+MuZEEum.aspx",Nieuwendijk  11,"di t/m zo 10-17 u, tijdens schoolvakanties ook op ma
 gesloten op 1 jan, 27 apr + 25 dec",51.4413744,3.575426
-Zeeland,ZIERIKZEE,"Stadhuismuseum Zierikzee","/museum/Stadhuismuseum+Zierikzee.aspx",Meelstraat 6-8,"di t/m za 11-17 u, zo 13-17 u
+"Zeeland","ZIERIKZEE","Stadhuismuseum Zierikzee","/museum/Stadhuismuseum+Zierikzee.aspx",Meelstraat 6-8,"di t/m za 11-17 u, zo 13-17 u
 jul + aug ook open op ma 11-17 u  ",51.6505799,3.9164452
-Zuid-Holland,ALPHEN A/D RIJN,"Museumpark Archeon","/museum/Museumpark+Archeon.aspx",Archeonlaan 1,"24 mrt t/m 28 okt: di/do/vr: 10-16 u, do/za/zo: 10-17 u
+"Zuid-Holland","ALPHEN A/D RIJN","Museumpark Archeon","/museum/Museumpark+Archeon.aspx",Archeonlaan 1,"24 mrt t/m 28 okt: di/do/vr: 10-16 u, do/za/zo: 10-17 u
 ma alleen geopend op 2 + 30 apr, 21 mei, 23 + 30 jul, 6 + 13 aug, 22 okt
 
 vanaf nov elk weekend + vakanties geopend
 
 zie voor speciale openingstijden - o.a. tijdens de schoolvakanties - de website van het Archeon.",None,None
-Zuid-Holland,BOSKOOP,"Boomkwekerijmuseum","/museum/Boomkwekerijmuseum.aspx",Reijerskoop  52 - 54,"okt t/m mrt: di t/m vr 13.30-16.30 u, za 10-16 u
+"Zuid-Holland","BOSKOOP","Boomkwekerijmuseum","/museum/Boomkwekerijmuseum.aspx",Reijerskoop  52 - 54,"okt t/m mrt: di t/m vr 13.30-16.30 u, za 10-16 u
 apr t/m sep: di t/m vr 10-16.30 u, za 10-16.30 u",52.0741842,4.6620338
-Zuid-Holland,BRIELLE,"Historisch Museum Den Briel","/museum/Historisch+Museum+Den+Briel.aspx",Markt 1,"di-za 10-17 u, zo 13-17 u
+"Zuid-Holland","BRIELLE","Historisch Museum Den Briel","/museum/Historisch+Museum+Den+Briel.aspx",Markt 1,"di-za 10-17 u, zo 13-17 u
 elke wo vanaf 13 u gratis
 gesloten op 1 jan, Pasen, 27 apr, Hemelvaart, 1e Pinksterdag, 25, 26 + 31 dec",51.9022554,4.164558
-Zuid-Holland,DELFT,"Botanische Tuin TU Delft","/museum/Botanische+Tuin+TU+Delft.aspx",Julianalaan  67,"ma t/m vr 8.30-17 u, za 10-17 u, zo, 12-17 u
+"Zuid-Holland","DELFT","Botanische Tuin TU Delft","/museum/Botanische+Tuin+TU+Delft.aspx",Julianalaan  67,"ma t/m vr 8.30-17 u, za 10-17 u, zo, 12-17 u
 gesloten 1 jan, 2e Paasdag, 25 + 26 dec",52.0084965,4.3713027
-Zuid-Holland,DELFT,"Museum Paul Tétar van Elven","/museum/Museum+Paul+T%c3%a9tar+van+Elven.aspx",Koornmarkt 67,"di t/m zo 13-17 u
+"Zuid-Holland","DELFT","Museum Paul Tétar van Elven","/museum/Museum+Paul+T%c3%a9tar+van+Elven.aspx",Koornmarkt 67,"di t/m zo 13-17 u
 gesloten op 1 jan",52.0095233,4.3587818
-Zuid-Holland,DELFT,"Museum Prinsenhof Delft","/museum/Museum+Prinsenhof+Delft.aspx",St. Agathaplein 1,"26 feb t/m 31 aug + schoolvakanties (regio midden) 
+"Zuid-Holland","DELFT","Museum Prinsenhof Delft","/museum/Museum+Prinsenhof+Delft.aspx",St. Agathaplein 1,"26 feb t/m 31 aug + schoolvakanties (regio midden) 
 ma t/m zo: 11-17 u
 
 1 sep t/m 28 feb
@@ -1008,191 +1008,191 @@ di t/m zo: 11-17 u
 gesloten op 1 jan, 27 apr, 25 dec 
  
  ",52.0118717,4.35439295350679
-Zuid-Holland,DELFT,"Science Centre Delft","/museum/Science+Centre+Delft.aspx",Mijnbouwstraat 120,"di t/m vr, 10-17 u, za, zo + feestdagen, 11-17 u
+"Zuid-Holland","DELFT","Science Centre Delft","/museum/Science+Centre+Delft.aspx",Mijnbouwstraat 120,"di t/m vr, 10-17 u, za, zo + feestdagen, 11-17 u
 gesloten op 1 jan, 27 apr + 25 dec",52.0069956,4.3695781
-Zuid-Holland,DEN HAAG,"Museum Beelden aan Zee","/museum/Museum+Beelden+aan+Zee.aspx",Harteveltstraat 1,"di t/m zo, 10 - 17 u",52.1105882,4.2775515
-Zuid-Holland,DEN HAAG,"COMM","/museum/COMM.aspx",Zeestraat  82,"di t/m zo, 10-17 u
+"Zuid-Holland","DEN HAAG","Museum Beelden aan Zee","/museum/Museum+Beelden+aan+Zee.aspx",Harteveltstraat 1,"di t/m zo, 10 - 17 u",52.1105882,4.2775515
+"Zuid-Holland","DEN HAAG","COMM","/museum/COMM.aspx",Zeestraat  82,"di t/m zo, 10-17 u
 gesloten op 25 dec + 1 jan",52.0859299,4.3016618
-Zuid-Holland,DEN HAAG,"De Mesdag Collectie","/museum/De+Mesdag+Collectie.aspx",Laan van Meerdervoort  7 F,"wo t/m zo 12-17 u
+"Zuid-Holland","DEN HAAG","De Mesdag Collectie","/museum/De+Mesdag+Collectie.aspx",Laan van Meerdervoort  7 F,"wo t/m zo 12-17 u
 gesloten op 1 jan, 27 apr + 25 dec",52.0839436,4.2924186
-Zuid-Holland,DEN HAAG,"Fotomuseum Den Haag","/museum/Fotomuseum+Den+Haag.aspx",Stadhouderslaan 43,"di t/m zo 11-18 u
+"Zuid-Holland","DEN HAAG","Fotomuseum Den Haag","/museum/Fotomuseum+Den+Haag.aspx",Stadhouderslaan 43,"di t/m zo 11-18 u
 gesloten op 25 dec
  ",52.0903621,4.27960891451608
-Zuid-Holland,DEN HAAG,"Galerij Prins Willem V","/museum/Galerij+Prins+Willem+V.aspx",Buitenhof 33,"di t/m zo 12-17 u
+"Zuid-Holland","DEN HAAG","Galerij Prins Willem V","/museum/Galerij+Prins+Willem+V.aspx",Buitenhof 33,"di t/m zo 12-17 u
 gesloten op 1 jan + 25 dec",52.07952975,4.31008292444108
-Zuid-Holland,DEN HAAG,"GEM, museum voor actuele kunst","/museum/GEM%2c+museum+voor+actuele+kunst.aspx",Stadhouderslaan 43,"di t/m zo 11-18 u
+"Zuid-Holland","DEN HAAG","GEM, museum voor actuele kunst","/museum/GEM%2c+museum+voor+actuele+kunst.aspx",Stadhouderslaan 43,"di t/m zo 11-18 u
 gesloten op 1 jan + 25 dec",52.0903621,4.27960891451608
-Zuid-Holland,DEN HAAG,"Gemeentemuseum Den Haag","/museum/Gemeentemuseum+Den+Haag.aspx",Stadhouderslaan 41,"di t/m zo 10-17 u
+"Zuid-Holland","DEN HAAG","Gemeentemuseum Den Haag","/museum/Gemeentemuseum+Den+Haag.aspx",Stadhouderslaan 41,"di t/m zo 10-17 u
 gesloten op 25 dec
  ",52.08936375,4.28060392236842
-Zuid-Holland,DEN HAAG,"Haags Historisch Museum","/museum/Haags+Historisch+Museum.aspx",Korte Vijverberg  7,"di t/m vr 10-17 u, za + zo 12-17 u
+"Zuid-Holland","DEN HAAG","Haags Historisch Museum","/museum/Haags+Historisch+Museum.aspx",Korte Vijverberg  7,"di t/m vr 10-17 u, za + zo 12-17 u
 zie website voor speciale openingstijden tijdens feestdagen
 gesloten op 1 jan, Prinsjesdag + 25 dec",52.0812508,4.31402830259211
-Zuid-Holland,DEN HAAG,"Humanity House","/museum/Humanity+House.aspx",Prinsegracht 8,"di t/m vr 10-17 u, za + zo 12-17 u
+"Zuid-Holland","DEN HAAG","Humanity House","/museum/Humanity+House.aspx",Prinsegracht 8,"di t/m vr 10-17 u, za + zo 12-17 u
 gesloten op 1 jan, 2e Paasdag, 2e Pinksterdag, 25, 26 + 31 dec",52.0747292,4.3080936453456
-Zuid-Holland,DEN HAAG,"Kinderboekenmuseum","/museum/Kinderboekenmuseum.aspx",Prins Willem-Alexanderhof 5,"di t/m vr: 10-17 u, za + zo: 12-17 u
+"Zuid-Holland","DEN HAAG","Kinderboekenmuseum","/museum/Kinderboekenmuseum.aspx",Prins Willem-Alexanderhof 5,"di t/m vr: 10-17 u, za + zo: 12-17 u
 tijdens schoolvakanties ook op ma
 gesloten op 1 jan, 1e Paasdag, 27 april, 5 mei, 1e Pinksterdag + 25 dec
 
 Het Kinderboekenmuseum ontvangt doordeweeks veel schoolklassen tijdens openingstijden. Bepaalde tentoonstellingen kunnen daardoor tijdelijk minder toegankelijk zijn. Wilt u weten of er museumlessen zijn? Bel gerust naar 070-3339666.",52.0809944,4.3256087874401
-Zuid-Holland,DEN HAAG,"Literatuurmuseum","/museum/Literatuurmuseum.aspx",Prins Willem-Alexanderhof 5,"di t/m vr 10-17 u, za, zo + feestdagen 12-17 u
+"Zuid-Holland","DEN HAAG","Literatuurmuseum","/museum/Literatuurmuseum.aspx",Prins Willem-Alexanderhof 5,"di t/m vr 10-17 u, za, zo + feestdagen 12-17 u
 gesloten op 1 jan, 1e Paasdag, 27 april, 5 mei, 1e Pinksterdag + 25 dec",52.0809944,4.3256087874401
-Zuid-Holland,DEN HAAG,"Louis Couperus Museum","/museum/Louis+Couperus+Museum.aspx",Javastraat 17,"wo t/m zo 12-17 u
+"Zuid-Holland","DEN HAAG","Louis Couperus Museum","/museum/Louis+Couperus+Museum.aspx",Javastraat 17,"wo t/m zo 12-17 u
 gesloten op 1 jan, 25 + 26 dec",52.0886423,4.3077353
-Zuid-Holland,DEN HAAG,"Louwman Museum","/museum/Louwman+Museum.aspx",Leidsestraatweg 57,"di t/m zo + feestdagen 10-17 u
+"Zuid-Holland","DEN HAAG","Louwman Museum","/museum/Louwman+Museum.aspx",Leidsestraatweg 57,"di t/m zo + feestdagen 10-17 u
 gesloten op 1 jan, 27 apr + 25 dec",52.0996146,4.3485884
-Zuid-Holland,DEN HAAG,"Mauritshuis","/museum/Mauritshuis.aspx",Plein 29,"ma 13-18 u, di t/m zo 10-18 u, do 10-20 u
+"Zuid-Holland","DEN HAAG","Mauritshuis","/museum/Mauritshuis.aspx",Plein 29,"ma 13-18 u, di t/m zo 10-18 u, do 10-20 u
 gesloten op 1 jan, 6 nov + 25 dec",52.0803787,4.31483404258705
-Zuid-Holland,DEN HAAG,"Museon","/museum/Museon.aspx",Stadhouderslaan 37,"di t/m zo + ma in schoolvakanties, 11-17 u
+"Zuid-Holland","DEN HAAG","Museon","/museum/Museon.aspx",Stadhouderslaan 37,"di t/m zo + ma in schoolvakanties, 11-17 u
 gesloten op 1 jan + 25 dec",52.0887625,4.28109126419232
-Zuid-Holland,DEN HAAG,"Museum Bredius","/museum/Museum+Bredius.aspx",Lange Vijverberg 14,"di t/m zo 11-17 u
+"Zuid-Holland","DEN HAAG","Museum Bredius","/museum/Museum+Bredius.aspx",Lange Vijverberg 14,"di t/m zo 11-17 u
 
 ",52.08130825,4.31246412915918
-Zuid-Holland,DEN HAAG,"Museum Gevangenpoort","/museum/Museum+Gevangenpoort.aspx",Buitenhof 33,"di-vr 10-17 u, za/zo 12-17 u
+"Zuid-Holland","DEN HAAG","Museum Gevangenpoort","/museum/Museum+Gevangenpoort.aspx",Buitenhof 33,"di-vr 10-17 u, za/zo 12-17 u
 gesloten op 1 jan + 25 dec
 zie website voor speciale openingstijden tijdens feestdagen",52.07952975,4.31008292444108
-Zuid-Holland,DEN HAAG,"Museum Meermanno","/museum/Museum+Meermanno.aspx",Prinsessegracht  30,"di t/m zo 11-17 u
+"Zuid-Holland","DEN HAAG","Museum Meermanno","/museum/Museum+Meermanno.aspx",Prinsessegracht  30,"di t/m zo 11-17 u
 gesloten op feestdagen",52.0849728,4.31565430983835
-Zuid-Holland,DEN HAAG,"Nationaal Archief","/museum/Nationaal+Archief.aspx",P.W. Alexanderhof 20,"di 10-21 u, wo t/m vr 10-17 u, za + zo 11-17 u
+"Zuid-Holland","DEN HAAG","Nationaal Archief","/museum/Nationaal+Archief.aspx",P.W. Alexanderhof 20,"di 10-21 u, wo t/m vr 10-17 u, za + zo 11-17 u
 gesloten op 1 jan, 27 apr + 25 dec",None,None
-Zuid-Holland,DEN HAAG,"NEST","/museum/NEST.aspx",De Constant Rebecqueplein 20b,"do + vr 14-20 u
+"Zuid-Holland","DEN HAAG","NEST","/museum/NEST.aspx",De Constant Rebecqueplein 20b,"do + vr 14-20 u
 za + zo, 14-18 u",52.0764201,4.2914948
-Zuid-Holland,DEN HAAG,"Panorama Mesdag","/museum/Panorama+Mesdag.aspx",Zeestraat 65,"ma t/m za 10-17 u, zo + feestdagen 11-17 u
+"Zuid-Holland","DEN HAAG","Panorama Mesdag","/museum/Panorama+Mesdag.aspx",Zeestraat 65,"ma t/m za 10-17 u, zo + feestdagen 11-17 u
 gesloten op 1 jan + 25 dec",52.08495635,4.30417068863004
-Zuid-Holland,DEN HAAG,"Vrijmetselarij Museum","/museum/Vrijmetselarij+Museum.aspx",Javastraat 2B,"Te bezoeken tijdens één van de rondleidingen; elke vrijdag om 11, 13.30 en 15 uur. Reserveren kan online.",52.0871636,4.3009988
-Zuid-Holland,DEN-HAAG,"West Den Haag","/museum/West+Den+Haag.aspx",Lange Voorhout 34,"wo t/m zo, 12-18 u
+"Zuid-Holland","DEN HAAG","Vrijmetselarij Museum","/museum/Vrijmetselarij+Museum.aspx",Javastraat 2B,"Te bezoeken tijdens één van de rondleidingen; elke vrijdag om 11, 13.30 en 15 uur. Reserveren kan online.",52.0871636,4.3009988
+"Zuid-Holland","DEN-HAAG","West Den Haag","/museum/West+Den+Haag.aspx",Lange Voorhout 34,"wo t/m zo, 12-18 u
 feestdagen gesloten",52.0829581,4.3120322
-Zuid-Holland,DORDRECHT,"Dordrechts Museum","/museum/Dordrechts+Museum.aspx",Museumstraat 40,"di t/m zo 11-17 u
+"Zuid-Holland","DORDRECHT","Dordrechts Museum","/museum/Dordrechts+Museum.aspx",Museumstraat 40,"di t/m zo 11-17 u
 gesloten op ma, 1 jan, 27 apr + 25 dec",51.8144995,4.6717394
-Zuid-Holland,DORDRECHT,"Het Dordts Patriciërshuis","/museum/Het+Dordts+Patrici%c3%abrshuis.aspx",Wolwevershaven 9,"wo t/m zo, 13-17 u
+"Zuid-Holland","DORDRECHT","Het Dordts Patriciërshuis","/museum/Het+Dordts+Patrici%c3%abrshuis.aspx",Wolwevershaven 9,"wo t/m zo, 13-17 u
 gesloten op 1 jan, 27 apr, 2e Paasdag, Hemelvaart, 2e Pinksterdag, 25 + 26 dec
 
 buiten reguliere openingstijden voor groepen op afspraak geopend",51.8190281,4.6672929
-Zuid-Holland,DORDRECHT,"Het Hof van Nederland","/museum/Het+Hof+van+Nederland.aspx",Hof 6,"di t/m zo, 11-17 u
+"Zuid-Holland","DORDRECHT","Het Hof van Nederland","/museum/Het+Hof+van+Nederland.aspx",Hof 6,"di t/m zo, 11-17 u
 gesloten op 1 jan, 27 apr + 25 dec",51.8157582,4.6709463
-Zuid-Holland,DORDRECHT,"Huis Van Gijn","/museum/Huis+Van+Gijn.aspx",Nieuwe Haven 29-30,"di-zo 11-17 u
+"Zuid-Holland","DORDRECHT","Huis Van Gijn","/museum/Huis+Van+Gijn.aspx",Nieuwe Haven 29-30,"di-zo 11-17 u
 gesloten op 1 jan, 27 apr + 25 dec",51.8170115,4.6650433
-Zuid-Holland,DORDRECHT,"Nationaal Onderwijsmuseum","/museum/Nationaal+Onderwijsmuseum.aspx",Burgemeester de Raadtsingel 97,"ma t/m za 9-17 u, zo 11-17 u
+"Zuid-Holland","DORDRECHT","Nationaal Onderwijsmuseum","/museum/Nationaal+Onderwijsmuseum.aspx",Burgemeester de Raadtsingel 97,"ma t/m za 9-17 u, zo 11-17 u
 gesloten 1 jan, 27 apr + 25 dec",51.8085666,4.6611104
-Zuid-Holland,GORINCHEM,"Gorcums Museum","/museum/Gorcums+Museum.aspx",Grote Markt  17,"di t/m za 10-17 u, zo 11-17 u
+"Zuid-Holland","GORINCHEM","Gorcums Museum","/museum/Gorcums+Museum.aspx",Grote Markt  17,"di t/m za 10-17 u, zo 11-17 u
 okt t/m mrt zo 13-17 u
 gesloten op 1 jan + 25 dec",51.8296559,4.9744042
-Zuid-Holland,GOUDA,"Museum Gouda","/museum/Museum+Gouda.aspx",Achter de kerk  14,"Ook: Oosthaven 9 met de museumwinkel. di t/m zo 11-17 uur
+"Zuid-Holland","GOUDA","Museum Gouda","/museum/Museum+Gouda.aspx",Achter de kerk  14,"Ook: Oosthaven 9 met de museumwinkel. di t/m zo 11-17 uur
 gesloten op 1 jan, 27 apr + 25 dec",52.0104329,4.7114988
-Zuid-Holland,GOUDA,"Sint Jan Gouda","/museum/Sint+Jan+Gouda.aspx",Achter de Kerk 2,"mrt t/m nov: ma t/m za, 9-17 u
+"Zuid-Holland","GOUDA","Sint Jan Gouda","/museum/Sint+Jan+Gouda.aspx",Achter de Kerk 2,"mrt t/m nov: ma t/m za, 9-17 u
 nov t/m mrt: ma t/m za, 10-16 u
 Op zondag is de Sint-Jan uitsluitend geopend voor het bijwonen van een kerkdienst.
 gesloten op 1 jan, 25 + 26 dec
 
  ",52.0105656,4.7120478
-Zuid-Holland,GOUDA,"Verzetsmuseum Zuid-Holland","/museum/Verzetsmuseum+Zuid-Holland.aspx",Turfmarkt  30,"di t/m vr 10-17 u, za 12-17 u
+"Zuid-Holland","GOUDA","Verzetsmuseum Zuid-Holland","/museum/Verzetsmuseum+Zuid-Holland.aspx",Turfmarkt  30,"di t/m vr 10-17 u, za 12-17 u
 gesloten op feestdagen",52.0125656,4.7089476
-Zuid-Holland,HAASTRECHT,"Museum Paulina Bisdom van Vliet ","/museum/Museum+Paulina+Bisdom+van+Vliet+.aspx",Hoogstraat 166,"1 feb t/m 31 mrt: za + zo, 11-17 u
+"Zuid-Holland","HAASTRECHT","Museum Paulina Bisdom van Vliet ","/museum/Museum+Paulina+Bisdom+van+Vliet+.aspx",Hoogstraat 166,"1 feb t/m 31 mrt: za + zo, 11-17 u
 1 apr t/m 31 okt: di t/m zo, 11-17 u
 1 nov t/m 23 dec: za + zo, 11-17 u
 gesloten van 24 dec tot 1 feb + Koningsdag",52.0019417,4.7751228
-Zuid-Holland,HARDINXVELD-GIESSENDAM,"De Koperen Knop","/museum/De+Koperen+Knop.aspx",Binnendams  6,"di t/m vr en feestdagen, 13-17 u, za 11-17 u
+"Zuid-Holland","HARDINXVELD-GIESSENDAM","De Koperen Knop","/museum/De+Koperen+Knop.aspx",Binnendams  6,"di t/m vr en feestdagen, 13-17 u, za 11-17 u
 gesloten op 1 jan + 25 dec",51.8327728,4.847093
-Zuid-Holland,HEINENOORD,"Museum Hoeksche Waard","/museum/Museum+Hoeksche+Waard.aspx",Dorpsstraat 13,"wo t/m zo, 13-17 u 
+"Zuid-Holland","HEINENOORD","Museum Hoeksche Waard","/museum/Museum+Hoeksche+Waard.aspx",Dorpsstraat 13,"wo t/m zo, 13-17 u 
 za 10-17 u",51.8251682,4.4771435
-Zuid-Holland,HELLEVOETSLUIS,"Nationaal Brandweermuseum","/museum/Nationaal+Brandweermuseum.aspx",Industriehaven 8,"zie website Nationaal Brandweermuseum",51.8249413,4.1300842
-Zuid-Holland,HONSELERSDIJK,"Westlands Museum","/museum/Westlands+Museum.aspx",Middel Broekweg 154,"di t/m zo 13-17 u
+"Zuid-Holland","HELLEVOETSLUIS","Nationaal Brandweermuseum","/museum/Nationaal+Brandweermuseum.aspx",Industriehaven 8,"zie website Nationaal Brandweermuseum",51.8249413,4.1300842
+"Zuid-Holland","HONSELERSDIJK","Westlands Museum","/museum/Westlands+Museum.aspx",Middel Broekweg 154,"di t/m zo 13-17 u
 juli en aug: di t/m vr, 10-17 u, za + zo, 13-17 u
 gesloten op feestdagen
 
  ",52.0090161,4.2463879198699
-Zuid-Holland,KATWIJK AAN ZEE,"Katwijks Museum","/museum/Katwijks+Museum.aspx",Voorstraat  46,"di t/m za 10-17 u
+"Zuid-Holland","KATWIJK AAN ZEE","Katwijks Museum","/museum/Katwijks+Museum.aspx",Voorstraat  46,"di t/m za 10-17 u
 gesloten op feestdagen",52.2036994,4.3970675
-Zuid-Holland,KRIMPEN A/D  IJSSEL,"Streekmuseum Krimpenerwaard","/museum/Streekmuseum+Krimpenerwaard.aspx",IJsseldijk  312,"di t/m za, 2e Paas- + Pinksterdag & Hemelvaart 14-17 u
+"Zuid-Holland","KRIMPEN A/D  IJSSEL","Streekmuseum Krimpenerwaard","/museum/Streekmuseum+Krimpenerwaard.aspx",IJsseldijk  312,"di t/m za, 2e Paas- + Pinksterdag & Hemelvaart 14-17 u
 gesloten op 1 jan, Goede Vrijdag, 27 apr, 25 + 31 dec",None,None
-Zuid-Holland,LEERDAM,"Nationaal Glasmuseum","/museum/Nationaal+Glasmuseum.aspx",Lingedijk  28,"di t/m za 10-17 u, zo + feestdagen 12-17 u, gesloten op 1 jan, 27 apr + 25 dec",51.8818119,5.0858153
-Zuid-Holland,LEIDEN,"Museum De Lakenhal","/museum/Museum+De+Lakenhal.aspx",Oude Singel 28-32,"Museum De Lakenhal wordt verbouwd en is gesloten voor publiek. T/m 27 augustus 2017 is de tentoonstelling Openluchtmuseum De Lakenhal; 100 jaar ná De Stijl te zien op het Pieterskerkhof in Leiden. ",52.1627647,4.4886004
-Zuid-Holland,LEIDEN,"Hortus Botanicus Leiden","/museum/Hortus+Botanicus+Leiden.aspx",Rapenburg 73,"wintertijd: 1 nov t/m 31 mrt, di t/m zo: 10-16 u
+"Zuid-Holland","LEERDAM","Nationaal Glasmuseum","/museum/Nationaal+Glasmuseum.aspx",Lingedijk  28,"di t/m za 10-17 u, zo + feestdagen 12-17 u, gesloten op 1 jan, 27 apr + 25 dec",51.8818119,5.0858153
+"Zuid-Holland","LEIDEN","Museum De Lakenhal","/museum/Museum+De+Lakenhal.aspx",Oude Singel 28-32,"Museum De Lakenhal wordt verbouwd en is gesloten voor publiek. T/m 27 augustus 2017 is de tentoonstelling Openluchtmuseum De Lakenhal; 100 jaar ná De Stijl te zien op het Pieterskerkhof in Leiden. ",52.1627647,4.4886004
+"Zuid-Holland","LEIDEN","Hortus Botanicus Leiden","/museum/Hortus+Botanicus+Leiden.aspx",Rapenburg 73,"wintertijd: 1 nov t/m 31 mrt, di t/m zo: 10-16 u
 zomertijd: 1 apr t/m 31 okt, dagelijks: 10-18 u",52.1569331,4.4855894
-Zuid-Holland,LEIDEN,"Japanmuseum SieboldHuis","/museum/Japanmuseum+SieboldHuis.aspx",Rapenburg 19,"di-zo 10-17 u, 1 jan, 27 april, 3 okt + 25 dec gesloten",52.1596414,4.4846158
-Zuid-Holland,LEIDEN,"Molenmuseum De Valk","/museum/Molenmuseum+De+Valk.aspx",2e Binnenvestgracht  1,"di t/m za 10-17 u, zo/feestdagen 13-17 u
+"Zuid-Holland","LEIDEN","Japanmuseum SieboldHuis","/museum/Japanmuseum+SieboldHuis.aspx",Rapenburg 19,"di-zo 10-17 u, 1 jan, 27 april, 3 okt + 25 dec gesloten",52.1596414,4.4846158
+"Zuid-Holland","LEIDEN","Molenmuseum De Valk","/museum/Molenmuseum+De+Valk.aspx",2e Binnenvestgracht  1,"di t/m za 10-17 u, zo/feestdagen 13-17 u
 
 ",52.164557,4.4863342
-Zuid-Holland,LEIDEN,"Museum Volkenkunde","/museum/Museum+Volkenkunde.aspx",Steenstraat 1,"di t/m zo + feestdagen 10-17 u
+"Zuid-Holland","LEIDEN","Museum Volkenkunde","/museum/Museum+Volkenkunde.aspx",Steenstraat 1,"di t/m zo + feestdagen 10-17 u
 tijdens feestdagen en schoolvakanties ook op ma, 10-17 u
 gesloten op 1 jan, 27 apr, 3 okt + 25 dec",52.1635091,4.4838644
-Zuid-Holland,LEIDEN,"Naturalis","/museum/Naturalis.aspx",Pesthuislaan 7,"dagelijks, 10-17 u",52.1650924,4.475417
-Zuid-Holland,LEIDEN,"Rijksmuseum Boerhaave","/museum/Rijksmuseum+Boerhaave.aspx",Lange St. Agnietenstraat 10,"di t/m zo, 10-17 u
+"Zuid-Holland","LEIDEN","Naturalis","/museum/Naturalis.aspx",Pesthuislaan 7,"dagelijks, 10-17 u",52.1650924,4.475417
+"Zuid-Holland","LEIDEN","Rijksmuseum Boerhaave","/museum/Rijksmuseum+Boerhaave.aspx",Lange St. Agnietenstraat 10,"di t/m zo, 10-17 u
 ma in schoolvakanties ",52.161335,4.48921
-Zuid-Holland,LEIDEN,"Rijksmuseum van Oudheden","/museum/Rijksmuseum+van+Oudheden.aspx",Rapenburg 28,"di t/m zo: 10-17 u, ook op ma tijdens alle landelijke schoolvakanties
+"Zuid-Holland","LEIDEN","Rijksmuseum van Oudheden","/museum/Rijksmuseum+van+Oudheden.aspx",Rapenburg 28,"di t/m zo: 10-17 u, ook op ma tijdens alle landelijke schoolvakanties
 altijd open: 1e + 2e paasdag, 5 mei, Hemelvaartsdag, 1e + 2e pinksterdag, 26 + 31 dec.
 gesloten: 1 jan, 27 apr, 3 okt + 25 dec",52.1585315,4.4855863
-Zuid-Holland,LISSE,"Museum De Zwarte Tulp","/museum/Museum+De+Zwarte+Tulp.aspx",Grachtweg 2a,"di t/m zo 10-17 u
+"Zuid-Holland","LISSE","Museum De Zwarte Tulp","/museum/Museum+De+Zwarte+Tulp.aspx",Grachtweg 2a,"di t/m zo 10-17 u
 gesloten op 1 jan, 1e + 2e Paasdag, 27 apr, 1e Pinksterdag, Harddraverij Lisse, 25 + 26 dec",52.2590072,4.5547036
-Zuid-Holland,MAASSLUIS,"Museum Maassluis","/museum/Museum+Maassluis.aspx",Zuiddijk  16 - 18,"di t/m zo, Goede Vrijdag, 2e Paasdag, 5 mei, Hemelvaart, 2e Pinksterdag + 26 dec 14-17 u, overige feestdagen gesloten",51.9186541,4.2571959
-Zuid-Holland,MAASSLUIS,"Nationaal Sleepvaart Museum","/museum/Nationaal+Sleepvaart+Museum.aspx",Hoogstraat 1-3,"di t/m zo 13.30-16.30 u, 1 jan, 1e Paas- en Pinksterdag, 25 + 31 dec gesloten.",51.9217716,4.2531255
-Zuid-Holland,NOORDWIJK,"Museum Noordwijk","/museum/Museum+Noordwijk.aspx",Jan Kroonsplein  4,"apr t/m sep: di-za 11-17 u, zo 14-17 u",52.2442858,4.4313661
-Zuid-Holland,NOORDWIJK,"Space Expo","/museum/Space+Expo.aspx",Keplerlaan 3,"di t/m zo (+ ma in schoolvakanties) 10-17 u
+"Zuid-Holland","MAASSLUIS","Museum Maassluis","/museum/Museum+Maassluis.aspx",Zuiddijk  16 - 18,"di t/m zo, Goede Vrijdag, 2e Paasdag, 5 mei, Hemelvaart, 2e Pinksterdag + 26 dec 14-17 u, overige feestdagen gesloten",51.9186541,4.2571959
+"Zuid-Holland","MAASSLUIS","Nationaal Sleepvaart Museum","/museum/Nationaal+Sleepvaart+Museum.aspx",Hoogstraat 1-3,"di t/m zo 13.30-16.30 u, 1 jan, 1e Paas- en Pinksterdag, 25 + 31 dec gesloten.",51.9217716,4.2531255
+"Zuid-Holland","NOORDWIJK","Museum Noordwijk","/museum/Museum+Noordwijk.aspx",Jan Kroonsplein  4,"apr t/m sep: di-za 11-17 u, zo 14-17 u",52.2442858,4.4313661
+"Zuid-Holland","NOORDWIJK","Space Expo","/museum/Space+Expo.aspx",Keplerlaan 3,"di t/m zo (+ ma in schoolvakanties) 10-17 u
 gesloten op 1 jan + 25 dec",52.21529215,4.42063385391528
-Zuid-Holland,NOORDWIJK,"Streekmuseum Veldzicht","/museum/Streekmuseum+Veldzicht.aspx",Herenweg 114,"apr t/m sept: za-zo 14-17u
+"Zuid-Holland","NOORDWIJK","Streekmuseum Veldzicht","/museum/Streekmuseum+Veldzicht.aspx",Herenweg 114,"apr t/m sept: za-zo 14-17u
 
 ",52.2197097,4.4389181
-Zuid-Holland,RIJNSBURG,"Het Spinozahuis","/museum/Het+Spinozahuis.aspx",Spinozalaan 29,"dit/mzo 13-17
+"Zuid-Holland","RIJNSBURG","Het Spinozahuis","/museum/Het+Spinozahuis.aspx",Spinozalaan 29,"dit/mzo 13-17
 
 ",52.191451,4.4371262988294
-Zuid-Holland,RIJSWIJK,"Museum Rijswijk","/museum/Museum+Rijswijk.aspx",Herenstraat  67,"di t/m zo 11-17 u",52.0555024,4.33505060799306
-Zuid-Holland,ROTTERDAM,"Belasting & Douane Museum","/museum/Belasting+%26+Douane+Museum.aspx",Parklaan 14 - 16,"di t/m zo + feestdagen 11-17 u
+"Zuid-Holland","RIJSWIJK","Museum Rijswijk","/museum/Museum+Rijswijk.aspx",Herenstraat  67,"di t/m zo 11-17 u",52.0555024,4.33505060799306
+"Zuid-Holland","ROTTERDAM","Belasting & Douane Museum","/museum/Belasting+%26+Douane+Museum.aspx",Parklaan 14 - 16,"di t/m zo + feestdagen 11-17 u
 gesloten op 1 jan, 1e Paas- en Pinksterdag, 27 apr + 25 dec",51.9084449,4.4772711
-Zuid-Holland,ROTTERDAM,"Chabot Museum","/museum/Chabot+Museum.aspx",Museumpark  11,"di t/m vr 11-16.30 u, za 11-17 u, zo 12-17 u
+"Zuid-Holland","ROTTERDAM","Chabot Museum","/museum/Chabot+Museum.aspx",Museumpark  11,"di t/m vr 11-16.30 u, za 11-17 u, zo 12-17 u
 
 ",51.91473535,4.4723363338141
-Zuid-Holland,ROTTERDAM,"Feyenoord Museum","/museum/Feyenoord+Museum.aspx",Van Zandvlietplein 1,"start rondleidingen:
+"Zuid-Holland","ROTTERDAM","Feyenoord Museum","/museum/Feyenoord+Museum.aspx",Van Zandvlietplein 1,"start rondleidingen:
 wo: 12.30 + 14.30 u, do t/m za: 10.30, 12.30 + 14.30 u
 tijdens vakanties extra rondleidingen",51.8943364,4.5246984
-Zuid-Holland,ROTTERDAM,"Natuurhistorisch Museum Rotterdam","/museum/Natuurhistorisch+Museum+Rotterdam.aspx",Westzeedijk 345 (Museumpark),"di t/m za 11-17 u
+"Zuid-Holland","ROTTERDAM","Natuurhistorisch Museum Rotterdam","/museum/Natuurhistorisch+Museum+Rotterdam.aspx",Westzeedijk 345 (Museumpark),"di t/m za 11-17 u
 gesloten op ma, 1 jan, 27 apr + 25 dec",None,None
-Zuid-Holland,ROTTERDAM,"Het Nieuwe Instituut","/museum/Het+Nieuwe+Instituut.aspx",Museumpark 25,"di t/m zo 11-17 u, di 11-21 u",51.9144881,4.4709866
-Zuid-Holland,ROTTERDAM,"Kunsthal  Rotterdam","/museum/Kunsthal++Rotterdam.aspx",Westzeedijk 341,"di t/m za 10-17 u, zo + feestdagen 11-17 u
+"Zuid-Holland","ROTTERDAM","Het Nieuwe Instituut","/museum/Het+Nieuwe+Instituut.aspx",Museumpark 25,"di t/m zo 11-17 u, di 11-21 u",51.9144881,4.4709866
+"Zuid-Holland","ROTTERDAM","Kunsthal  Rotterdam","/museum/Kunsthal++Rotterdam.aspx",Westzeedijk 341,"di t/m za 10-17 u, zo + feestdagen 11-17 u
 gesloten op 1 jan, 27 apr + 25 dec",51.91081945,4.47341215169536
-Zuid-Holland,ROTTERDAM,"Mariniersmuseum","/museum/Mariniersmuseum.aspx",Wijnhaven 7-13,"di t/m vr 10-17 u, za, zo 11-17 u
+"Zuid-Holland","ROTTERDAM","Mariniersmuseum","/museum/Mariniersmuseum.aspx",Wijnhaven 7-13,"di t/m vr 10-17 u, za, zo 11-17 u
 ! tijdens schoolvakanties regio midden ook op maandag open
 gesloten op 1 jan, 1e Paas- en Pinksterdag, 27 apr, 5 mei, Hemelvaart + 25 dec",51.9187157,4.4915635
-Zuid-Holland,ROTTERDAM,"Maritiem Museum Rotterdam","/museum/Maritiem+Museum+Rotterdam.aspx",Leuvehaven 1,"di t/m za, ma in jul en aug + in schoolvakanties 10-17 u, zo + feestdagen 11-17 u, gesloten op 1 jan, 27 apr + 25 dec
+"Zuid-Holland","ROTTERDAM","Maritiem Museum Rotterdam","/museum/Maritiem+Museum+Rotterdam.aspx",Leuvehaven 1,"di t/m za, ma in jul en aug + in schoolvakanties 10-17 u, zo + feestdagen 11-17 u, gesloten op 1 jan, 27 apr + 25 dec
 
 kades en steigers: di t/m zo, gratis. Dagelijks zijn er wisselende schepen en kranen open tot 16 u die je met een entreekaartje van het museum kunt bezoeken. Meer info bij museumbalie.",51.9175645,4.4822038
-Zuid-Holland,ROTTERDAM,"Museum Boijmans Van Beuningen","/museum/Museum+Boijmans+Van+Beuningen.aspx",Museumpark 18-20,"di t/m zo + 1e Paasdag en 1e Pinksterdag 11-17 u
+"Zuid-Holland","ROTTERDAM","Museum Boijmans Van Beuningen","/museum/Museum+Boijmans+Van+Beuningen.aspx",Museumpark 18-20,"di t/m zo + 1e Paasdag en 1e Pinksterdag 11-17 u
 gesloten op 1 jan, 27 apr + 25 dec",51.9140053,4.47333364903821
-Zuid-Holland,ROTTERDAM,"Museum Rotterdam ","/museum/Museum+Rotterdam+.aspx",Rodezand 26,"di t/m za, 10-17 u, zon- + feestdagen, 11-17 u
+"Zuid-Holland","ROTTERDAM","Museum Rotterdam ","/museum/Museum+Rotterdam+.aspx",Rodezand 26,"di t/m za, 10-17 u, zon- + feestdagen, 11-17 u
 gesloten op 1 jan, Koningsdag + 25 dec",51.9220797,4.4813087
-Zuid-Holland,ROTTERDAM,"Museum Rotterdam ’40-’45 NU","/museum/Museum+Rotterdam+%e2%80%9940-%e2%80%9945+NU.aspx",Coolhaven 375,"za, 10-17 u, zon- en feestdagen, 11-17 u
+"Zuid-Holland","ROTTERDAM","Museum Rotterdam ’40-’45 NU","/museum/Museum+Rotterdam+%e2%80%9940-%e2%80%9945+NU.aspx",Coolhaven 375,"za, 10-17 u, zon- en feestdagen, 11-17 u
 gesloten op 1 jan, 27 apr + 25 dec",51.908749,4.4580834
-Zuid-Holland,ROTTERDAM,"Nederlands Fotomuseum","/museum/Nederlands+Fotomuseum.aspx",Wilhelminakade 332,"di t/m zo, 11-17 u
+"Zuid-Holland","ROTTERDAM","Nederlands Fotomuseum","/museum/Nederlands+Fotomuseum.aspx",Wilhelminakade 332,"di t/m zo, 11-17 u
 gesloten op 1 jan, 27 apr + 25 dec",51.9054088,4.4868763
-Zuid-Holland,ROTTERDAM,"TENT","/museum/TENT.aspx",Witte de Withstraat 50,"di-zo 11-18 u
+"Zuid-Holland","ROTTERDAM","TENT","/museum/TENT.aspx",Witte de Withstraat 50,"di-zo 11-18 u
 gesloten op 1 jan, 27 apr + 25 dec",51.9154685,4.4770692
-Zuid-Holland,ROTTERDAM,"Trompenburg Tuinen & Arboretum","/museum/Trompenburg+Tuinen+%26+Arboretum.aspx",Honingerdijk 86,"apr t/m okt
+"Zuid-Holland","ROTTERDAM","Trompenburg Tuinen & Arboretum","/museum/Trompenburg+Tuinen+%26+Arboretum.aspx",Honingerdijk 86,"apr t/m okt
 ma: 12-17 u, di t/m vr: 10-17 u, za + zo: 10-17 u
 
 nov t/m mrt
 ma: 12-16 u, di t/m vr: 10-16 u, za + zo: 12-16 u
 
 Goede Vrijdag, 1e + 2e Paasdag, 27 apr, Hemelvaartsdag, 1e + 2e Pinksterdag, 5 mei: 10-17 u",51.9182717,4.5177961
-Zuid-Holland,ROTTERDAM,"Wereldmuseum Rotterdam","/museum/Wereldmuseum+Rotterdam.aspx",Willemskade 25,"di t/m zo 10.30-17.30 u, 1 jan, 27 apr + 25 dec gesloten",51.9080046,4.4806256
-Zuid-Holland,ROTTERDAM,"Witte de With, Hedendaagse Kunst","/museum/Witte+de+With%2c+Hedendaagse+Kunst.aspx",Witte de Withstraat  50,"di t/m zo, 11-18 u
+"Zuid-Holland","ROTTERDAM","Wereldmuseum Rotterdam","/museum/Wereldmuseum+Rotterdam.aspx",Willemskade 25,"di t/m zo 10.30-17.30 u, 1 jan, 27 apr + 25 dec gesloten",51.9080046,4.4806256
+"Zuid-Holland","ROTTERDAM","Witte de With, Hedendaagse Kunst","/museum/Witte+de+With%2c+Hedendaagse+Kunst.aspx",Witte de Withstraat  50,"di t/m zo, 11-18 u
 gesloten op ma (behalve Paas- en Pinkstermaandag), 1 jan, 27 apr + 25 dec",51.9154685,4.4770692
-Zuid-Holland,SCHEVENINGEN,"Muzee Scheveningen","/museum/Muzee+Scheveningen.aspx",Neptunusstraat 92,"di t/m za 10-17 u, zo 12-17 u
+"Zuid-Holland","SCHEVENINGEN","Muzee Scheveningen","/museum/Muzee+Scheveningen.aspx",Neptunusstraat 92,"di t/m za 10-17 u, zo 12-17 u
 gesloten op 1 jan + 25 dec
  ",52.1081755,4.2827338040726
-Zuid-Holland,SCHIEDAM,"Museummolen en molenwinkel De Walvisch","/museum/Museummolen+en+molenwinkel+De+Walvisch.aspx",Westvest 229,"di t/m zo, 11-17 u 
+"Zuid-Holland","SCHIEDAM","Museummolen en molenwinkel De Walvisch","/museum/Museummolen+en+molenwinkel+De+Walvisch.aspx",Westvest 229,"di t/m zo, 11-17 u 
 gesloten op 1 jan, 27 apr, 25 + 26 dec",51.9156785,4.3951451
-Zuid-Holland,SCHIEDAM,"Jenevermuseum","/museum/Jenevermuseum.aspx",Lange Haven  74,"di t/m zo, 11-17 u
+"Zuid-Holland","SCHIEDAM","Jenevermuseum","/museum/Jenevermuseum.aspx",Lange Haven  74,"di t/m zo, 11-17 u
 gesloten op 1 jan, 27 apr, 25 + 26 dec",51.9152316,4.3973126
-Zuid-Holland,SCHIEDAM,"Stedelijk Museum Schiedam","/museum/Stedelijk+Museum+Schiedam.aspx",Hoogstraat 112,"di t/m zo, 11 - 17 u",51.9157917,4.3978735
-Zuid-Holland,SCHOONHOVEN,"Nederlands Zilvermuseum","/museum/Nederlands+Zilvermuseum.aspx",Kazerneplein  4,"di t/m zo + feestdagen 11-17 u
+"Zuid-Holland","SCHIEDAM","Stedelijk Museum Schiedam","/museum/Stedelijk+Museum+Schiedam.aspx",Hoogstraat 112,"di t/m zo, 11 - 17 u",51.9157917,4.3978735
+"Zuid-Holland","SCHOONHOVEN","Nederlands Zilvermuseum","/museum/Nederlands+Zilvermuseum.aspx",Kazerneplein  4,"di t/m zo + feestdagen 11-17 u
 op aanvraag open voor groepen op ma + buiten openingstijden",51.947165,4.8523087
-Zuid-Holland,SLIEDRECHT,"Nationaal Baggermuseum","/museum/Nationaal+Baggermuseum.aspx",Molendijk 204-208,"di t/m vr 14-17 u, za 11-17 u
+"Zuid-Holland","SLIEDRECHT","Nationaal Baggermuseum","/museum/Nationaal+Baggermuseum.aspx",Molendijk 204-208,"di t/m vr 14-17 u, za 11-17 u
 gesloten op feestdagen",51.8244,4.7585
-Zuid-Holland,VLAARDINGEN,"Museum Vlaardingen","/museum/Museum+Vlaardingen.aspx",Westhavenkade 56,"di t/m za: 10-17 u, zo + feestdagen: 12-17 u
+"Zuid-Holland","VLAARDINGEN","Museum Vlaardingen","/museum/Museum+Vlaardingen.aspx",Westhavenkade 56,"di t/m za: 10-17 u, zo + feestdagen: 12-17 u
 gesloten op 1 jan, Eerste Paasdag, 27 apr, Hemelvaartsdag, Eerste Pinksterdag + 25 dec",51.9056588,4.3453249
-Zuid-Holland,VOORBURG,"Huygens' Hofwijck","/museum/Huygens%27+Hofwijck.aspx",Westeinde  2 A,"zie website voor actuele openingstijden",52.0654434,4.3601442
-Zuid-Holland,VOORBURG,"Museum Swaensteyn","/museum/Museum+Swaensteyn.aspx",Herenstraat  101,"wo t/m zo, 13-17 u
+"Zuid-Holland","VOORBURG","Huygens' Hofwijck","/museum/Huygens%27+Hofwijck.aspx",Westeinde  2 A,"zie website voor actuele openingstijden",52.0654434,4.3601442
+"Zuid-Holland","VOORBURG","Museum Swaensteyn","/museum/Museum+Swaensteyn.aspx",Herenstraat  101,"wo t/m zo, 13-17 u
 gesloten op nationale feestdagen",52.0672856,4.3636863
-Zuid-Holland,VOORSCHOTEN,"Kasteel Duivenvoorde","/museum/Kasteel+Duivenvoorde.aspx",Laan van Duivenvoorde 4,"14 apr t/m 26 okt
+"Zuid-Holland","VOORSCHOTEN","Kasteel Duivenvoorde","/museum/Kasteel+Duivenvoorde.aspx",Laan van Duivenvoorde 4,"14 apr t/m 26 okt
 di t/m zo rondleidingen om 14 en 15.30 u",52.1092,4.4244
-Zuid-Holland,ZOETERMEER,"Stadsmuseum Zoetermeer","/museum/Stadsmuseum+Zoetermeer.aspx",Dorpsstraat 7,"di t/m do 10-16 u, za + zo 13-17 u
+"Zuid-Holland","ZOETERMEER","Stadsmuseum Zoetermeer","/museum/Stadsmuseum+Zoetermeer.aspx",Dorpsstraat 7,"di t/m do 10-16 u, za + zo 13-17 u
 gesloten op 1 jan + 25 dec",52.0571924,4.4942325
