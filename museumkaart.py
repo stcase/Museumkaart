@@ -22,7 +22,7 @@ def write_csv(data):
                     url = museum["link"]
                     address, hours = get_address_hours(url)
                     lat, long = get_lat_long(f"{address}, {city}, {province}, Netherlands")
-                    f.write(f'"{province}","{city}","{name}","{url}",{address},"{hours}",{lat},{long}\n')
+                    f.write(f'"{province}","{city}","{name}","{url}","{address}","{hours}",{lat},{long}\n')
                     print("  " + name)
 
 def get_address_hours(url):
